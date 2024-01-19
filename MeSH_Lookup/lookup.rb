@@ -39,9 +39,12 @@ end
 
 File.open(ARGV[1]).each do |line|
   id = line.strip
-  next if id.empty?
+  if id.empty?
+    puts ","
+    next 
+  end
   uri = "http://purl.bioontology.org/ontology/MESH/#{id}"
   n = NCBO.new(uri: uri)
   term = n.lookup_title
-  puts term
+  puts "#{id},#{term}"
 end
