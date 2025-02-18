@@ -25,22 +25,22 @@ No URI found for 6-PYRUVOYLTETRAHYDROPTERIN SYNTHASE
 No URI found for AAA
 No URI found for AAA ATPASE
 DDC, http://purl.uniprot.org/uniprot/P20711, Aromatic-L-amino-acid decarboxylase
-DDC, http://purl.uniprot.org/uniprot/P20711, Aromatic-L-amino-acid decarboxylase
+AADC, http://purl.uniprot.org/uniprot/P20711, Aromatic-L-amino-acid decarboxylase
 No URI found for AAO
 No URI found for AASS
 ABAT, http://purl.uniprot.org/uniprot/P80404, 4-aminobutyrate aminotransferase, mitochondrial
-ABAT, http://purl.uniprot.org/uniprot/P80404, 4-aminobutyrate aminotransferase, mitochondrial
+GABAT, http://purl.uniprot.org/uniprot/P80404, 4-aminobutyrate aminotransferase, mitochondrial
 No URI found for ABC
 ABCD1, http://purl.uniprot.org/uniprot/P33897, ATP-binding cassette sub-family D member 1
-ABCD1, http://purl.uniprot.org/uniprot/P33897, ATP-binding cassette sub-family D member 1
+ALD, http://purl.uniprot.org/uniprot/P33897, ATP-binding cassette sub-family D member 1
 ABCD3, http://purl.uniprot.org/uniprot/P28288, ATP-binding cassette sub-family D member 3
-ABCD3, http://purl.uniprot.org/uniprot/P28288, ATP-binding cassette sub-family D member 3
-ABCD3, http://purl.uniprot.org/uniprot/P28288, ATP-binding cassette sub-family D member 3
+PMP70, http://purl.uniprot.org/uniprot/P28288, ATP-binding cassette sub-family D member 3
+PXMP1, http://purl.uniprot.org/uniprot/P28288, ATP-binding cassette sub-family D member 3
 ACAA1, http://purl.uniprot.org/uniprot/P09110, 3-ketoacyl-CoA thiolase, peroxisomal
-ACAA1, http://purl.uniprot.org/uniprot/P09110, 3-ketoacyl-CoA thiolase, peroxisomal
-ACAA1, http://purl.uniprot.org/uniprot/P09110, 3-ketoacyl-CoA thiolase, peroxisomal
+ACAA, http://purl.uniprot.org/uniprot/P09110, 3-ketoacyl-CoA thiolase, peroxisomal
+PTHIO, http://purl.uniprot.org/uniprot/P09110, 3-ketoacyl-CoA thiolase, peroxisomal
 ACADVL, http://purl.uniprot.org/uniprot/P49748, Very long-chain specific acyl-CoA dehydrogenase, mitochondrial
-ACADVL, http://purl.uniprot.org/uniprot/P49748, Very long-chain specific acyl-CoA dehydrogenase, mitochondrial
+VLCAD, http://purl.uniprot.org/uniprot/P49748, Very long-chain specific acyl-CoA dehydrogenase, mitochondrial
 No URI found for ACETYL-COA C-ACETYLTRANSFERASE
 No URI found for ACETYL-COA C-ACYLTRANSFERASE
 No URI found for ACETYLCHOLINE ESTERASE
@@ -65,11 +65,11 @@ No URI found for ACHE
 No URI found for ACHR
 No URI found for ACO2
 ACOX1, http://purl.uniprot.org/uniprot/Q15067, Peroxisomal acyl-coenzyme A oxidase 1
-ACOX1, http://purl.uniprot.org/uniprot/Q15067, Peroxisomal acyl-coenzyme A oxidase 1
+ACOX, http://purl.uniprot.org/uniprot/Q15067, Peroxisomal acyl-coenzyme A oxidase 1
 No URI found for ACOX2
 ACOX3, http://purl.uniprot.org/uniprot/O15254, Peroxisomal acyl-coenzyme A oxidase 3
-ACOX3, http://purl.uniprot.org/uniprot/O15254, Peroxisomal acyl-coenzyme A oxidase 3
-ACOX3, http://purl.uniprot.org/uniprot/O15254, Peroxisomal acyl-coenzyme A oxidase 3
+BRCOX, http://purl.uniprot.org/uniprot/O15254, Peroxisomal acyl-coenzyme A oxidase 3
+PRCOX, http://purl.uniprot.org/uniprot/O15254, Peroxisomal acyl-coenzyme A oxidase 3
 No URI found for ACTH
 No URI found for ACTIN
 No URI found for ACYL COA DEHYDROGENASE
@@ -90,21 +90,21 @@ No URI found for ADCA
 ADSL, http://purl.uniprot.org/uniprot/P30566, Adenylosuccinate lyase
 AMPS, http://purl.uniprot.org/uniprot/P30566, Adenylosuccinate lyase
 ADRB2, http://purl.uniprot.org/uniprot/P07550, Beta-2 adrenergic receptor
-ADRB2, http://purl.uniprot.org/uniprot/P07550, Beta-2 adrenergic receptor
-ADRB2, http://purl.uniprot.org/uniprot/P07550, Beta-2 adrenergic receptor
+ADRB2R, http://purl.uniprot.org/uniprot/P07550, Beta-2 adrenergic receptor
+B2AR, http://purl.uniprot.org/uniprot/P07550, Beta-2 adrenergic receptor
 MC2R, http://purl.uniprot.org/uniprot/Q01718, Adrenocorticotropic hormone receptor
 ACTHR, http://purl.uniprot.org/uniprot/Q01718, Adrenocorticotropic hormone receptor
 No URI found for ADRENOLEUKODYSTROPHY PROTEIN
 ADSL, http://purl.uniprot.org/uniprot/P30566, Adenylosuccinate lyase
-ADSL, http://purl.uniprot.org/uniprot/P30566, Adenylosuccinate lyase
+AMPS, http://purl.uniprot.org/uniprot/P30566, Adenylosuccinate lyase
 No URI found for AGP
 No URI found for AGPS
 AGRN, http://purl.uniprot.org/uniprot/O00468, Agrin
+AGRIN, http://purl.uniprot.org/uniprot/O00468, Agrin
 AGRN, http://purl.uniprot.org/uniprot/O00468, Agrin
-AGRN, http://purl.uniprot.org/uniprot/O00468, Agrin
-AGRN, http://purl.uniprot.org/uniprot/O00468, Agrin
+AGRIN, http://purl.uniprot.org/uniprot/O00468, Agrin
 FBF1, http://purl.uniprot.org/uniprot/Q8TES7, Fas-binding factor 1
-FBF1, http://purl.uniprot.org/uniprot/Q8TES7, Fas-binding factor 1
+ALB, http://purl.uniprot.org/uniprot/Q8TES7, Fas-binding factor 1
 No URI found for ALBUMIN
 ADH5, http://purl.uniprot.org/uniprot/P11766, Alcohol dehydrogenase class-3
 FDH, http://purl.uniprot.org/uniprot/P11766, Alcohol dehydrogenase class-3
@@ -112,7 +112,7 @@ ADHX, http://purl.uniprot.org/uniprot/P11766, Alcohol dehydrogenase class-3
 ADH1, http://purl.uniprot.org/uniprot/P07327, Alcohol dehydrogenase 1A
 ADH3, http://purl.uniprot.org/uniprot/P00326, Alcohol dehydrogenase 1C
 ABCD1, http://purl.uniprot.org/uniprot/P33897, ATP-binding cassette sub-family D member 1
-ABCD1, http://purl.uniprot.org/uniprot/P33897, ATP-binding cassette sub-family D member 1
+ALD, http://purl.uniprot.org/uniprot/P33897, ATP-binding cassette sub-family D member 1
 ALDH2, http://purl.uniprot.org/uniprot/P05091, Aldehyde dehydrogenase, mitochondrial
 ALDM, http://purl.uniprot.org/uniprot/P05091, Aldehyde dehydrogenase, mitochondrial
 ALDH7, http://purl.uniprot.org/uniprot/P43353, Aldehyde dehydrogenase family 3 member B1
@@ -143,34 +143,34 @@ AFAR3, http://purl.uniprot.org/uniprot/Q8NHP1, Aflatoxin B1 aldehyde reductase m
 AKR7A4, http://purl.uniprot.org/uniprot/Q8NHP1, Aflatoxin B1 aldehyde reductase member 4
 No URI found for ALDH
 ALDH2, http://purl.uniprot.org/uniprot/P05091, Aldehyde dehydrogenase, mitochondrial
-ALDH2, http://purl.uniprot.org/uniprot/P05091, Aldehyde dehydrogenase, mitochondrial
+ALDM, http://purl.uniprot.org/uniprot/P05091, Aldehyde dehydrogenase, mitochondrial
 ALDH3A2, http://purl.uniprot.org/uniprot/P51648, Aldehyde dehydrogenase family 3 member A2
-ALDH3A2, http://purl.uniprot.org/uniprot/P51648, Aldehyde dehydrogenase family 3 member A2
-ALDH3A2, http://purl.uniprot.org/uniprot/P51648, Aldehyde dehydrogenase family 3 member A2
+FALDH, http://purl.uniprot.org/uniprot/P51648, Aldehyde dehydrogenase family 3 member A2
+ALDH10, http://purl.uniprot.org/uniprot/P51648, Aldehyde dehydrogenase family 3 member A2
 ALDH4A1, http://purl.uniprot.org/uniprot/P30038, Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial
-ALDH4A1, http://purl.uniprot.org/uniprot/P30038, Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial
-ALDH4A1, http://purl.uniprot.org/uniprot/P30038, Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial
+ALDH4, http://purl.uniprot.org/uniprot/P30038, Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial
+P5CDH, http://purl.uniprot.org/uniprot/P30038, Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial
 ALDH5A1, http://purl.uniprot.org/uniprot/P51649, Succinate-semialdehyde dehydrogenase, mitochondrial
-ALDH5A1, http://purl.uniprot.org/uniprot/P51649, Succinate-semialdehyde dehydrogenase, mitochondrial
+SSADH, http://purl.uniprot.org/uniprot/P51649, Succinate-semialdehyde dehydrogenase, mitochondrial
 ALDH6A1, http://purl.uniprot.org/uniprot/Q02252, Methylmalonate-semialdehyde/malonate-semialdehyde dehydrogenase [acylating], mitochondrial
-ALDH6A1, http://purl.uniprot.org/uniprot/Q02252, Methylmalonate-semialdehyde/malonate-semialdehyde dehydrogenase [acylating], mitochondrial
+MMSDH, http://purl.uniprot.org/uniprot/Q02252, Methylmalonate-semialdehyde/malonate-semialdehyde dehydrogenase [acylating], mitochondrial
 ALDH7A1, http://purl.uniprot.org/uniprot/P49419, Alpha-aminoadipic semialdehyde dehydrogenase
-ALDH7A1, http://purl.uniprot.org/uniprot/P49419, Alpha-aminoadipic semialdehyde dehydrogenase
+ATQ1, http://purl.uniprot.org/uniprot/P49419, Alpha-aminoadipic semialdehyde dehydrogenase
 ALDH9A1, http://purl.uniprot.org/uniprot/P49189, 4-trimethylaminobutyraldehyde dehydrogenase
-ALDH9A1, http://purl.uniprot.org/uniprot/P49189, 4-trimethylaminobutyraldehyde dehydrogenase
-ALDH9A1, http://purl.uniprot.org/uniprot/P49189, 4-trimethylaminobutyraldehyde dehydrogenase
-ALDH9A1, http://purl.uniprot.org/uniprot/P49189, 4-trimethylaminobutyraldehyde dehydrogenase
+ALDH4, http://purl.uniprot.org/uniprot/P49189, 4-trimethylaminobutyraldehyde dehydrogenase
+ALDH7, http://purl.uniprot.org/uniprot/P49189, 4-trimethylaminobutyraldehyde dehydrogenase
+ALDH9, http://purl.uniprot.org/uniprot/P49189, 4-trimethylaminobutyraldehyde dehydrogenase
 No URI found for ALDOSE REDUCTASE
 No URI found for ALDP
 ALG1, http://purl.uniprot.org/uniprot/Q9BT22, Chitobiosyldiphosphodolichol beta-mannosyltransferase
-ALG1, http://purl.uniprot.org/uniprot/Q9BT22, Chitobiosyldiphosphodolichol beta-mannosyltransferase
-ALG1, http://purl.uniprot.org/uniprot/Q9BT22, Chitobiosyldiphosphodolichol beta-mannosyltransferase
+HMT1, http://purl.uniprot.org/uniprot/Q9BT22, Chitobiosyldiphosphodolichol beta-mannosyltransferase
+HMAT1, http://purl.uniprot.org/uniprot/Q9BT22, Chitobiosyldiphosphodolichol beta-mannosyltransferase
 No URI found for ALG14
 PDCD6, http://purl.uniprot.org/uniprot/O75340, Programmed cell death protein 6
-PDCD6, http://purl.uniprot.org/uniprot/O75340, Programmed cell death protein 6
+ALG2, http://purl.uniprot.org/uniprot/O75340, Programmed cell death protein 6
 ALG3, http://purl.uniprot.org/uniprot/Q92685, Dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase
-ALG3, http://purl.uniprot.org/uniprot/Q92685, Dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase
-ALG3, http://purl.uniprot.org/uniprot/Q92685, Dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase
+NOT, http://purl.uniprot.org/uniprot/Q92685, Dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase
+NOT56L, http://purl.uniprot.org/uniprot/Q92685, Dol-P-Man:Man(5)GlcNAc(2)-PP-Dol alpha-1,3-mannosyltransferase
 No URI found for ALG6
 ALPG, http://purl.uniprot.org/uniprot/P10696, Alkaline phosphatase, germ cell type
 ALPPL, http://purl.uniprot.org/uniprot/P10696, Alkaline phosphatase, germ cell type
@@ -178,9 +178,9 @@ ALPPL2, http://purl.uniprot.org/uniprot/P10696, Alkaline phosphatase, germ cell 
 PLAP, http://purl.uniprot.org/uniprot/P05187, Alkaline phosphatase, placental type
 No URI found for ALKYL-DIHYDROXYACETONEPHOSPHATE SYNTHASE
 NAT10, http://purl.uniprot.org/uniprot/Q9H0A0, RNA cytidine acetyltransferase
-NAT10, http://purl.uniprot.org/uniprot/Q9H0A0, RNA cytidine acetyltransferase
-PDLIM3, http://purl.uniprot.org/uniprot/Q53GG5, PDZ and LIM domain protein 3
-ASRGL1, http://purl.uniprot.org/uniprot/Q7L266, Isoaspartyl peptidase/L-asparaginase
+ALP, http://purl.uniprot.org/uniprot/Q9H0A0, RNA cytidine acetyltransferase
+ALP, http://purl.uniprot.org/uniprot/Q53GG5, PDZ and LIM domain protein 3
+ALP, http://purl.uniprot.org/uniprot/Q7L266, Isoaspartyl peptidase/L-asparaginase
 No URI found for ALPHA-1
 ALDH7A1, http://purl.uniprot.org/uniprot/P49419, Alpha-aminoadipic semialdehyde dehydrogenase
 ATQ1, http://purl.uniprot.org/uniprot/P49419, Alpha-aminoadipic semialdehyde dehydrogenase
@@ -210,9 +210,9 @@ PARK1, http://purl.uniprot.org/uniprot/P37840, Alpha-synuclein
 NACP, http://purl.uniprot.org/uniprot/P37840, Alpha-synuclein
 No URI found for ALPL
 ALPP, http://purl.uniprot.org/uniprot/P05187, Alkaline phosphatase, placental type
-ALPP, http://purl.uniprot.org/uniprot/P05187, Alkaline phosphatase, placental type
+PLAP, http://purl.uniprot.org/uniprot/P05187, Alkaline phosphatase, placental type
 IGFALS, http://purl.uniprot.org/uniprot/P35858, Insulin-like growth factor-binding protein complex acid labile subunit
-IGFALS, http://purl.uniprot.org/uniprot/P35858, Insulin-like growth factor-binding protein complex acid labile subunit
+ALS, http://purl.uniprot.org/uniprot/P35858, Insulin-like growth factor-binding protein complex acid labile subunit
 GATM, http://purl.uniprot.org/uniprot/P50440, Glycine amidinotransferase, mitochondrial
 AGAT, http://purl.uniprot.org/uniprot/P50440, Glycine amidinotransferase, mitochondrial
 No URI found for AMINO ACID DECARBOXYLASE
@@ -226,7 +226,7 @@ SERPINC1, http://purl.uniprot.org/uniprot/P01008, Antithrombin-III
 AT3, http://purl.uniprot.org/uniprot/P01008, Antithrombin-III
 No URI found for ANTITHROMBIN III
 APOC2, http://purl.uniprot.org/uniprot/P02655, Apolipoprotein C-II
-APOC2, http://purl.uniprot.org/uniprot/P02655, Apolipoprotein C-II
+APC2, http://purl.uniprot.org/uniprot/P02655, Apolipoprotein C-II
 No URI found for APOC3
 No URI found for APOE
 APOC2, http://purl.uniprot.org/uniprot/P02655, Apolipoprotein C-II
@@ -239,20 +239,20 @@ GOT2, http://purl.uniprot.org/uniprot/P00505, Aspartate aminotransferase, mitoch
 KYAT4, http://purl.uniprot.org/uniprot/P00505, Aspartate aminotransferase, mitochondrial
 No URI found for ASPARTATE-TRNA LIGASE
 ASS1, http://purl.uniprot.org/uniprot/P00966, Argininosuccinate synthase
-ASS1, http://purl.uniprot.org/uniprot/P00966, Argininosuccinate synthase
+ASS, http://purl.uniprot.org/uniprot/P00966, Argininosuccinate synthase
 No URI found for AT2G23390
 SERPINC1, http://purl.uniprot.org/uniprot/P01008, Antithrombin-III
-SERPINC1, http://purl.uniprot.org/uniprot/P01008, Antithrombin-III
+AT3, http://purl.uniprot.org/uniprot/P01008, Antithrombin-III
 No URI found for ATAXIN 3
 No URI found for ATAXIN-1
 No URI found for ATAXIN-2
 No URI found for ATAXIN-3
 No URI found for ATAXIN-7
 ATCAY, http://purl.uniprot.org/uniprot/Q86WG3, Caytaxin
-ATCAY, http://purl.uniprot.org/uniprot/Q86WG3, Caytaxin
+KIAA1872, http://purl.uniprot.org/uniprot/Q86WG3, Caytaxin
 ATN1, http://purl.uniprot.org/uniprot/P54259, Atrophin-1
-ATN1, http://purl.uniprot.org/uniprot/P54259, Atrophin-1
-ATN1, http://purl.uniprot.org/uniprot/P54259, Atrophin-1
+DRPLA, http://purl.uniprot.org/uniprot/P54259, Atrophin-1
+D12S755E, http://purl.uniprot.org/uniprot/P54259, Atrophin-1
 ATP5MC2, http://purl.uniprot.org/uniprot/Q06055, ATP synthase F(0) complex subunit C2, mitochondrial
 ATP5G2, http://purl.uniprot.org/uniprot/Q06055, ATP synthase F(0) complex subunit C2, mitochondrial
 FAM173B, http://purl.uniprot.org/uniprot/Q6P4H8, ATP synthase subunit C lysine N-methyltransferase
@@ -304,15 +304,15 @@ ATP5K2, http://purl.uniprot.org/uniprot/Q7Z4Y8, Putative ATP synthase subunit g 
 ATP5L2, http://purl.uniprot.org/uniprot/Q7Z4Y8, Putative ATP synthase subunit g 2, mitochondrial
 No URI found for ATP2A1
 MT-ATP6, http://purl.uniprot.org/uniprot/P00846, ATP synthase subunit a
-MT-ATP6, http://purl.uniprot.org/uniprot/P00846, ATP synthase subunit a
+ATP6, http://purl.uniprot.org/uniprot/P00846, ATP synthase subunit a
 ATP6AP1, http://purl.uniprot.org/uniprot/Q15904, V-type proton ATPase subunit S1
-ATP6AP1, http://purl.uniprot.org/uniprot/Q15904, V-type proton ATPase subunit S1
-ATP6AP1, http://purl.uniprot.org/uniprot/Q15904, V-type proton ATPase subunit S1
-ATP6AP1, http://purl.uniprot.org/uniprot/Q15904, V-type proton ATPase subunit S1
-ATP6AP1, http://purl.uniprot.org/uniprot/Q15904, V-type proton ATPase subunit S1
+VATPS1, http://purl.uniprot.org/uniprot/Q15904, V-type proton ATPase subunit S1
+ATP6S1, http://purl.uniprot.org/uniprot/Q15904, V-type proton ATPase subunit S1
+ATP6IP1, http://purl.uniprot.org/uniprot/Q15904, V-type proton ATPase subunit S1
+XAP3, http://purl.uniprot.org/uniprot/Q15904, V-type proton ATPase subunit S1
 No URI found for ATP6V0A2
 MT-ATP6, http://purl.uniprot.org/uniprot/P00846, ATP synthase subunit a
-MT-ATP6, http://purl.uniprot.org/uniprot/P00846, ATP synthase subunit a
+ATPASE6, http://purl.uniprot.org/uniprot/P00846, ATP synthase subunit a
 No URI found for ATQ
 ATN1, http://purl.uniprot.org/uniprot/P54259, Atrophin-1
 DRPLA, http://purl.uniprot.org/uniprot/P54259, Atrophin-1
@@ -320,37 +320,37 @@ D12S755E, http://purl.uniprot.org/uniprot/P54259, Atrophin-1
 PRTPHN1, http://purl.uniprot.org/uniprot/Q58EX7, Puratrophin-1
 No URI found for ATX-3
 ATXN3, http://purl.uniprot.org/uniprot/P54252, Ataxin-3
-ATXN3, http://purl.uniprot.org/uniprot/P54252, Ataxin-3
+ATX3, http://purl.uniprot.org/uniprot/P54252, Ataxin-3
 ATXN1, http://purl.uniprot.org/uniprot/P54253, Ataxin-1
-ATXN1, http://purl.uniprot.org/uniprot/P54253, Ataxin-1
-ATXN1, http://purl.uniprot.org/uniprot/P54253, Ataxin-1
+SCA1, http://purl.uniprot.org/uniprot/P54253, Ataxin-1
+ATX1, http://purl.uniprot.org/uniprot/P54253, Ataxin-1
 ATXN10, http://purl.uniprot.org/uniprot/Q9UBB4, Ataxin-10
-ATXN10, http://purl.uniprot.org/uniprot/Q9UBB4, Ataxin-10
+SCA10, http://purl.uniprot.org/uniprot/Q9UBB4, Ataxin-10
 ATXN2, http://purl.uniprot.org/uniprot/Q99700, Ataxin-2
-ATXN2, http://purl.uniprot.org/uniprot/Q99700, Ataxin-2
-ATXN2, http://purl.uniprot.org/uniprot/Q99700, Ataxin-2
-ATXN2, http://purl.uniprot.org/uniprot/Q99700, Ataxin-2
+SCA2, http://purl.uniprot.org/uniprot/Q99700, Ataxin-2
+ATX2, http://purl.uniprot.org/uniprot/Q99700, Ataxin-2
+TNRC13, http://purl.uniprot.org/uniprot/Q99700, Ataxin-2
 ATXN3, http://purl.uniprot.org/uniprot/P54252, Ataxin-3
-ATXN3, http://purl.uniprot.org/uniprot/P54252, Ataxin-3
-ATXN3, http://purl.uniprot.org/uniprot/P54252, Ataxin-3
-ATXN3, http://purl.uniprot.org/uniprot/P54252, Ataxin-3
-ATXN3, http://purl.uniprot.org/uniprot/P54252, Ataxin-3
+MJD1, http://purl.uniprot.org/uniprot/P54252, Ataxin-3
+ATX3, http://purl.uniprot.org/uniprot/P54252, Ataxin-3
+SCA3, http://purl.uniprot.org/uniprot/P54252, Ataxin-3
+MJD, http://purl.uniprot.org/uniprot/P54252, Ataxin-3
 ATXN7, http://purl.uniprot.org/uniprot/O15265, Ataxin-7
-ATXN7, http://purl.uniprot.org/uniprot/O15265, Ataxin-7
+SCA7, http://purl.uniprot.org/uniprot/O15265, Ataxin-7
 ATXN8OS, http://purl.uniprot.org/uniprot/P0DMR3, Putative protein ATXN8OS
-ATXN8OS, http://purl.uniprot.org/uniprot/P0DMR3, Putative protein ATXN8OS
-ATXN8OS, http://purl.uniprot.org/uniprot/P0DMR3, Putative protein ATXN8OS
+SCA8, http://purl.uniprot.org/uniprot/P0DMR3, Putative protein ATXN8OS
+KLHL1AS, http://purl.uniprot.org/uniprot/P0DMR3, Putative protein ATXN8OS
 BAD, http://purl.uniprot.org/uniprot/Q92934, Bcl2-associated agonist of cell death
-BAD, http://purl.uniprot.org/uniprot/Q92934, Bcl2-associated agonist of cell death
-BAD, http://purl.uniprot.org/uniprot/Q92934, Bcl2-associated agonist of cell death
+BBC6, http://purl.uniprot.org/uniprot/Q92934, Bcl2-associated agonist of cell death
+BCL2L8, http://purl.uniprot.org/uniprot/Q92934, Bcl2-associated agonist of cell death
 BAX, http://purl.uniprot.org/uniprot/Q07812, Apoptosis regulator BAX
-BAX, http://purl.uniprot.org/uniprot/Q07812, Apoptosis regulator BAX
+BCL2L4, http://purl.uniprot.org/uniprot/Q07812, Apoptosis regulator BAX
 CHN2, http://purl.uniprot.org/uniprot/P52757, Beta-chimaerin
-CHN2, http://purl.uniprot.org/uniprot/P52757, Beta-chimaerin
+BCH, http://purl.uniprot.org/uniprot/P52757, Beta-chimaerin
 No URI found for BCL2
 No URI found for BDNF
 BECN1, http://purl.uniprot.org/uniprot/Q14457, Beclin-1
-BECN1, http://purl.uniprot.org/uniprot/Q14457, Beclin-1
+GT197, http://purl.uniprot.org/uniprot/Q14457, Beclin-1
 CTNNBL1, http://purl.uniprot.org/uniprot/Q8WYA6, Beta-catenin-like protein 1
 C20orf33, http://purl.uniprot.org/uniprot/Q8WYA6, Beta-catenin-like protein 1
 ICAT, http://purl.uniprot.org/uniprot/Q9NSA3, Beta-catenin-interacting protein 1
@@ -364,16 +364,16 @@ No URI found for C12ORF65
 No URI found for C2
 No URI found for C22
 C3, http://purl.uniprot.org/uniprot/P01024, Complement C3
-C3, http://purl.uniprot.org/uniprot/P01024, Complement C3
+CPAMD1, http://purl.uniprot.org/uniprot/P01024, Complement C3
 No URI found for C4
 No URI found for C6
 C9orf72, http://purl.uniprot.org/uniprot/Q96LT7, Guanine nucleotide exchange factor C9orf72
-C9orf72, http://purl.uniprot.org/uniprot/Q96LT7, Guanine nucleotide exchange factor C9orf72
-C9orf72, http://purl.uniprot.org/uniprot/Q96LT7, Guanine nucleotide exchange factor C9orf72
+DENND9, http://purl.uniprot.org/uniprot/Q96LT7, Guanine nucleotide exchange factor C9orf72
+DENNL72, http://purl.uniprot.org/uniprot/Q96LT7, Guanine nucleotide exchange factor C9orf72
 CACNA1A, http://purl.uniprot.org/uniprot/O00555, Voltage-dependent P/Q-type calcium channel subunit alpha-1A
-CACNA1A, http://purl.uniprot.org/uniprot/O00555, Voltage-dependent P/Q-type calcium channel subunit alpha-1A
-CACNA1A, http://purl.uniprot.org/uniprot/O00555, Voltage-dependent P/Q-type calcium channel subunit alpha-1A
-CACNA1A, http://purl.uniprot.org/uniprot/O00555, Voltage-dependent P/Q-type calcium channel subunit alpha-1A
+CACH4, http://purl.uniprot.org/uniprot/O00555, Voltage-dependent P/Q-type calcium channel subunit alpha-1A
+CACN3, http://purl.uniprot.org/uniprot/O00555, Voltage-dependent P/Q-type calcium channel subunit alpha-1A
+CACNL1A4, http://purl.uniprot.org/uniprot/O00555, Voltage-dependent P/Q-type calcium channel subunit alpha-1A
 No URI found for CALNEXIN
 No URI found for CALPAIN
 No URI found for CARDIAC TROPONIN T
@@ -385,34 +385,34 @@ KIAA1670, http://purl.uniprot.org/uniprot/Q92523, Carnitine O-palmitoyltransfera
 SLC22A5, http://purl.uniprot.org/uniprot/O76082, Organic cation/carnitine transporter 2
 OCTN2, http://purl.uniprot.org/uniprot/O76082, Organic cation/carnitine transporter 2
 CASC2, http://purl.uniprot.org/uniprot/Q8IU53, Protein CASC2, isoforms 1/2
-CASC2, http://purl.uniprot.org/uniprot/Q8IU53, Protein CASC2, isoforms 1/2
-CASC2, http://purl.uniprot.org/uniprot/Q6XLA1, Protein CASC2, isoform 3
+C10orf5, http://purl.uniprot.org/uniprot/Q8IU53, Protein CASC2, isoforms 1/2
+C10orf5, http://purl.uniprot.org/uniprot/Q6XLA1, Protein CASC2, isoform 3
 CASP3, http://purl.uniprot.org/uniprot/P42574, Caspase-3
-CASP3, http://purl.uniprot.org/uniprot/P42574, Caspase-3
+CPP32, http://purl.uniprot.org/uniprot/P42574, Caspase-3
 POLR1G, http://purl.uniprot.org/uniprot/O15446, DNA-directed RNA polymerase I subunit RPA34
-POLR1G, http://purl.uniprot.org/uniprot/O15446, DNA-directed RNA polymerase I subunit RPA34
+CAST, http://purl.uniprot.org/uniprot/O15446, DNA-directed RNA polymerase I subunit RPA34
 GLYAT, http://purl.uniprot.org/uniprot/Q6IB77, Glycine N-acyltransferase
-GLYAT, http://purl.uniprot.org/uniprot/Q6IB77, Glycine N-acyltransferase
+CAT, http://purl.uniprot.org/uniprot/Q6IB77, Glycine N-acyltransferase
 No URI found for CATALASE
 No URI found for CATECHOL O-METHYLTRANSFERASE
 No URI found for CAV2.1
 No URI found for CCDC115
 CCT3, http://purl.uniprot.org/uniprot/P49368, T-complex protein 1 subunit gamma
-CCT3, http://purl.uniprot.org/uniprot/P49368, T-complex protein 1 subunit gamma
+CCTG, http://purl.uniprot.org/uniprot/P49368, T-complex protein 1 subunit gamma
 No URI found for CDC42
 CDC42BPA, http://purl.uniprot.org/uniprot/Q5VT25, Serine/threonine-protein kinase MRCK alpha
-CDC42BPA, http://purl.uniprot.org/uniprot/Q5VT25, Serine/threonine-protein kinase MRCK alpha
+KIAA0451, http://purl.uniprot.org/uniprot/Q5VT25, Serine/threonine-protein kinase MRCK alpha
 No URI found for CDG1
 No URI found for CELF
 CELF1, http://purl.uniprot.org/uniprot/Q92879, CUGBP Elav-like family member 1
-CELF1, http://purl.uniprot.org/uniprot/Q92879, CUGBP Elav-like family member 1
-CELF1, http://purl.uniprot.org/uniprot/Q92879, CUGBP Elav-like family member 1
-CELF1, http://purl.uniprot.org/uniprot/Q92879, CUGBP Elav-like family member 1
-CELF1, http://purl.uniprot.org/uniprot/Q92879, CUGBP Elav-like family member 1
+NAB50, http://purl.uniprot.org/uniprot/Q92879, CUGBP Elav-like family member 1
+CUGBP1, http://purl.uniprot.org/uniprot/Q92879, CUGBP Elav-like family member 1
+CUGBP, http://purl.uniprot.org/uniprot/Q92879, CUGBP Elav-like family member 1
+BRUNOL2, http://purl.uniprot.org/uniprot/Q92879, CUGBP Elav-like family member 1
 KTN1, http://purl.uniprot.org/uniprot/Q86UP2, Kinectin
-KTN1, http://purl.uniprot.org/uniprot/Q86UP2, Kinectin
-NUP42, http://purl.uniprot.org/uniprot/O15504, Nucleoporin NUP42
-MAMLD1, http://purl.uniprot.org/uniprot/Q13495, Mastermind-like domain-containing protein 1
+CG1, http://purl.uniprot.org/uniprot/Q86UP2, Kinectin
+CG1, http://purl.uniprot.org/uniprot/O15504, Nucleoporin NUP42
+CG1, http://purl.uniprot.org/uniprot/Q13495, Mastermind-like domain-containing protein 1
 No URI found for CHAT
 ALG1, http://purl.uniprot.org/uniprot/Q9BT22, Chitobiosyldiphosphodolichol beta-mannosyltransferase
 HMT1, http://purl.uniprot.org/uniprot/Q9BT22, Chitobiosyldiphosphodolichol beta-mannosyltransferase
@@ -422,43 +422,43 @@ No URI found for CHOLINE O-ACETYLTRANSFERASE
 BCHE, http://purl.uniprot.org/uniprot/P06276, Cholinesterase
 CHE1, http://purl.uniprot.org/uniprot/P06276, Cholinesterase
 CHRNA1, http://purl.uniprot.org/uniprot/P02708, Acetylcholine receptor subunit alpha
-CHRNA1, http://purl.uniprot.org/uniprot/P02708, Acetylcholine receptor subunit alpha
-CHRNA1, http://purl.uniprot.org/uniprot/P02708, Acetylcholine receptor subunit alpha
+ACHRA, http://purl.uniprot.org/uniprot/P02708, Acetylcholine receptor subunit alpha
+CHNRA, http://purl.uniprot.org/uniprot/P02708, Acetylcholine receptor subunit alpha
 No URI found for CHRNA2
 CHRNB1, http://purl.uniprot.org/uniprot/P11230, Acetylcholine receptor subunit beta
-CHRNB1, http://purl.uniprot.org/uniprot/P11230, Acetylcholine receptor subunit beta
-CHRNB1, http://purl.uniprot.org/uniprot/P11230, Acetylcholine receptor subunit beta
+ACHRB, http://purl.uniprot.org/uniprot/P11230, Acetylcholine receptor subunit beta
+CHRNB, http://purl.uniprot.org/uniprot/P11230, Acetylcholine receptor subunit beta
 CHRND, http://purl.uniprot.org/uniprot/Q07001, Acetylcholine receptor subunit delta
-CHRND, http://purl.uniprot.org/uniprot/Q07001, Acetylcholine receptor subunit delta
+ACHRD, http://purl.uniprot.org/uniprot/Q07001, Acetylcholine receptor subunit delta
 CHRNE, http://purl.uniprot.org/uniprot/Q04844, Acetylcholine receptor subunit epsilon
-CHRNE, http://purl.uniprot.org/uniprot/Q04844, Acetylcholine receptor subunit epsilon
+ACHRE, http://purl.uniprot.org/uniprot/Q04844, Acetylcholine receptor subunit epsilon
 CHRNG, http://purl.uniprot.org/uniprot/P07510, Acetylcholine receptor subunit gamma
-CHRNG, http://purl.uniprot.org/uniprot/P07510, Acetylcholine receptor subunit gamma
+ACHRG, http://purl.uniprot.org/uniprot/P07510, Acetylcholine receptor subunit gamma
 CSKMT, http://purl.uniprot.org/uniprot/A8MUP2, Citrate synthase-lysine N-methyltransferase CSKMT, mitochondrial
 METTL12, http://purl.uniprot.org/uniprot/A8MUP2, Citrate synthase-lysine N-methyltransferase CSKMT, mitochondrial
 No URI found for CITRIN
 No URI found for CK
 CKM, http://purl.uniprot.org/uniprot/P06732, Creatine kinase M-type
-CKM, http://purl.uniprot.org/uniprot/P06732, Creatine kinase M-type
+CKMM, http://purl.uniprot.org/uniprot/P06732, Creatine kinase M-type
 CLYBL, http://purl.uniprot.org/uniprot/Q8N0X4, Citramalyl-CoA lyase, mitochondrial
-CLYBL, http://purl.uniprot.org/uniprot/Q8N0X4, Citramalyl-CoA lyase, mitochondrial
+CLB, http://purl.uniprot.org/uniprot/Q8N0X4, Citramalyl-CoA lyase, mitochondrial
 No URI found for CLC-1
 CLCN1, http://purl.uniprot.org/uniprot/P35523, Chloride channel protein 1
-CLCN1, http://purl.uniprot.org/uniprot/P35523, Chloride channel protein 1
+CLC1, http://purl.uniprot.org/uniprot/P35523, Chloride channel protein 1
 CLUAP1, http://purl.uniprot.org/uniprot/Q96AJ1, Clusterin-associated protein 1
 KIAA0643, http://purl.uniprot.org/uniprot/Q96AJ1, Clusterin-associated protein 1
 APOJ, http://purl.uniprot.org/uniprot/P10909, Clusterin
 CLI, http://purl.uniprot.org/uniprot/P10909, Clusterin
 KUB1, http://purl.uniprot.org/uniprot/P10909, Clusterin
 DBNL, http://purl.uniprot.org/uniprot/Q9UJU6, Drebrin-like protein
-DBNL, http://purl.uniprot.org/uniprot/Q9UJU6, Drebrin-like protein
+CMAP, http://purl.uniprot.org/uniprot/Q9UJU6, Drebrin-like protein
 No URI found for CMS
 CNBP, http://purl.uniprot.org/uniprot/P62633, CCHC-type zinc finger nucleic acid binding protein
-CNBP, http://purl.uniprot.org/uniprot/P62633, CCHC-type zinc finger nucleic acid binding protein
-CNBP, http://purl.uniprot.org/uniprot/P62633, CCHC-type zinc finger nucleic acid binding protein
+RNF163, http://purl.uniprot.org/uniprot/P62633, CCHC-type zinc finger nucleic acid binding protein
+ZNF9, http://purl.uniprot.org/uniprot/P62633, CCHC-type zinc finger nucleic acid binding protein
 CNDP1, http://purl.uniprot.org/uniprot/Q96KN2, Beta-Ala-His dipeptidase
-CNDP1, http://purl.uniprot.org/uniprot/Q96KN2, Beta-Ala-His dipeptidase
-CNDP1, http://purl.uniprot.org/uniprot/Q96KN2, Beta-Ala-His dipeptidase
+CN1, http://purl.uniprot.org/uniprot/Q96KN2, Beta-Ala-His dipeptidase
+CPGL2, http://purl.uniprot.org/uniprot/Q96KN2, Beta-Ala-His dipeptidase
 HSCB, http://purl.uniprot.org/uniprot/Q8IWL3, Iron-sulfur cluster co-chaperone protein HscB
 DNAJC20, http://purl.uniprot.org/uniprot/Q8IWL3, Iron-sulfur cluster co-chaperone protein HscB
 HSC20, http://purl.uniprot.org/uniprot/Q8IWL3, Iron-sulfur cluster co-chaperone protein HscB
@@ -467,7 +467,7 @@ HARC, http://purl.uniprot.org/uniprot/Q7L3B6, Hsp90 co-chaperone Cdc37-like 1
 CDC37A, http://purl.uniprot.org/uniprot/Q16543, Hsp90 co-chaperone Cdc37
 C1orf182, http://purl.uniprot.org/uniprot/Q96A04, TSSK6-activating co-chaperone protein
 COG6, http://purl.uniprot.org/uniprot/Q9Y2V7, Conserved oligomeric Golgi complex subunit 6
-COG6, http://purl.uniprot.org/uniprot/Q9Y2V7, Conserved oligomeric Golgi complex subunit 6
+KIAA1134, http://purl.uniprot.org/uniprot/Q9Y2V7, Conserved oligomeric Golgi complex subunit 6
 No URI found for COG7
 No URI found for COG8
 No URI found for COL13A1
@@ -479,7 +479,7 @@ No URI found for COMPLEX I SUBUNIT
 No URI found for CONV
 No URI found for COX
 PTGS1, http://purl.uniprot.org/uniprot/P23219, Prostaglandin G/H synthase 1
-PTGS1, http://purl.uniprot.org/uniprot/P23219, Prostaglandin G/H synthase 1
+COX1, http://purl.uniprot.org/uniprot/P23219, Prostaglandin G/H synthase 1
 No URI found for COX10
 No URI found for COX15
 CKMT1B, http://purl.uniprot.org/uniprot/P12532, Creatine kinase U-type, mitochondrial
@@ -488,12 +488,12 @@ CKMT, http://purl.uniprot.org/uniprot/P12532, Creatine kinase U-type, mitochondr
 CKBB, http://purl.uniprot.org/uniprot/P12277, Creatine kinase B-type
 CKMM, http://purl.uniprot.org/uniprot/P06732, Creatine kinase M-type
 CSAD, http://purl.uniprot.org/uniprot/Q9Y600, Cysteine sulfinic acid decarboxylase
-CSAD, http://purl.uniprot.org/uniprot/Q9Y600, Cysteine sulfinic acid decarboxylase
+CSD, http://purl.uniprot.org/uniprot/Q9Y600, Cysteine sulfinic acid decarboxylase
 No URI found for CTX
 No URI found for CUG-BP
 No URI found for CUG-BP1
 CELF1, http://purl.uniprot.org/uniprot/Q92879, CUGBP Elav-like family member 1
-CELF1, http://purl.uniprot.org/uniprot/Q92879, CUGBP Elav-like family member 1
+CUGBP1, http://purl.uniprot.org/uniprot/Q92879, CUGBP Elav-like family member 1
 No URI found for CYP1A2
 No URI found for CYSTATHIONINE BETA-SYNTHASE
 HCCS, http://purl.uniprot.org/uniprot/P53701, Holocytochrome c-type synthase
@@ -617,18 +617,18 @@ No URI found for DAT
 No URI found for DBH
 No URI found for DBP
 DCDC2, http://purl.uniprot.org/uniprot/Q9UHG0, Doublecortin domain-containing protein 2
-DCDC2, http://purl.uniprot.org/uniprot/Q9UHG0, Doublecortin domain-containing protein 2
-DCDC2, http://purl.uniprot.org/uniprot/Q9UHG0, Doublecortin domain-containing protein 2
+KIAA1154, http://purl.uniprot.org/uniprot/Q9UHG0, Doublecortin domain-containing protein 2
+RU2, http://purl.uniprot.org/uniprot/Q9UHG0, Doublecortin domain-containing protein 2
 No URI found for DECORIN
 No URI found for DESMIN
 No URI found for DHAP-AT
 GNPAT, http://purl.uniprot.org/uniprot/O15228, Dihydroxyacetone phosphate acyltransferase
-GNPAT, http://purl.uniprot.org/uniprot/O15228, Dihydroxyacetone phosphate acyltransferase
+DHAPAT, http://purl.uniprot.org/uniprot/O15228, Dihydroxyacetone phosphate acyltransferase
 No URI found for DHFR
 QDPR, http://purl.uniprot.org/uniprot/P09417, Dihydropteridine reductase
-QDPR, http://purl.uniprot.org/uniprot/P09417, Dihydropteridine reductase
+DHPR, http://purl.uniprot.org/uniprot/P09417, Dihydropteridine reductase
 DHTKD1, http://purl.uniprot.org/uniprot/Q96HY7, 2-oxoadipate dehydrogenase complex component E1
-DHTKD1, http://purl.uniprot.org/uniprot/Q96HY7, 2-oxoadipate dehydrogenase complex component E1
+KIAA1630, http://purl.uniprot.org/uniprot/Q96HY7, 2-oxoadipate dehydrogenase complex component E1
 No URI found for DIHYDROLIPOAMIDE DEHYDROGENASE
 QDPR, http://purl.uniprot.org/uniprot/P09417, Dihydropteridine reductase
 DHPR, http://purl.uniprot.org/uniprot/P09417, Dihydropteridine reductase
@@ -641,34 +641,34 @@ No URI found for DM1 PROTEIN KINASE
 No URI found for DM2
 No URI found for DMD
 DMPK, http://purl.uniprot.org/uniprot/Q09013, Myotonin-protein kinase
-DMPK, http://purl.uniprot.org/uniprot/Q09013, Myotonin-protein kinase
-DMPK, http://purl.uniprot.org/uniprot/Q09013, Myotonin-protein kinase
+DM1PK, http://purl.uniprot.org/uniprot/Q09013, Myotonin-protein kinase
+MDPK, http://purl.uniprot.org/uniprot/Q09013, Myotonin-protein kinase
 DMWD, http://purl.uniprot.org/uniprot/Q09019, Dystrophia myotonica WD repeat-containing protein
-DMWD, http://purl.uniprot.org/uniprot/Q09019, Dystrophia myotonica WD repeat-containing protein
+DM9, http://purl.uniprot.org/uniprot/Q09019, Dystrophia myotonica WD repeat-containing protein
 No URI found for DNA POLYMERASE GAMMA
 No URI found for DNA-DIRECTED DNA POLYMERASE
 DNAAF3, http://purl.uniprot.org/uniprot/Q8N9W5, Dynein axonemal assembly factor 3
-DNAAF3, http://purl.uniprot.org/uniprot/Q8N9W5, Dynein axonemal assembly factor 3
+C19orf51, http://purl.uniprot.org/uniprot/Q8N9W5, Dynein axonemal assembly factor 3
 DNAJC12, http://purl.uniprot.org/uniprot/Q9UKB3, DnaJ homolog subfamily C member 12
-DNAJC12, http://purl.uniprot.org/uniprot/Q9UKB3, DnaJ homolog subfamily C member 12
+JDP1, http://purl.uniprot.org/uniprot/Q9UKB3, DnaJ homolog subfamily C member 12
 DNM2, http://purl.uniprot.org/uniprot/P50570, Dynamin-2
-DNM2, http://purl.uniprot.org/uniprot/P50570, Dynamin-2
+DYN2, http://purl.uniprot.org/uniprot/P50570, Dynamin-2
 No URI found for DOK-7
 DOK7, http://purl.uniprot.org/uniprot/Q18PE1, Protein Dok-7
-DOK7, http://purl.uniprot.org/uniprot/Q18PE1, Protein Dok-7
+C4orf25, http://purl.uniprot.org/uniprot/Q18PE1, Protein Dok-7
 DOLK, http://purl.uniprot.org/uniprot/Q9UPQ8, Dolichol kinase
 KIAA1094, http://purl.uniprot.org/uniprot/Q9UPQ8, Dolichol kinase
 TMEM15, http://purl.uniprot.org/uniprot/Q9UPQ8, Dolichol kinase
 DOLK, http://purl.uniprot.org/uniprot/Q9UPQ8, Dolichol kinase
-DOLK, http://purl.uniprot.org/uniprot/Q9UPQ8, Dolichol kinase
-DOLK, http://purl.uniprot.org/uniprot/Q9UPQ8, Dolichol kinase
+KIAA1094, http://purl.uniprot.org/uniprot/Q9UPQ8, Dolichol kinase
+TMEM15, http://purl.uniprot.org/uniprot/Q9UPQ8, Dolichol kinase
 No URI found for DOPAMINE BETA-HYDROXYLASE
 No URI found for DOWNSTREAM OF TYROSINE KINASE 7
 DPAGT1, http://purl.uniprot.org/uniprot/Q9H3H5, UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase
-DPAGT1, http://purl.uniprot.org/uniprot/Q9H3H5, UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase
+DPAGT2, http://purl.uniprot.org/uniprot/Q9H3H5, UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase
 No URI found for DPM1
 ATN1, http://purl.uniprot.org/uniprot/P54259, Atrophin-1
-ATN1, http://purl.uniprot.org/uniprot/P54259, Atrophin-1
+DRPLA, http://purl.uniprot.org/uniprot/P54259, Atrophin-1
 No URI found for DUB
 No URI found for DYSTROGLYCAN
 No URI found for DYSTROPHIA MYOTONICA PROTEIN KINASE
@@ -678,11 +678,11 @@ No URI found for E3
 No URI found for EC1.2
 No URI found for ECHS1
 EDIL3, http://purl.uniprot.org/uniprot/O43854, EGF-like repeat and discoidin I-like domain-containing protein 3
-EDIL3, http://purl.uniprot.org/uniprot/O43854, EGF-like repeat and discoidin I-like domain-containing protein 3
+DEL1, http://purl.uniprot.org/uniprot/O43854, EGF-like repeat and discoidin I-like domain-containing protein 3
 EHHADH, http://purl.uniprot.org/uniprot/Q08426, Peroxisomal bifunctional enzyme
-EHHADH, http://purl.uniprot.org/uniprot/Q08426, Peroxisomal bifunctional enzyme
+ECHD, http://purl.uniprot.org/uniprot/Q08426, Peroxisomal bifunctional enzyme
 EIF3K, http://purl.uniprot.org/uniprot/Q9UBQ5, Eukaryotic translation initiation factor 3 subunit K
-EIF3K, http://purl.uniprot.org/uniprot/Q9UBQ5, Eukaryotic translation initiation factor 3 subunit K
+EIF3S12, http://purl.uniprot.org/uniprot/Q9UBQ5, Eukaryotic translation initiation factor 3 subunit K
 ETFBKMT, http://purl.uniprot.org/uniprot/Q8IXQ9, Electron transfer flavoprotein beta subunit lysine methyltransferase
 C12orf72, http://purl.uniprot.org/uniprot/Q8IXQ9, Electron transfer flavoprotein beta subunit lysine methyltransferase
 METTL20, http://purl.uniprot.org/uniprot/Q8IXQ9, Electron transfer flavoprotein beta subunit lysine methyltransferase
@@ -691,33 +691,33 @@ No URI found for EMA
 No URI found for ENOYL-COA HYDRATASE
 No URI found for EP
 EPHA3, http://purl.uniprot.org/uniprot/P29320, Ephrin type-A receptor 3
-EPHA3, http://purl.uniprot.org/uniprot/P29320, Ephrin type-A receptor 3
-EPHA3, http://purl.uniprot.org/uniprot/P29320, Ephrin type-A receptor 3
-EPHA3, http://purl.uniprot.org/uniprot/P29320, Ephrin type-A receptor 3
-EPHA3, http://purl.uniprot.org/uniprot/P29320, Ephrin type-A receptor 3
+TYRO4, http://purl.uniprot.org/uniprot/P29320, Ephrin type-A receptor 3
+HEK, http://purl.uniprot.org/uniprot/P29320, Ephrin type-A receptor 3
+ETK1, http://purl.uniprot.org/uniprot/P29320, Ephrin type-A receptor 3
+ETK, http://purl.uniprot.org/uniprot/P29320, Ephrin type-A receptor 3
 EPOP, http://purl.uniprot.org/uniprot/A6NHQ4, Elongin BC and Polycomb repressive complex 2-associated protein
-EPOP, http://purl.uniprot.org/uniprot/A6NHQ4, Elongin BC and Polycomb repressive complex 2-associated protein
-EPOP, http://purl.uniprot.org/uniprot/A6NHQ4, Elongin BC and Polycomb repressive complex 2-associated protein
+C17orf96, http://purl.uniprot.org/uniprot/A6NHQ4, Elongin BC and Polycomb repressive complex 2-associated protein
+PRR28, http://purl.uniprot.org/uniprot/A6NHQ4, Elongin BC and Polycomb repressive complex 2-associated protein
 EPX, http://purl.uniprot.org/uniprot/P11678, Eosinophil peroxidase
-EPX, http://purl.uniprot.org/uniprot/P11678, Eosinophil peroxidase
+EPP, http://purl.uniprot.org/uniprot/P11678, Eosinophil peroxidase
 No URI found for ERC
 No URI found for ERCC1
 KCNH2, http://purl.uniprot.org/uniprot/Q12809, Voltage-gated inwardly rectifying potassium channel KCNH2
-KCNH2, http://purl.uniprot.org/uniprot/Q12809, Voltage-gated inwardly rectifying potassium channel KCNH2
+ERG, http://purl.uniprot.org/uniprot/Q12809, Voltage-gated inwardly rectifying potassium channel KCNH2
 No URI found for ERH3
 MAPK3, http://purl.uniprot.org/uniprot/P27361, Mitogen-activated protein kinase 3
-MAPK3, http://purl.uniprot.org/uniprot/P27361, Mitogen-activated protein kinase 3
+ERK1, http://purl.uniprot.org/uniprot/P27361, Mitogen-activated protein kinase 3
 No URI found for ERK1/2
 No URI found for ES
 No URI found for EYE
 No URI found for F11
 F8, http://purl.uniprot.org/uniprot/P00451, Coagulation factor VIII
-F8, http://purl.uniprot.org/uniprot/P00451, Coagulation factor VIII
+F8C, http://purl.uniprot.org/uniprot/P00451, Coagulation factor VIII
 No URI found for F9
 No URI found for FAA2
 No URI found for FAD
 FAM20C, http://purl.uniprot.org/uniprot/Q8IXL6, Extracellular serine/threonine protein kinase FAM20C
-FAM20C, http://purl.uniprot.org/uniprot/Q8IXL6, Extracellular serine/threonine protein kinase FAM20C
+DMP4, http://purl.uniprot.org/uniprot/Q8IXL6, Extracellular serine/threonine protein kinase FAM20C
 No URI found for FERRITIN
 FGL1, http://purl.uniprot.org/uniprot/Q08830, Fibrinogen-like protein 1
 HFREP1, http://purl.uniprot.org/uniprot/Q08830, Fibrinogen-like protein 1
@@ -725,20 +725,20 @@ No URI found for FL
 No URI found for FMR1
 No URI found for FOLATE RECEPTOR 1
 FOLR1, http://purl.uniprot.org/uniprot/P15328, Folate receptor alpha
-FOLR1, http://purl.uniprot.org/uniprot/P15328, Folate receptor alpha
+FOLR, http://purl.uniprot.org/uniprot/P15328, Folate receptor alpha
 No URI found for FOXRED1
 No URI found for FRAGILE X MENTAL RETARDATION
 No URI found for FRATAXIN
 No URI found for FRAXA
 FXN, http://purl.uniprot.org/uniprot/Q16595, Frataxin, mitochondrial
-FXN, http://purl.uniprot.org/uniprot/Q16595, Frataxin, mitochondrial
+FRDA, http://purl.uniprot.org/uniprot/Q16595, Frataxin, mitochondrial
 No URI found for FSH
 No URI found for FUMARASE
 FXN, http://purl.uniprot.org/uniprot/Q16595, Frataxin, mitochondrial
-FXN, http://purl.uniprot.org/uniprot/Q16595, Frataxin, mitochondrial
-FXN, http://purl.uniprot.org/uniprot/Q16595, Frataxin, mitochondrial
+FRDA, http://purl.uniprot.org/uniprot/Q16595, Frataxin, mitochondrial
+X25, http://purl.uniprot.org/uniprot/Q16595, Frataxin, mitochondrial
 GLS2, http://purl.uniprot.org/uniprot/Q9UI32, Glutaminase liver isoform, mitochondrial
-GLS2, http://purl.uniprot.org/uniprot/Q9UI32, Glutaminase liver isoform, mitochondrial
+GA, http://purl.uniprot.org/uniprot/Q9UI32, Glutaminase liver isoform, mitochondrial
 No URI found for GA1
 No URI found for GA3
 No URI found for GAA
@@ -747,10 +747,10 @@ No URI found for GABA TRANSAMINASE
 No URI found for GABA-T
 No URI found for GABAA
 GAD1, http://purl.uniprot.org/uniprot/Q99259, Glutamate decarboxylase 1
-GAD1, http://purl.uniprot.org/uniprot/Q99259, Glutamate decarboxylase 1
-GAD1, http://purl.uniprot.org/uniprot/Q99259, Glutamate decarboxylase 1
+GAD, http://purl.uniprot.org/uniprot/Q99259, Glutamate decarboxylase 1
+GAD67, http://purl.uniprot.org/uniprot/Q99259, Glutamate decarboxylase 1
 GAD2, http://purl.uniprot.org/uniprot/Q05329, Glutamate decarboxylase 2
-GAD2, http://purl.uniprot.org/uniprot/Q05329, Glutamate decarboxylase 2
+GAD65, http://purl.uniprot.org/uniprot/Q05329, Glutamate decarboxylase 2
 No URI found for GAI
 No URI found for GAMMA-AMINOBUTYRIC ACID TRANSAMINASE
 TGM1, http://purl.uniprot.org/uniprot/P22735, Protein-glutamine gamma-glutamyltransferase K
@@ -761,27 +761,27 @@ No URI found for GAMT
 No URI found for GCD
 No URI found for GCDH
 GCH1, http://purl.uniprot.org/uniprot/P30793, GTP cyclohydrolase 1
-GCH1, http://purl.uniprot.org/uniprot/P30793, GTP cyclohydrolase 1
+GCH, http://purl.uniprot.org/uniprot/P30793, GTP cyclohydrolase 1
 No URI found for GCH-1
 GCH1, http://purl.uniprot.org/uniprot/P30793, GTP cyclohydrolase 1
-GCH1, http://purl.uniprot.org/uniprot/P30793, GTP cyclohydrolase 1
-GCH1, http://purl.uniprot.org/uniprot/P30793, GTP cyclohydrolase 1
+DYT5, http://purl.uniprot.org/uniprot/P30793, GTP cyclohydrolase 1
+GCH, http://purl.uniprot.org/uniprot/P30793, GTP cyclohydrolase 1
 GCHFR, http://purl.uniprot.org/uniprot/P30047, GTP cyclohydrolase 1 feedback regulatory protein
-GCHFR, http://purl.uniprot.org/uniprot/P30047, GTP cyclohydrolase 1 feedback regulatory protein
+GFRP, http://purl.uniprot.org/uniprot/P30047, GTP cyclohydrolase 1 feedback regulatory protein
 H6PD, http://purl.uniprot.org/uniprot/O95479, GDH/6PGL endoplasmic bifunctional protein
-H6PD, http://purl.uniprot.org/uniprot/O95479, GDH/6PGL endoplasmic bifunctional protein
+GDH, http://purl.uniprot.org/uniprot/O95479, GDH/6PGL endoplasmic bifunctional protein
 No URI found for GEK
 No URI found for GENE C
 No URI found for GFAP
 GFPT1, http://purl.uniprot.org/uniprot/Q06210, Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 1
-GFPT1, http://purl.uniprot.org/uniprot/Q06210, Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 1
-GFPT1, http://purl.uniprot.org/uniprot/Q06210, Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 1
+GFAT, http://purl.uniprot.org/uniprot/Q06210, Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 1
+GFPT, http://purl.uniprot.org/uniprot/Q06210, Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 1
 GCHFR, http://purl.uniprot.org/uniprot/P30047, GTP cyclohydrolase 1 feedback regulatory protein
-GCHFR, http://purl.uniprot.org/uniprot/P30047, GTP cyclohydrolase 1 feedback regulatory protein
+GFRP, http://purl.uniprot.org/uniprot/P30047, GTP cyclohydrolase 1 feedback regulatory protein
 No URI found for GLC-1
 No URI found for GLCNAC
 SLC1A2, http://purl.uniprot.org/uniprot/P43004, Excitatory amino acid transporter 2
-SLC1A2, http://purl.uniprot.org/uniprot/P43004, Excitatory amino acid transporter 2
+GLT1, http://purl.uniprot.org/uniprot/P43004, Excitatory amino acid transporter 2
 No URI found for GLUCAGON
 MGAM, http://purl.uniprot.org/uniprot/O43451, Maltase-glucoamylase
 MGA, http://purl.uniprot.org/uniprot/O43451, Maltase-glucoamylase
@@ -882,14 +882,14 @@ No URI found for GLYCERYL-ETHER MONOOXYGENASE
 No URI found for GLYCOGEN PHOSPHORYLASE
 No URI found for GMPPB
 GNPAT, http://purl.uniprot.org/uniprot/O15228, Dihydroxyacetone phosphate acyltransferase
-GNPAT, http://purl.uniprot.org/uniprot/O15228, Dihydroxyacetone phosphate acyltransferase
-GNPAT, http://purl.uniprot.org/uniprot/O15228, Dihydroxyacetone phosphate acyltransferase
+DHAPAT, http://purl.uniprot.org/uniprot/O15228, Dihydroxyacetone phosphate acyltransferase
+DAPAT, http://purl.uniprot.org/uniprot/O15228, Dihydroxyacetone phosphate acyltransferase
 No URI found for GP1BA
 No URI found for GPI
 No URI found for GPX
 No URI found for GR
 GRIN3A, http://purl.uniprot.org/uniprot/Q8TCU5, Glutamate receptor ionotropic, NMDA 3A
-GRIN3A, http://purl.uniprot.org/uniprot/Q8TCU5, Glutamate receptor ionotropic, NMDA 3A
+KIAA1973, http://purl.uniprot.org/uniprot/Q8TCU5, Glutamate receptor ionotropic, NMDA 3A
 GHITM, http://purl.uniprot.org/uniprot/Q9H3K2, Growth hormone-inducible transmembrane protein
 MICS1, http://purl.uniprot.org/uniprot/Q9H3K2, Growth hormone-inducible transmembrane protein
 DERP2, http://purl.uniprot.org/uniprot/Q9H3K2, Growth hormone-inducible transmembrane protein
@@ -904,9 +904,9 @@ No URI found for GTP CYCLOHYDROLASE I
 No URI found for GTPCH
 No URI found for H5
 HADHA, http://purl.uniprot.org/uniprot/P40939, Trifunctional enzyme subunit alpha, mitochondrial
-HADHA, http://purl.uniprot.org/uniprot/P40939, Trifunctional enzyme subunit alpha, mitochondrial
+HADH, http://purl.uniprot.org/uniprot/P40939, Trifunctional enzyme subunit alpha, mitochondrial
 HTT, http://purl.uniprot.org/uniprot/P42858, Huntingtin
-HTT, http://purl.uniprot.org/uniprot/P42858, Huntingtin
+HD, http://purl.uniprot.org/uniprot/P42858, Huntingtin
 No URI found for HDAC
 HBE1, http://purl.uniprot.org/uniprot/P02100, Hemoglobin subunit epsilon
 HBE, http://purl.uniprot.org/uniprot/P02100, Hemoglobin subunit epsilon
@@ -916,7 +916,7 @@ HBZ2, http://purl.uniprot.org/uniprot/P02008, Hemoglobin subunit zeta
 HBAP2, http://purl.uniprot.org/uniprot/Q6B0K9, Hemoglobin subunit mu
 C1orf186, http://purl.uniprot.org/uniprot/Q6ZWK4, Regulator of hemoglobinization and erythroid cell expansion protein
 HGD, http://purl.uniprot.org/uniprot/Q93099, Homogentisate 1,2-dioxygenase
-HGD, http://purl.uniprot.org/uniprot/Q93099, Homogentisate 1,2-dioxygenase
+HGO, http://purl.uniprot.org/uniprot/Q93099, Homogentisate 1,2-dioxygenase
 No URI found for HIBCH
 No URI found for HIGH-AFFINITY CHOLINE TRANSPORTER 1
 HDAC7, http://purl.uniprot.org/uniprot/Q8WUI4, Histone deacetylase 7
@@ -941,19 +941,19 @@ No URI found for HOOK-LIKE
 No URI found for HPH-1
 No URI found for HPP
 HSD17B4, http://purl.uniprot.org/uniprot/P51659, Peroxisomal multifunctional enzyme type 2
-HSD17B4, http://purl.uniprot.org/uniprot/P51659, Peroxisomal multifunctional enzyme type 2
-HSD17B4, http://purl.uniprot.org/uniprot/P51659, Peroxisomal multifunctional enzyme type 2
+EDH17B4, http://purl.uniprot.org/uniprot/P51659, Peroxisomal multifunctional enzyme type 2
+SDR8C1, http://purl.uniprot.org/uniprot/P51659, Peroxisomal multifunctional enzyme type 2
 HSPB1, http://purl.uniprot.org/uniprot/P04792, Heat shock protein beta-1
-HSPB1, http://purl.uniprot.org/uniprot/P04792, Heat shock protein beta-1
-HSPB3, http://purl.uniprot.org/uniprot/Q12988, Heat shock protein beta-3
+HSP27, http://purl.uniprot.org/uniprot/P04792, Heat shock protein beta-1
+HSP27, http://purl.uniprot.org/uniprot/Q12988, Heat shock protein beta-3
 No URI found for HSP70
 HSPB1, http://purl.uniprot.org/uniprot/P04792, Heat shock protein beta-1
-HSPB1, http://purl.uniprot.org/uniprot/P04792, Heat shock protein beta-1
-HSPB1, http://purl.uniprot.org/uniprot/P04792, Heat shock protein beta-1
+HSP27, http://purl.uniprot.org/uniprot/P04792, Heat shock protein beta-1
+HSP28, http://purl.uniprot.org/uniprot/P04792, Heat shock protein beta-1
 HTT, http://purl.uniprot.org/uniprot/P42858, Huntingtin
-HTT, http://purl.uniprot.org/uniprot/P42858, Huntingtin
-HTT, http://purl.uniprot.org/uniprot/P42858, Huntingtin
-SLC6A4, http://purl.uniprot.org/uniprot/P31645, Sodium-dependent serotonin transporter
+HD, http://purl.uniprot.org/uniprot/P42858, Huntingtin
+IT15, http://purl.uniprot.org/uniprot/P42858, Huntingtin
+HTT, http://purl.uniprot.org/uniprot/P31645, Sodium-dependent serotonin transporter
 HIP1R, http://purl.uniprot.org/uniprot/O75146, Huntingtin-interacting protein 1-related protein
 HIP12, http://purl.uniprot.org/uniprot/O75146, Huntingtin-interacting protein 1-related protein
 KIAA0655, http://purl.uniprot.org/uniprot/O75146, Huntingtin-interacting protein 1-related protein
@@ -996,15 +996,15 @@ No URI found for IB
 No URI found for ICAM1
 No URI found for IGF
 IGF1, http://purl.uniprot.org/uniprot/P05019, Insulin-like growth factor 1
-IGF1, http://purl.uniprot.org/uniprot/P05019, Insulin-like growth factor 1
+IGF-1, http://purl.uniprot.org/uniprot/P05019, Insulin-like growth factor 1
 No URI found for IGF-1R
 IGF2R, http://purl.uniprot.org/uniprot/P11717, Cation-independent mannose-6-phosphate receptor
-IGF2R, http://purl.uniprot.org/uniprot/P11717, Cation-independent mannose-6-phosphate receptor
+MPRI, http://purl.uniprot.org/uniprot/P11717, Cation-independent mannose-6-phosphate receptor
 IK, http://purl.uniprot.org/uniprot/Q13123, Protein Red
-IK, http://purl.uniprot.org/uniprot/Q13123, Protein Red
-IK, http://purl.uniprot.org/uniprot/Q13123, Protein Red
+RER, http://purl.uniprot.org/uniprot/Q13123, Protein Red
+RED, http://purl.uniprot.org/uniprot/Q13123, Protein Red
 IL1B, http://purl.uniprot.org/uniprot/P01584, Interleukin-1 beta
-IL1B, http://purl.uniprot.org/uniprot/P01584, Interleukin-1 beta
+IL1F2, http://purl.uniprot.org/uniprot/P01584, Interleukin-1 beta
 No URI found for INE
 No URI found for INR
 No URI found for INS
@@ -1013,18 +1013,18 @@ No URI found for INSR
 INSRR, http://purl.uniprot.org/uniprot/P14616, Insulin receptor-related protein
 IRR, http://purl.uniprot.org/uniprot/P14616, Insulin receptor-related protein
 IRF2BPL, http://purl.uniprot.org/uniprot/Q9H1B7, Probable E3 ubiquitin-protein ligase IRF2BPL
-IRF2BPL, http://purl.uniprot.org/uniprot/Q9H1B7, Probable E3 ubiquitin-protein ligase IRF2BPL
-IRF2BPL, http://purl.uniprot.org/uniprot/Q9H1B7, Probable E3 ubiquitin-protein ligase IRF2BPL
-IRF2BPL, http://purl.uniprot.org/uniprot/Q9H1B7, Probable E3 ubiquitin-protein ligase IRF2BPL
+EAP1, http://purl.uniprot.org/uniprot/Q9H1B7, Probable E3 ubiquitin-protein ligase IRF2BPL
+C14orf4, http://purl.uniprot.org/uniprot/Q9H1B7, Probable E3 ubiquitin-protein ligase IRF2BPL
+KIAA1865, http://purl.uniprot.org/uniprot/Q9H1B7, Probable E3 ubiquitin-protein ligase IRF2BPL
 No URI found for ISOVALERYL-COA DEHYDROGENASE
 ITPR1, http://purl.uniprot.org/uniprot/Q14643, Inositol 1,4,5-trisphosphate-gated calcium channel ITPR1
-ITPR1, http://purl.uniprot.org/uniprot/Q14643, Inositol 1,4,5-trisphosphate-gated calcium channel ITPR1
+INSP3R1, http://purl.uniprot.org/uniprot/Q14643, Inositol 1,4,5-trisphosphate-gated calcium channel ITPR1
 JPH3, http://purl.uniprot.org/uniprot/Q8WXH2, Junctophilin-3
-JPH3, http://purl.uniprot.org/uniprot/Q8WXH2, Junctophilin-3
-JPH3, http://purl.uniprot.org/uniprot/Q8WXH2, Junctophilin-3
+JP3, http://purl.uniprot.org/uniprot/Q8WXH2, Junctophilin-3
+TNRC22, http://purl.uniprot.org/uniprot/Q8WXH2, Junctophilin-3
 No URI found for KCNQ2
 KCNT1, http://purl.uniprot.org/uniprot/Q5JUK3, Potassium channel subfamily T member 1
-KCNT1, http://purl.uniprot.org/uniprot/Q5JUK3, Potassium channel subfamily T member 1
+KIAA1422, http://purl.uniprot.org/uniprot/Q5JUK3, Potassium channel subfamily T member 1
 No URI found for KIAA0319
 No URI found for KYNURENINASE
 No URI found for L-AMINOADIPATE-SEMIALDEHYDE DEHYDROGENASE
@@ -1035,15 +1035,15 @@ LDH3, http://purl.uniprot.org/uniprot/P07864, L-lactate dehydrogenase C chain
 LDHX, http://purl.uniprot.org/uniprot/P07864, L-lactate dehydrogenase C chain
 LDHL2, http://purl.uniprot.org/uniprot/Q6ZMR3, L-lactate dehydrogenase A-like 6A
 LAMA5, http://purl.uniprot.org/uniprot/O15230, Laminin subunit alpha-5
-LAMA5, http://purl.uniprot.org/uniprot/O15230, Laminin subunit alpha-5
-LAMA5, http://purl.uniprot.org/uniprot/O15230, Laminin subunit alpha-5
+KIAA0533, http://purl.uniprot.org/uniprot/O15230, Laminin subunit alpha-5
+KIAA1907, http://purl.uniprot.org/uniprot/O15230, Laminin subunit alpha-5
 LAMB2, http://purl.uniprot.org/uniprot/P55268, Laminin subunit beta-2
-LAMB2, http://purl.uniprot.org/uniprot/P55268, Laminin subunit beta-2
-LAMC1, http://purl.uniprot.org/uniprot/P11047, Laminin subunit gamma-1
+LAMS, http://purl.uniprot.org/uniprot/P55268, Laminin subunit beta-2
+LAMB2, http://purl.uniprot.org/uniprot/P11047, Laminin subunit gamma-1
 No URI found for LAMININ
 No URI found for LDL RECEPTOR
 FUT3, http://purl.uniprot.org/uniprot/P21217, 3-galactosyl-N-acetylglucosaminide 4-alpha-L-fucosyltransferase FUT3
-FUT3, http://purl.uniprot.org/uniprot/P21217, 3-galactosyl-N-acetylglucosaminide 4-alpha-L-fucosyltransferase FUT3
+LE, http://purl.uniprot.org/uniprot/P21217, 3-galactosyl-N-acetylglucosaminide 4-alpha-L-fucosyltransferase FUT3
 No URI found for LECTIN
 No URI found for LH
 No URI found for LOC100125585
@@ -1058,19 +1058,19 @@ MEGF7, http://purl.uniprot.org/uniprot/O75096, Low-density lipoprotein receptor-
 KIAA0816, http://purl.uniprot.org/uniprot/O75096, Low-density lipoprotein receptor-related protein 4
 No URI found for LR
 LRP4, http://purl.uniprot.org/uniprot/O75096, Low-density lipoprotein receptor-related protein 4
-LRP4, http://purl.uniprot.org/uniprot/O75096, Low-density lipoprotein receptor-related protein 4
-LRP4, http://purl.uniprot.org/uniprot/O75096, Low-density lipoprotein receptor-related protein 4
-LRP4, http://purl.uniprot.org/uniprot/O75096, Low-density lipoprotein receptor-related protein 4
+LRP10, http://purl.uniprot.org/uniprot/O75096, Low-density lipoprotein receptor-related protein 4
+MEGF7, http://purl.uniprot.org/uniprot/O75096, Low-density lipoprotein receptor-related protein 4
+KIAA0816, http://purl.uniprot.org/uniprot/O75096, Low-density lipoprotein receptor-related protein 4
 LRPPRC, http://purl.uniprot.org/uniprot/P42704, Leucine-rich PPR motif-containing protein, mitochondrial
-LRPPRC, http://purl.uniprot.org/uniprot/P42704, Leucine-rich PPR motif-containing protein, mitochondrial
+LRP130, http://purl.uniprot.org/uniprot/P42704, Leucine-rich PPR motif-containing protein, mitochondrial
 No URI found for LS
 No URI found for M1
 No URI found for M3
 No URI found for M4
 MADD, http://purl.uniprot.org/uniprot/Q8WXG6, MAP kinase-activating death domain protein
-MADD, http://purl.uniprot.org/uniprot/Q8WXG6, MAP kinase-activating death domain protein
-MADD, http://purl.uniprot.org/uniprot/Q8WXG6, MAP kinase-activating death domain protein
-MADD, http://purl.uniprot.org/uniprot/Q8WXG6, MAP kinase-activating death domain protein
+DENN, http://purl.uniprot.org/uniprot/Q8WXG6, MAP kinase-activating death domain protein
+IG20, http://purl.uniprot.org/uniprot/Q8WXG6, MAP kinase-activating death domain protein
+KIAA0358, http://purl.uniprot.org/uniprot/Q8WXG6, MAP kinase-activating death domain protein
 No URI found for MANNOSE PHOSPHATE ISOMERASE
 No URI found for MANNOSE-1-PHOSPHATE
 MPI, http://purl.uniprot.org/uniprot/P34949, Mannose-6-phosphate isomerase
@@ -1087,26 +1087,26 @@ DIBD1, http://purl.uniprot.org/uniprot/Q9H6U8, Alpha-1,2-mannosyltransferase ALG
 No URI found for MAOB
 No URI found for MAP1LC3A
 MAPT, http://purl.uniprot.org/uniprot/P10636, Microtubule-associated protein tau
-MAPT, http://purl.uniprot.org/uniprot/P10636, Microtubule-associated protein tau
-MAPT, http://purl.uniprot.org/uniprot/P10636, Microtubule-associated protein tau
-MAPT, http://purl.uniprot.org/uniprot/P10636, Microtubule-associated protein tau
+MAPTL, http://purl.uniprot.org/uniprot/P10636, Microtubule-associated protein tau
+MTBT1, http://purl.uniprot.org/uniprot/P10636, Microtubule-associated protein tau
+TAU, http://purl.uniprot.org/uniprot/P10636, Microtubule-associated protein tau
 MBL2, http://purl.uniprot.org/uniprot/P11226, Mannose-binding protein C
-MBL2, http://purl.uniprot.org/uniprot/P11226, Mannose-binding protein C
+MBL, http://purl.uniprot.org/uniprot/P11226, Mannose-binding protein C
 MBNL1, http://purl.uniprot.org/uniprot/Q9NR56, Muscleblind-like protein 1
-MBNL1, http://purl.uniprot.org/uniprot/Q9NR56, Muscleblind-like protein 1
-MBNL1, http://purl.uniprot.org/uniprot/Q9NR56, Muscleblind-like protein 1
-MBNL1, http://purl.uniprot.org/uniprot/Q9NR56, Muscleblind-like protein 1
+EXP, http://purl.uniprot.org/uniprot/Q9NR56, Muscleblind-like protein 1
+KIAA0428, http://purl.uniprot.org/uniprot/Q9NR56, Muscleblind-like protein 1
+MBNL, http://purl.uniprot.org/uniprot/Q9NR56, Muscleblind-like protein 1
 MBNL2, http://purl.uniprot.org/uniprot/Q5VZF2, Muscleblind-like protein 2
-MBNL2, http://purl.uniprot.org/uniprot/Q5VZF2, Muscleblind-like protein 2
-MBNL2, http://purl.uniprot.org/uniprot/Q5VZF2, Muscleblind-like protein 2
-MBNL2, http://purl.uniprot.org/uniprot/Q5VZF2, Muscleblind-like protein 2
+MLP1, http://purl.uniprot.org/uniprot/Q5VZF2, Muscleblind-like protein 2
+MBLL, http://purl.uniprot.org/uniprot/Q5VZF2, Muscleblind-like protein 2
+MBLL39, http://purl.uniprot.org/uniprot/Q5VZF2, Muscleblind-like protein 2
 MBNL3, http://purl.uniprot.org/uniprot/Q9NUK0, Muscleblind-like protein 3
-MBNL3, http://purl.uniprot.org/uniprot/Q9NUK0, Muscleblind-like protein 3
-MBNL3, http://purl.uniprot.org/uniprot/Q9NUK0, Muscleblind-like protein 3
-MBNL3, http://purl.uniprot.org/uniprot/Q9NUK0, Muscleblind-like protein 3
+CHCR, http://purl.uniprot.org/uniprot/Q9NUK0, Muscleblind-like protein 3
+MBLX39, http://purl.uniprot.org/uniprot/Q9NUK0, Muscleblind-like protein 3
+MBXL, http://purl.uniprot.org/uniprot/Q9NUK0, Muscleblind-like protein 3
 No URI found for MCAD
 LY86, http://purl.uniprot.org/uniprot/O95711, Lymphocyte antigen 86
-LY86, http://purl.uniprot.org/uniprot/O95711, Lymphocyte antigen 86
+MD1, http://purl.uniprot.org/uniprot/O95711, Lymphocyte antigen 86
 No URI found for MECHANISTIC TARGET OF RAPAMYCIN
 No URI found for MECP2
 No URI found for MEDIUM CHAIN ACYL-COA DEHYDROGENASE
@@ -1120,18 +1120,18 @@ PMVK, http://purl.uniprot.org/uniprot/Q15126, Phosphomevalonate kinase
 PMKI, http://purl.uniprot.org/uniprot/Q15126, Phosphomevalonate kinase
 No URI found for MFP2
 MTSS1, http://purl.uniprot.org/uniprot/O43312, Protein MTSS 1
-MTSS1, http://purl.uniprot.org/uniprot/O43312, Protein MTSS 1
+MIM, http://purl.uniprot.org/uniprot/O43312, Protein MTSS 1
 No URI found for MIRR
 No URI found for MITOCHONDRIAL ATP SYNTHASE
 No URI found for MITOCHONDRIAL ATPASE
 No URI found for MITOCHONDRIAL METHIONYL-TRNA FORMYLTRANSFERASE
 ATXN3, http://purl.uniprot.org/uniprot/P54252, Ataxin-3
+MJD, http://purl.uniprot.org/uniprot/P54252, Ataxin-3
 ATXN3, http://purl.uniprot.org/uniprot/P54252, Ataxin-3
-ATXN3, http://purl.uniprot.org/uniprot/P54252, Ataxin-3
-ATXN3, http://purl.uniprot.org/uniprot/P54252, Ataxin-3
+MJD1, http://purl.uniprot.org/uniprot/P54252, Ataxin-3
 No URI found for MMA
 MMD, http://purl.uniprot.org/uniprot/Q15546, Monocyte to macrophage differentiation factor
-MMD, http://purl.uniprot.org/uniprot/Q15546, Monocyte to macrophage differentiation factor
+PAQR11, http://purl.uniprot.org/uniprot/Q15546, Monocyte to macrophage differentiation factor
 No URI found for MOL
 MOCS2, http://purl.uniprot.org/uniprot/O96007, Molybdopterin synthase catalytic subunit
 MCBPE, http://purl.uniprot.org/uniprot/O96007, Molybdopterin synthase catalytic subunit
@@ -1139,47 +1139,47 @@ MOCO1, http://purl.uniprot.org/uniprot/O96007, Molybdopterin synthase catalytic 
 MOCO1, http://purl.uniprot.org/uniprot/O96033, Molybdopterin synthase sulfur carrier subunit
 No URI found for MONOAMINE OXIDASE A
 MPI, http://purl.uniprot.org/uniprot/P34949, Mannose-6-phosphate isomerase
-MPI, http://purl.uniprot.org/uniprot/P34949, Mannose-6-phosphate isomerase
+PMI1, http://purl.uniprot.org/uniprot/P34949, Mannose-6-phosphate isomerase
 No URI found for MRCK
 DEFA1, http://purl.uniprot.org/uniprot/P59665, Neutrophil defensin 1
-DEFA1, http://purl.uniprot.org/uniprot/P59665, Neutrophil defensin 1
+MRS, http://purl.uniprot.org/uniprot/P59665, Neutrophil defensin 1
 No URI found for MSA
 No URI found for MSH2
 MSH3, http://purl.uniprot.org/uniprot/P20585, DNA mismatch repair protein Msh3
-MSH3, http://purl.uniprot.org/uniprot/P20585, DNA mismatch repair protein Msh3
-MSH3, http://purl.uniprot.org/uniprot/P20585, DNA mismatch repair protein Msh3
+DUC1, http://purl.uniprot.org/uniprot/P20585, DNA mismatch repair protein Msh3
+DUG, http://purl.uniprot.org/uniprot/P20585, DNA mismatch repair protein Msh3
 No URI found for MT-1
 MT-ATP6, http://purl.uniprot.org/uniprot/P00846, ATP synthase subunit a
-MT-ATP6, http://purl.uniprot.org/uniprot/P00846, ATP synthase subunit a
-MT-ATP6, http://purl.uniprot.org/uniprot/P00846, ATP synthase subunit a
-MT-ATP6, http://purl.uniprot.org/uniprot/P00846, ATP synthase subunit a
+ATP6, http://purl.uniprot.org/uniprot/P00846, ATP synthase subunit a
+ATPASE6, http://purl.uniprot.org/uniprot/P00846, ATP synthase subunit a
+MTATP6, http://purl.uniprot.org/uniprot/P00846, ATP synthase subunit a
 MT-ND1, http://purl.uniprot.org/uniprot/P03886, NADH-ubiquinone oxidoreductase chain 1
-MT-ND1, http://purl.uniprot.org/uniprot/P03886, NADH-ubiquinone oxidoreductase chain 1
-MT-ND1, http://purl.uniprot.org/uniprot/P03886, NADH-ubiquinone oxidoreductase chain 1
-MT-ND1, http://purl.uniprot.org/uniprot/P03886, NADH-ubiquinone oxidoreductase chain 1
+ND1, http://purl.uniprot.org/uniprot/P03886, NADH-ubiquinone oxidoreductase chain 1
+NADH1, http://purl.uniprot.org/uniprot/P03886, NADH-ubiquinone oxidoreductase chain 1
+MTND1, http://purl.uniprot.org/uniprot/P03886, NADH-ubiquinone oxidoreductase chain 1
 MT-ND3, http://purl.uniprot.org/uniprot/P03897, NADH-ubiquinone oxidoreductase chain 3
-MT-ND3, http://purl.uniprot.org/uniprot/P03897, NADH-ubiquinone oxidoreductase chain 3
-MT-ND3, http://purl.uniprot.org/uniprot/P03897, NADH-ubiquinone oxidoreductase chain 3
-MT-ND3, http://purl.uniprot.org/uniprot/P03897, NADH-ubiquinone oxidoreductase chain 3
+ND3, http://purl.uniprot.org/uniprot/P03897, NADH-ubiquinone oxidoreductase chain 3
+MTND3, http://purl.uniprot.org/uniprot/P03897, NADH-ubiquinone oxidoreductase chain 3
+NADH3, http://purl.uniprot.org/uniprot/P03897, NADH-ubiquinone oxidoreductase chain 3
 MT-ND5, http://purl.uniprot.org/uniprot/P03915, NADH-ubiquinone oxidoreductase chain 5
-MT-ND5, http://purl.uniprot.org/uniprot/P03915, NADH-ubiquinone oxidoreductase chain 5
-MT-ND5, http://purl.uniprot.org/uniprot/P03915, NADH-ubiquinone oxidoreductase chain 5
-MT-ND5, http://purl.uniprot.org/uniprot/P03915, NADH-ubiquinone oxidoreductase chain 5
+ND5, http://purl.uniprot.org/uniprot/P03915, NADH-ubiquinone oxidoreductase chain 5
+NADH5, http://purl.uniprot.org/uniprot/P03915, NADH-ubiquinone oxidoreductase chain 5
+MTND5, http://purl.uniprot.org/uniprot/P03915, NADH-ubiquinone oxidoreductase chain 5
 MT-ND6, http://purl.uniprot.org/uniprot/P03923, NADH-ubiquinone oxidoreductase chain 6
-MT-ND6, http://purl.uniprot.org/uniprot/P03923, NADH-ubiquinone oxidoreductase chain 6
-MT-ND6, http://purl.uniprot.org/uniprot/P03923, NADH-ubiquinone oxidoreductase chain 6
-MT-ND6, http://purl.uniprot.org/uniprot/P03923, NADH-ubiquinone oxidoreductase chain 6
+ND6, http://purl.uniprot.org/uniprot/P03923, NADH-ubiquinone oxidoreductase chain 6
+NADH6, http://purl.uniprot.org/uniprot/P03923, NADH-ubiquinone oxidoreductase chain 6
+MTND6, http://purl.uniprot.org/uniprot/P03923, NADH-ubiquinone oxidoreductase chain 6
 MT-ATP6, http://purl.uniprot.org/uniprot/P00846, ATP synthase subunit a
-MT-ATP6, http://purl.uniprot.org/uniprot/P00846, ATP synthase subunit a
+MTATP6, http://purl.uniprot.org/uniprot/P00846, ATP synthase subunit a
 MTFMT, http://purl.uniprot.org/uniprot/Q96DP5, Methionyl-tRNA formyltransferase, mitochondrial
-MTFMT, http://purl.uniprot.org/uniprot/Q96DP5, Methionyl-tRNA formyltransferase, mitochondrial
-MTFMT, http://purl.uniprot.org/uniprot/Q96DP5, Methionyl-tRNA formyltransferase, mitochondrial
+FMT, http://purl.uniprot.org/uniprot/Q96DP5, Methionyl-tRNA formyltransferase, mitochondrial
+FMT1, http://purl.uniprot.org/uniprot/Q96DP5, Methionyl-tRNA formyltransferase, mitochondrial
 MTOR, http://purl.uniprot.org/uniprot/P42345, Serine/threonine-protein kinase mTOR
-MTOR, http://purl.uniprot.org/uniprot/P42345, Serine/threonine-protein kinase mTOR
-MTOR, http://purl.uniprot.org/uniprot/P42345, Serine/threonine-protein kinase mTOR
-MTOR, http://purl.uniprot.org/uniprot/P42345, Serine/threonine-protein kinase mTOR
-MTOR, http://purl.uniprot.org/uniprot/P42345, Serine/threonine-protein kinase mTOR
-MTOR, http://purl.uniprot.org/uniprot/P42345, Serine/threonine-protein kinase mTOR
+RAFT1, http://purl.uniprot.org/uniprot/P42345, Serine/threonine-protein kinase mTOR
+RAPT1, http://purl.uniprot.org/uniprot/P42345, Serine/threonine-protein kinase mTOR
+FRAP, http://purl.uniprot.org/uniprot/P42345, Serine/threonine-protein kinase mTOR
+FRAP1, http://purl.uniprot.org/uniprot/P42345, Serine/threonine-protein kinase mTOR
+FRAP2, http://purl.uniprot.org/uniprot/P42345, Serine/threonine-protein kinase mTOR
 AIMP2, http://purl.uniprot.org/uniprot/Q13155, Aminoacyl tRNA synthase complex-interacting multifunctional protein 2
 JTV1, http://purl.uniprot.org/uniprot/Q13155, Aminoacyl tRNA synthase complex-interacting multifunctional protein 2
 MBNL2, http://purl.uniprot.org/uniprot/Q5VZF2, Muscleblind-like protein 2
@@ -1203,9 +1203,9 @@ No URI found for MYELIN BASIC PROTEIN
 MAG, http://purl.uniprot.org/uniprot/P20916, Myelin-associated glycoprotein
 GMA, http://purl.uniprot.org/uniprot/P20916, Myelin-associated glycoprotein
 MYO9A, http://purl.uniprot.org/uniprot/B2RTY4, Unconventional myosin-IXa
-MYO9A, http://purl.uniprot.org/uniprot/B2RTY4, Unconventional myosin-IXa
+MYR7, http://purl.uniprot.org/uniprot/B2RTY4, Unconventional myosin-IXa
 MYOD1, http://purl.uniprot.org/uniprot/P15172, Myoblast determination protein 1
-MYOD1, http://purl.uniprot.org/uniprot/P15172, Myoblast determination protein 1
+MYOD, http://purl.uniprot.org/uniprot/P15172, Myoblast determination protein 1
 No URI found for MYOGENIN
 No URI found for MYOSIN
 No URI found for MYOSIN HEAVY CHAIN
@@ -1215,7 +1215,7 @@ MDPK, http://purl.uniprot.org/uniprot/Q09013, Myotonin-protein kinase
 No URI found for N-CADHERIN
 No URI found for NA(V)1.4
 NLRP1, http://purl.uniprot.org/uniprot/Q9C000, NACHT, LRR and PYD domains-containing protein 1
-NLRP1, http://purl.uniprot.org/uniprot/Q9C000, NACHT, LRR and PYD domains-containing protein 1
+NAC, http://purl.uniprot.org/uniprot/Q9C000, NACHT, LRR and PYD domains-containing protein 1
 No URI found for NACHR
 No URI found for NAD(P)H DEHYDROGENASE (QUINONE)
 NDUFA13, http://purl.uniprot.org/uniprot/Q9P0J0, NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 13
@@ -1246,35 +1246,35 @@ No URI found for NARP
 No URI found for NARS2
 No URI found for NAV1.4
 NBN, http://purl.uniprot.org/uniprot/O60934, Nibrin
-NBN, http://purl.uniprot.org/uniprot/O60934, Nibrin
+NBS, http://purl.uniprot.org/uniprot/O60934, Nibrin
 No URI found for NCL
 No URI found for ND
 No URI found for ND-51
 MT-ND1, http://purl.uniprot.org/uniprot/P03886, NADH-ubiquinone oxidoreductase chain 1
-MT-ND1, http://purl.uniprot.org/uniprot/P03886, NADH-ubiquinone oxidoreductase chain 1
+ND1, http://purl.uniprot.org/uniprot/P03886, NADH-ubiquinone oxidoreductase chain 1
 MT-ND2, http://purl.uniprot.org/uniprot/P03891, NADH-ubiquinone oxidoreductase chain 2
-MT-ND2, http://purl.uniprot.org/uniprot/P03891, NADH-ubiquinone oxidoreductase chain 2
+ND2, http://purl.uniprot.org/uniprot/P03891, NADH-ubiquinone oxidoreductase chain 2
 MT-ND3, http://purl.uniprot.org/uniprot/P03897, NADH-ubiquinone oxidoreductase chain 3
-MT-ND3, http://purl.uniprot.org/uniprot/P03897, NADH-ubiquinone oxidoreductase chain 3
+ND3, http://purl.uniprot.org/uniprot/P03897, NADH-ubiquinone oxidoreductase chain 3
 MT-ND4, http://purl.uniprot.org/uniprot/P03905, NADH-ubiquinone oxidoreductase chain 4
-MT-ND4, http://purl.uniprot.org/uniprot/P03905, NADH-ubiquinone oxidoreductase chain 4
+ND4, http://purl.uniprot.org/uniprot/P03905, NADH-ubiquinone oxidoreductase chain 4
 MT-ND5, http://purl.uniprot.org/uniprot/P03915, NADH-ubiquinone oxidoreductase chain 5
-MT-ND5, http://purl.uniprot.org/uniprot/P03915, NADH-ubiquinone oxidoreductase chain 5
+ND5, http://purl.uniprot.org/uniprot/P03915, NADH-ubiquinone oxidoreductase chain 5
 MT-ND6, http://purl.uniprot.org/uniprot/P03923, NADH-ubiquinone oxidoreductase chain 6
-MT-ND6, http://purl.uniprot.org/uniprot/P03923, NADH-ubiquinone oxidoreductase chain 6
+ND6, http://purl.uniprot.org/uniprot/P03923, NADH-ubiquinone oxidoreductase chain 6
 NDUFA12, http://purl.uniprot.org/uniprot/Q9UI09, NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12
-NDUFA12, http://purl.uniprot.org/uniprot/Q9UI09, NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12
+DAP13, http://purl.uniprot.org/uniprot/Q9UI09, NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12
 NDUFAF5, http://purl.uniprot.org/uniprot/Q5TEU4, Arginine-hydroxylase NDUFAF5, mitochondrial
-NDUFAF5, http://purl.uniprot.org/uniprot/Q5TEU4, Arginine-hydroxylase NDUFAF5, mitochondrial
+C20orf7, http://purl.uniprot.org/uniprot/Q5TEU4, Arginine-hydroxylase NDUFAF5, mitochondrial
 NDUFAF6, http://purl.uniprot.org/uniprot/Q330K2, NADH dehydrogenase (ubiquinone) complex I, assembly factor 6
-NDUFAF6, http://purl.uniprot.org/uniprot/Q330K2, NADH dehydrogenase (ubiquinone) complex I, assembly factor 6
+C8orf38, http://purl.uniprot.org/uniprot/Q330K2, NADH dehydrogenase (ubiquinone) complex I, assembly factor 6
 No URI found for NDUFS1
 No URI found for NDUFS2
 No URI found for NDUFS4
 No URI found for NDUFS7
 No URI found for NDUFS8
 NDUFV1, http://purl.uniprot.org/uniprot/P49821, NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial
-NDUFV1, http://purl.uniprot.org/uniprot/P49821, NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial
+UQOR1, http://purl.uniprot.org/uniprot/P49821, NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial
 No URI found for NEB
 No URI found for NESTIN
 No URI found for NEUN
@@ -1287,29 +1287,29 @@ NOS2A, http://purl.uniprot.org/uniprot/P35228, Nitric oxide synthase, inducible
 CAPON, http://purl.uniprot.org/uniprot/O75052, Carboxyl-terminal PDZ ligand of neuronal nitric oxide synthase protein
 KIAA0464, http://purl.uniprot.org/uniprot/O75052, Carboxyl-terminal PDZ ligand of neuronal nitric oxide synthase protein
 PLA1A, http://purl.uniprot.org/uniprot/Q53H76, Phospholipase A1 member A
-PLA1A, http://purl.uniprot.org/uniprot/Q53H76, Phospholipase A1 member A
+NMD, http://purl.uniprot.org/uniprot/Q53H76, Phospholipase A1 member A
 No URI found for NMDA
 NSMF, http://purl.uniprot.org/uniprot/Q6X4W1, NMDA receptor synaptonuclear signaling and neuronal migration factor
 NELF, http://purl.uniprot.org/uniprot/Q6X4W1, NMDA receptor synaptonuclear signaling and neuronal migration factor
 No URI found for NNOS
 No URI found for NONKETOTIC HYPERGLYCINEMIA
 NANOS1, http://purl.uniprot.org/uniprot/Q8WY41, Nanos homolog 1
-NANOS1, http://purl.uniprot.org/uniprot/Q8WY41, Nanos homolog 1
+NOS1, http://purl.uniprot.org/uniprot/Q8WY41, Nanos homolog 1
 NPPA, http://purl.uniprot.org/uniprot/P01160, Natriuretic peptides A
-NPPA, http://purl.uniprot.org/uniprot/P01160, Natriuretic peptides A
-NPPA, http://purl.uniprot.org/uniprot/P01160, Natriuretic peptides A
+ANP, http://purl.uniprot.org/uniprot/P01160, Natriuretic peptides A
+PND, http://purl.uniprot.org/uniprot/P01160, Natriuretic peptides A
 NDOR1, http://purl.uniprot.org/uniprot/Q9UHB4, NADPH-dependent diflavin oxidoreductase 1
-NDOR1, http://purl.uniprot.org/uniprot/Q9UHB4, NADPH-dependent diflavin oxidoreductase 1
+NR1, http://purl.uniprot.org/uniprot/Q9UHB4, NADPH-dependent diflavin oxidoreductase 1
 No URI found for NR2A
 No URI found for NR2B
 NFE2L2, http://purl.uniprot.org/uniprot/Q16236, Nuclear factor erythroid 2-related factor 2
-NFE2L2, http://purl.uniprot.org/uniprot/Q16236, Nuclear factor erythroid 2-related factor 2
+NRF2, http://purl.uniprot.org/uniprot/Q16236, Nuclear factor erythroid 2-related factor 2
 No URI found for NRT
 No URI found for NSCL
 No URI found for OAT
 No URI found for OCD
 OPA1, http://purl.uniprot.org/uniprot/O60313, Dynamin-like GTPase OPA1, mitochondrial
-OPA1, http://purl.uniprot.org/uniprot/O60313, Dynamin-like GTPase OPA1, mitochondrial
+KIAA0567, http://purl.uniprot.org/uniprot/O60313, Dynamin-like GTPase OPA1, mitochondrial
 No URI found for OPCA
 No URI found for ORNITHINE TRANSCARBAMYLASE
 No URI found for OTC
@@ -1323,35 +1323,35 @@ No URI found for P5CR
 No URI found for P62
 No URI found for P97
 BLOC1S6, http://purl.uniprot.org/uniprot/Q9UL45, Biogenesis of lysosome-related organelles complex 1 subunit 6
-BLOC1S6, http://purl.uniprot.org/uniprot/Q9UL45, Biogenesis of lysosome-related organelles complex 1 subunit 6
+PA, http://purl.uniprot.org/uniprot/Q9UL45, Biogenesis of lysosome-related organelles complex 1 subunit 6
 No URI found for PA1253
 No URI found for PAF-1
 No URI found for PAF-2
 PANK2, http://purl.uniprot.org/uniprot/Q9BZ23, Pantothenate kinase 2, mitochondrial
-PANK2, http://purl.uniprot.org/uniprot/Q9BZ23, Pantothenate kinase 2, mitochondrial
+C20orf48, http://purl.uniprot.org/uniprot/Q9BZ23, Pantothenate kinase 2, mitochondrial
 PRKN, http://purl.uniprot.org/uniprot/O60260, E3 ubiquitin-protein ligase parkin
-PRKN, http://purl.uniprot.org/uniprot/O60260, E3 ubiquitin-protein ligase parkin
+PARK2, http://purl.uniprot.org/uniprot/O60260, E3 ubiquitin-protein ligase parkin
 No URI found for PARKIN
 No URI found for PAS-1
 PCBD1, http://purl.uniprot.org/uniprot/P61457, Pterin-4-alpha-carbinolamine dehydratase
-PCBD1, http://purl.uniprot.org/uniprot/P61457, Pterin-4-alpha-carbinolamine dehydratase
-PCBD1, http://purl.uniprot.org/uniprot/P61457, Pterin-4-alpha-carbinolamine dehydratase
+PCBD, http://purl.uniprot.org/uniprot/P61457, Pterin-4-alpha-carbinolamine dehydratase
+DCOH, http://purl.uniprot.org/uniprot/P61457, Pterin-4-alpha-carbinolamine dehydratase
 No URI found for PCD
 SLC46A1, http://purl.uniprot.org/uniprot/Q96NT5, Proton-coupled folate transporter
-SLC46A1, http://purl.uniprot.org/uniprot/Q96NT5, Proton-coupled folate transporter
+PCFT, http://purl.uniprot.org/uniprot/Q96NT5, Proton-coupled folate transporter
 No URI found for PDC
 No URI found for PDE
 No URI found for PDH
 PDHA1, http://purl.uniprot.org/uniprot/P08559, Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial
-PDHA1, http://purl.uniprot.org/uniprot/P08559, Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial
+PHE1A, http://purl.uniprot.org/uniprot/P08559, Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial
 PTGDS, http://purl.uniprot.org/uniprot/P41222, Prostaglandin-H2 D-isomerase
-PTGDS, http://purl.uniprot.org/uniprot/P41222, Prostaglandin-H2 D-isomerase
-SLC26A4, http://purl.uniprot.org/uniprot/O43511, Pendrin
+PDS, http://purl.uniprot.org/uniprot/P41222, Prostaglandin-H2 D-isomerase
+PDS, http://purl.uniprot.org/uniprot/O43511, Pendrin
 PDXK, http://purl.uniprot.org/uniprot/O00764, Pyridoxal kinase
-PDXK, http://purl.uniprot.org/uniprot/O00764, Pyridoxal kinase
-PDXK, http://purl.uniprot.org/uniprot/O00764, Pyridoxal kinase
-PDXK, http://purl.uniprot.org/uniprot/O00764, Pyridoxal kinase
-PDXK, http://purl.uniprot.org/uniprot/O00764, Pyridoxal kinase
+PKH, http://purl.uniprot.org/uniprot/O00764, Pyridoxal kinase
+C21orf97, http://purl.uniprot.org/uniprot/O00764, Pyridoxal kinase
+C21orf124, http://purl.uniprot.org/uniprot/O00764, Pyridoxal kinase
+PNK, http://purl.uniprot.org/uniprot/O00764, Pyridoxal kinase
 No URI found for PENK
 No URI found for PEO
 No URI found for PERLECAN
@@ -1371,42 +1371,42 @@ PEX7, http://purl.uniprot.org/uniprot/O00628, Peroxisomal targeting signal 2 rec
 PTS2R, http://purl.uniprot.org/uniprot/O00628, Peroxisomal targeting signal 2 receptor
 No URI found for PEX1
 PEX10, http://purl.uniprot.org/uniprot/O60683, Peroxisome biogenesis factor 10
-PEX10, http://purl.uniprot.org/uniprot/O60683, Peroxisome biogenesis factor 10
+RNF69, http://purl.uniprot.org/uniprot/O60683, Peroxisome biogenesis factor 10
 PEX11A, http://purl.uniprot.org/uniprot/O75192, Peroxisomal membrane protein 11A
-PEX11A, http://purl.uniprot.org/uniprot/O75192, Peroxisomal membrane protein 11A
+PEX11, http://purl.uniprot.org/uniprot/O75192, Peroxisomal membrane protein 11A
 No URI found for PEX11B
 PEX12, http://purl.uniprot.org/uniprot/O00623, Peroxisome assembly protein 12
-PEX12, http://purl.uniprot.org/uniprot/O00623, Peroxisome assembly protein 12
+PAF3, http://purl.uniprot.org/uniprot/O00623, Peroxisome assembly protein 12
 No URI found for PEX13
 No URI found for PEX14
 No URI found for PEX14P
 No URI found for PEX16
 PEX19, http://purl.uniprot.org/uniprot/P40855, Peroxisomal biogenesis factor 19
-PEX19, http://purl.uniprot.org/uniprot/P40855, Peroxisomal biogenesis factor 19
-PEX19, http://purl.uniprot.org/uniprot/P40855, Peroxisomal biogenesis factor 19
+HK33, http://purl.uniprot.org/uniprot/P40855, Peroxisomal biogenesis factor 19
+PXF, http://purl.uniprot.org/uniprot/P40855, Peroxisomal biogenesis factor 19
 No URI found for PEX19P
 PEX2, http://purl.uniprot.org/uniprot/P28328, Peroxisome biogenesis factor 2
-PEX2, http://purl.uniprot.org/uniprot/P28328, Peroxisome biogenesis factor 2
-PEX2, http://purl.uniprot.org/uniprot/P28328, Peroxisome biogenesis factor 2
-PEX2, http://purl.uniprot.org/uniprot/P28328, Peroxisome biogenesis factor 2
-PEX2, http://purl.uniprot.org/uniprot/P28328, Peroxisome biogenesis factor 2
-PEX2, http://purl.uniprot.org/uniprot/P28328, Peroxisome biogenesis factor 2
+PXMP3, http://purl.uniprot.org/uniprot/P28328, Peroxisome biogenesis factor 2
+RNF72, http://purl.uniprot.org/uniprot/P28328, Peroxisome biogenesis factor 2
+PAF1, http://purl.uniprot.org/uniprot/P28328, Peroxisome biogenesis factor 2
+PMP35, http://purl.uniprot.org/uniprot/P28328, Peroxisome biogenesis factor 2
+PMP3, http://purl.uniprot.org/uniprot/P28328, Peroxisome biogenesis factor 2
 No URI found for PEX26
 No URI found for PEX3
 No URI found for PEX3P
 PEX5, http://purl.uniprot.org/uniprot/P50542, Peroxisomal targeting signal 1 receptor
-PEX5, http://purl.uniprot.org/uniprot/P50542, Peroxisomal targeting signal 1 receptor
+PXR1, http://purl.uniprot.org/uniprot/P50542, Peroxisomal targeting signal 1 receptor
 No URI found for PEX5P
 PEX6, http://purl.uniprot.org/uniprot/Q13608, Peroxisomal ATPase PEX6
-PEX6, http://purl.uniprot.org/uniprot/Q13608, Peroxisomal ATPase PEX6
+PXAAA1, http://purl.uniprot.org/uniprot/Q13608, Peroxisomal ATPase PEX6
 PEX7, http://purl.uniprot.org/uniprot/O00628, Peroxisomal targeting signal 2 receptor
-PEX7, http://purl.uniprot.org/uniprot/O00628, Peroxisomal targeting signal 2 receptor
+PTS2R, http://purl.uniprot.org/uniprot/O00628, Peroxisomal targeting signal 2 receptor
 No URI found for PGM1
 No URI found for PHENYLALANINE HYDROXYLASE
 PNMT, http://purl.uniprot.org/uniprot/P11086, Phenylethanolamine N-methyltransferase
 PENT, http://purl.uniprot.org/uniprot/P11086, Phenylethanolamine N-methyltransferase
 PHEX, http://purl.uniprot.org/uniprot/P78562, Phosphate-regulating neutral endopeptidase PHEX
-PHEX, http://purl.uniprot.org/uniprot/P78562, Phosphate-regulating neutral endopeptidase PHEX
+PEX, http://purl.uniprot.org/uniprot/P78562, Phosphate-regulating neutral endopeptidase PHEX
 PGM5, http://purl.uniprot.org/uniprot/Q15124, Phosphoglucomutase-like protein 5
 PGMRP, http://purl.uniprot.org/uniprot/Q15124, Phosphoglucomutase-like protein 5
 PLPP6, http://purl.uniprot.org/uniprot/Q8IY26, Polyisoprenoid diphosphate/phosphate phosphohydrolase PLPP6
@@ -1438,57 +1438,57 @@ No URI found for PHOSPHOMANNOSE ISOMERASE
 PMVK, http://purl.uniprot.org/uniprot/Q15126, Phosphomevalonate kinase
 PMKI, http://purl.uniprot.org/uniprot/Q15126, Phosphomevalonate kinase
 PHYH, http://purl.uniprot.org/uniprot/O14832, Phytanoyl-CoA dioxygenase, peroxisomal
-PHYH, http://purl.uniprot.org/uniprot/O14832, Phytanoyl-CoA dioxygenase, peroxisomal
+PAHX, http://purl.uniprot.org/uniprot/O14832, Phytanoyl-CoA dioxygenase, peroxisomal
 No URI found for PIGV
 No URI found for PKU
 No URI found for PL
 PLEC, http://purl.uniprot.org/uniprot/Q15149, Plectin
-PLEC, http://purl.uniprot.org/uniprot/Q15149, Plectin
+PLEC1, http://purl.uniprot.org/uniprot/Q15149, Plectin
 No URI found for PLECTIN
 PDXP, http://purl.uniprot.org/uniprot/Q96GD0, Chronophin
-PDXP, http://purl.uniprot.org/uniprot/Q96GD0, Chronophin
-PLP1, http://purl.uniprot.org/uniprot/P60201, Myelin proteolipid protein
+PLP, http://purl.uniprot.org/uniprot/Q96GD0, Chronophin
+PLP, http://purl.uniprot.org/uniprot/P60201, Myelin proteolipid protein
 PLPBP, http://purl.uniprot.org/uniprot/O94903, Pyridoxal phosphate homeostasis protein
-PLPBP, http://purl.uniprot.org/uniprot/O94903, Pyridoxal phosphate homeostasis protein
+PROSC, http://purl.uniprot.org/uniprot/O94903, Pyridoxal phosphate homeostasis protein
 No URI found for PM
 No URI found for PMM
 PMM1, http://purl.uniprot.org/uniprot/Q92871, Phosphomannomutase 1
-PMM1, http://purl.uniprot.org/uniprot/Q92871, Phosphomannomutase 1
+PMMH22, http://purl.uniprot.org/uniprot/Q92871, Phosphomannomutase 1
 No URI found for PMM2
 ABCD3, http://purl.uniprot.org/uniprot/P28288, ATP-binding cassette sub-family D member 3
-ABCD3, http://purl.uniprot.org/uniprot/P28288, ATP-binding cassette sub-family D member 3
+PMP70, http://purl.uniprot.org/uniprot/P28288, ATP-binding cassette sub-family D member 3
 No URI found for PN
 PEMT, http://purl.uniprot.org/uniprot/Q9UBM1, Phosphatidylethanolamine N-methyltransferase
-PEMT, http://purl.uniprot.org/uniprot/Q9UBM1, Phosphatidylethanolamine N-methyltransferase
-PNMT, http://purl.uniprot.org/uniprot/P11086, Phenylethanolamine N-methyltransferase
+PNMT, http://purl.uniprot.org/uniprot/Q9UBM1, Phosphatidylethanolamine N-methyltransferase
+PENT, http://purl.uniprot.org/uniprot/P11086, Phenylethanolamine N-methyltransferase
 No URI found for PNPO
 POLG, http://purl.uniprot.org/uniprot/P54098, DNA polymerase subunit gamma-1
-POLG, http://purl.uniprot.org/uniprot/P54098, DNA polymerase subunit gamma-1
-POLG, http://purl.uniprot.org/uniprot/P54098, DNA polymerase subunit gamma-1
-POLG, http://purl.uniprot.org/uniprot/P54098, DNA polymerase subunit gamma-1
+POLGA, http://purl.uniprot.org/uniprot/P54098, DNA polymerase subunit gamma-1
+MDP1, http://purl.uniprot.org/uniprot/P54098, DNA polymerase subunit gamma-1
+POLG1, http://purl.uniprot.org/uniprot/P54098, DNA polymerase subunit gamma-1
 PPCS, http://purl.uniprot.org/uniprot/Q9HAB8, Phosphopantothenate--cysteine ligase
-PPCS, http://purl.uniprot.org/uniprot/Q9HAB8, Phosphopantothenate--cysteine ligase
+COAB, http://purl.uniprot.org/uniprot/Q9HAB8, Phosphopantothenate--cysteine ligase
 No URI found for PPP2R2B
 PPT1, http://purl.uniprot.org/uniprot/P50897, Palmitoyl-protein thioesterase 1
-PPT1, http://purl.uniprot.org/uniprot/P50897, Palmitoyl-protein thioesterase 1
+PPT, http://purl.uniprot.org/uniprot/P50897, Palmitoyl-protein thioesterase 1
 TMEM37, http://purl.uniprot.org/uniprot/Q8WXS4, Voltage-dependent calcium channel gamma-like subunit
-TMEM37, http://purl.uniprot.org/uniprot/Q8WXS4, Voltage-dependent calcium channel gamma-like subunit
+PR, http://purl.uniprot.org/uniprot/Q8WXS4, Voltage-dependent calcium channel gamma-like subunit
 PRDX2, http://purl.uniprot.org/uniprot/P32119, Peroxiredoxin-2
-PRDX2, http://purl.uniprot.org/uniprot/P32119, Peroxiredoxin-2
-PRDX2, http://purl.uniprot.org/uniprot/P32119, Peroxiredoxin-2
+NKEFB, http://purl.uniprot.org/uniprot/P32119, Peroxiredoxin-2
+TDPX1, http://purl.uniprot.org/uniprot/P32119, Peroxiredoxin-2
 PREPL, http://purl.uniprot.org/uniprot/Q4J6C6, Prolyl endopeptidase-like
-PREPL, http://purl.uniprot.org/uniprot/Q4J6C6, Prolyl endopeptidase-like
+KIAA0436, http://purl.uniprot.org/uniprot/Q4J6C6, Prolyl endopeptidase-like
 No URI found for PREPROINSULIN
 No URI found for PREPROTACHYKININ
 PRKCG, http://purl.uniprot.org/uniprot/P05129, Protein kinase C gamma type
-PRKCG, http://purl.uniprot.org/uniprot/P05129, Protein kinase C gamma type
+PKCG, http://purl.uniprot.org/uniprot/P05129, Protein kinase C gamma type
 PRNP, http://purl.uniprot.org/uniprot/P04156, Major prion protein
-PRNP, http://purl.uniprot.org/uniprot/P04156, Major prion protein
-PRNP, http://purl.uniprot.org/uniprot/P04156, Major prion protein
-PRNP, http://purl.uniprot.org/uniprot/P04156, Major prion protein
-PRNP, http://purl.uniprot.org/uniprot/F7VJQ1, Alternative prion protein
-PRNP, http://purl.uniprot.org/uniprot/F7VJQ1, Alternative prion protein
-PRNP, http://purl.uniprot.org/uniprot/F7VJQ1, Alternative prion protein
+PRP, http://purl.uniprot.org/uniprot/P04156, Major prion protein
+ALTPRP, http://purl.uniprot.org/uniprot/P04156, Major prion protein
+PRIP, http://purl.uniprot.org/uniprot/P04156, Major prion protein
+PRP, http://purl.uniprot.org/uniprot/F7VJQ1, Alternative prion protein
+ALTPRP, http://purl.uniprot.org/uniprot/F7VJQ1, Alternative prion protein
+PRIP, http://purl.uniprot.org/uniprot/F7VJQ1, Alternative prion protein
 PIP, http://purl.uniprot.org/uniprot/P12273, Prolactin-inducible protein
 GCDFP15, http://purl.uniprot.org/uniprot/P12273, Prolactin-inducible protein
 GPIP4, http://purl.uniprot.org/uniprot/P12273, Prolactin-inducible protein
@@ -1498,7 +1498,7 @@ PRH, http://purl.uniprot.org/uniprot/P81277, Prolactin-releasing peptide
 No URI found for PROMM
 No URI found for PROSALPHA5
 PLPBP, http://purl.uniprot.org/uniprot/O94903, Pyridoxal phosphate homeostasis protein
-PLPBP, http://purl.uniprot.org/uniprot/O94903, Pyridoxal phosphate homeostasis protein
+PROSC, http://purl.uniprot.org/uniprot/O94903, Pyridoxal phosphate homeostasis protein
 No URI found for PROTEASE-ACTIVATED RECEPTOR 1
 CD8A, http://purl.uniprot.org/uniprot/P01732, T-cell surface glycoprotein CD8 alpha chain
 MAL, http://purl.uniprot.org/uniprot/P01732, T-cell surface glycoprotein CD8 alpha chain
@@ -2194,8 +2194,8 @@ C17orf74, http://purl.uniprot.org/uniprot/Q0P670, Uncharacterized protein SPEM2
 C1orf191, http://purl.uniprot.org/uniprot/Q7Z2R9, Putative uncharacterized protein SSBP3-AS1
 No URI found for PROTHROMBIN
 PTBP1, http://purl.uniprot.org/uniprot/P26599, Polypyrimidine tract-binding protein 1
-PTBP1, http://purl.uniprot.org/uniprot/P26599, Polypyrimidine tract-binding protein 1
-PTBP2, http://purl.uniprot.org/uniprot/Q9UKA9, Polypyrimidine tract-binding protein 2
+PTB, http://purl.uniprot.org/uniprot/P26599, Polypyrimidine tract-binding protein 1
+PTB, http://purl.uniprot.org/uniprot/Q9UKA9, Polypyrimidine tract-binding protein 2
 PCBD1, http://purl.uniprot.org/uniprot/P61457, Pterin-4-alpha-carbinolamine dehydratase
 PCBD, http://purl.uniprot.org/uniprot/P61457, Pterin-4-alpha-carbinolamine dehydratase
 DCOH, http://purl.uniprot.org/uniprot/P61457, Pterin-4-alpha-carbinolamine dehydratase
@@ -2203,7 +2203,7 @@ DCOH2, http://purl.uniprot.org/uniprot/Q9H0N5, Pterin-4-alpha-carbinolamine dehy
 DCOHM, http://purl.uniprot.org/uniprot/Q9H0N5, Pterin-4-alpha-carbinolamine dehydratase 2
 No URI found for PTERIN-4A-CARBINOLAMINE DEHYDRATASE
 PTGS1, http://purl.uniprot.org/uniprot/P23219, Prostaglandin G/H synthase 1
-PTGS1, http://purl.uniprot.org/uniprot/P23219, Prostaglandin G/H synthase 1
+COX1, http://purl.uniprot.org/uniprot/P23219, Prostaglandin G/H synthase 1
 No URI found for PTPS
 No URI found for PTS
 No URI found for PTS1
@@ -2235,26 +2235,26 @@ PDHK4, http://purl.uniprot.org/uniprot/Q16654, [Pyruvate dehydrogenase (acetyl-t
 DLAT, http://purl.uniprot.org/uniprot/P10515, Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial
 DLTA, http://purl.uniprot.org/uniprot/P10515, Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial
 QDPR, http://purl.uniprot.org/uniprot/P09417, Dihydropteridine reductase
-QDPR, http://purl.uniprot.org/uniprot/P09417, Dihydropteridine reductase
-QDPR, http://purl.uniprot.org/uniprot/P09417, Dihydropteridine reductase
+DHPR, http://purl.uniprot.org/uniprot/P09417, Dihydropteridine reductase
+SDR33C1, http://purl.uniprot.org/uniprot/P09417, Dihydropteridine reductase
 RACK1, http://purl.uniprot.org/uniprot/P63244, Small ribosomal subunit protein RACK1
-RACK1, http://purl.uniprot.org/uniprot/P63244, Small ribosomal subunit protein RACK1
+GNB2L1, http://purl.uniprot.org/uniprot/P63244, Small ribosomal subunit protein RACK1
 No URI found for RAD23A
 RAN, http://purl.uniprot.org/uniprot/P62826, GTP-binding nuclear protein Ran
-RAN, http://purl.uniprot.org/uniprot/P62826, GTP-binding nuclear protein Ran
+ARA24, http://purl.uniprot.org/uniprot/P62826, GTP-binding nuclear protein Ran
 RAPSN, http://purl.uniprot.org/uniprot/Q13702, 43 kDa receptor-associated protein of the synapse
-RAPSN, http://purl.uniprot.org/uniprot/Q13702, 43 kDa receptor-associated protein of the synapse
+RNF205, http://purl.uniprot.org/uniprot/Q13702, 43 kDa receptor-associated protein of the synapse
 No URI found for RAPSYN
 SLC52A1, http://purl.uniprot.org/uniprot/Q9NWF4, Solute carrier family 52, riboflavin transporter, member 1
-SLC52A1, http://purl.uniprot.org/uniprot/Q9NWF4, Solute carrier family 52, riboflavin transporter, member 1
+RFT1, http://purl.uniprot.org/uniprot/Q9NWF4, Solute carrier family 52, riboflavin transporter, member 1
 RHO, http://purl.uniprot.org/uniprot/P08100, Rhodopsin
-RHO, http://purl.uniprot.org/uniprot/P08100, Rhodopsin
+OPN2, http://purl.uniprot.org/uniprot/P08100, Rhodopsin
 No URI found for ROCK
 ROS1, http://purl.uniprot.org/uniprot/P08922, Proto-oncogene tyrosine-protein kinase ROS
-ROS1, http://purl.uniprot.org/uniprot/P08922, Proto-oncogene tyrosine-protein kinase ROS
+ROS, http://purl.uniprot.org/uniprot/P08922, Proto-oncogene tyrosine-protein kinase ROS
 No URI found for RTT
 RYR1, http://purl.uniprot.org/uniprot/P21817, Ryanodine receptor 1
-RYR1, http://purl.uniprot.org/uniprot/P21817, Ryanodine receptor 1
+RYDR, http://purl.uniprot.org/uniprot/P21817, Ryanodine receptor 1
 AHCYL1, http://purl.uniprot.org/uniprot/O43865, S-adenosylhomocysteine hydrolase-like protein 1
 DCAL, http://purl.uniprot.org/uniprot/O43865, S-adenosylhomocysteine hydrolase-like protein 1
 IRBIT, http://purl.uniprot.org/uniprot/O43865, S-adenosylhomocysteine hydrolase-like protein 1
@@ -2263,64 +2263,64 @@ No URI found for S100B
 No URI found for S6K1
 No URI found for SAOUHSC_00720
 SAR1A, http://purl.uniprot.org/uniprot/Q9NR31, Small COPII coat GTPase SAR1A
-SAR1A, http://purl.uniprot.org/uniprot/Q9NR31, Small COPII coat GTPase SAR1A
-ZFYVE9, http://purl.uniprot.org/uniprot/O95405, Zinc finger FYVE domain-containing protein 9
+SARA, http://purl.uniprot.org/uniprot/Q9NR31, Small COPII coat GTPase SAR1A
+SARA, http://purl.uniprot.org/uniprot/O95405, Zinc finger FYVE domain-containing protein 9
 No URI found for SBMA
 No URI found for SCA-1
 ATXN1, http://purl.uniprot.org/uniprot/P54253, Ataxin-1
-ATXN1, http://purl.uniprot.org/uniprot/P54253, Ataxin-1
+SCA1, http://purl.uniprot.org/uniprot/P54253, Ataxin-1
 No URI found for SCA17
 ATXN2, http://purl.uniprot.org/uniprot/Q99700, Ataxin-2
-ATXN2, http://purl.uniprot.org/uniprot/Q99700, Ataxin-2
-LY6E, http://purl.uniprot.org/uniprot/Q16553, Lymphocyte antigen 6E
+SCA2, http://purl.uniprot.org/uniprot/Q99700, Ataxin-2
+SCA2, http://purl.uniprot.org/uniprot/Q16553, Lymphocyte antigen 6E
 ATXN3, http://purl.uniprot.org/uniprot/P54252, Ataxin-3
-ATXN3, http://purl.uniprot.org/uniprot/P54252, Ataxin-3
+SCA3, http://purl.uniprot.org/uniprot/P54252, Ataxin-3
 No URI found for SCA31
 No URI found for SCA4
 ATXN7, http://purl.uniprot.org/uniprot/O15265, Ataxin-7
-ATXN7, http://purl.uniprot.org/uniprot/O15265, Ataxin-7
+SCA7, http://purl.uniprot.org/uniprot/O15265, Ataxin-7
 ATXN8OS, http://purl.uniprot.org/uniprot/P0DMR3, Putative protein ATXN8OS
-ATXN8OS, http://purl.uniprot.org/uniprot/P0DMR3, Putative protein ATXN8OS
+SCA8, http://purl.uniprot.org/uniprot/P0DMR3, Putative protein ATXN8OS
 No URI found for SCAD
 No URI found for SCCMS
 SCD, http://purl.uniprot.org/uniprot/O00767, Stearoyl-CoA desaturase
-SCD, http://purl.uniprot.org/uniprot/O00767, Stearoyl-CoA desaturase
-SCD, http://purl.uniprot.org/uniprot/O00767, Stearoyl-CoA desaturase
-SCD, http://purl.uniprot.org/uniprot/O00767, Stearoyl-CoA desaturase
+SCD1, http://purl.uniprot.org/uniprot/O00767, Stearoyl-CoA desaturase
+FADS5, http://purl.uniprot.org/uniprot/O00767, Stearoyl-CoA desaturase
+SCDOS, http://purl.uniprot.org/uniprot/O00767, Stearoyl-CoA desaturase
 NF2, http://purl.uniprot.org/uniprot/P35240, Merlin
-NF2, http://purl.uniprot.org/uniprot/P35240, Merlin
+SCH, http://purl.uniprot.org/uniprot/P35240, Merlin
 SCN1A, http://purl.uniprot.org/uniprot/P35498, Sodium channel protein type 1 subunit alpha
-SCN1A, http://purl.uniprot.org/uniprot/P35498, Sodium channel protein type 1 subunit alpha
-SCN1A, http://purl.uniprot.org/uniprot/P35498, Sodium channel protein type 1 subunit alpha
+SCN1, http://purl.uniprot.org/uniprot/P35498, Sodium channel protein type 1 subunit alpha
+NAC1, http://purl.uniprot.org/uniprot/P35498, Sodium channel protein type 1 subunit alpha
 SCN2A, http://purl.uniprot.org/uniprot/Q99250, Sodium channel protein type 2 subunit alpha
-SCN2A, http://purl.uniprot.org/uniprot/Q99250, Sodium channel protein type 2 subunit alpha
-SCN2A, http://purl.uniprot.org/uniprot/Q99250, Sodium channel protein type 2 subunit alpha
-SCN2A, http://purl.uniprot.org/uniprot/Q99250, Sodium channel protein type 2 subunit alpha
-SCN2A, http://purl.uniprot.org/uniprot/Q99250, Sodium channel protein type 2 subunit alpha
+SCN2A2, http://purl.uniprot.org/uniprot/Q99250, Sodium channel protein type 2 subunit alpha
+SCN2A1, http://purl.uniprot.org/uniprot/Q99250, Sodium channel protein type 2 subunit alpha
+NAC2, http://purl.uniprot.org/uniprot/Q99250, Sodium channel protein type 2 subunit alpha
+HBA, http://purl.uniprot.org/uniprot/Q99250, Sodium channel protein type 2 subunit alpha
 No URI found for SCN4A
 No URI found for SCN5A
 SCN8A, http://purl.uniprot.org/uniprot/Q9UQD0, Sodium channel protein type 8 subunit alpha
-SCN8A, http://purl.uniprot.org/uniprot/Q9UQD0, Sodium channel protein type 8 subunit alpha
+MED, http://purl.uniprot.org/uniprot/Q9UQD0, Sodium channel protein type 8 subunit alpha
 SCO1, http://purl.uniprot.org/uniprot/O75880, Protein SCO1 homolog, mitochondrial
-SCO1, http://purl.uniprot.org/uniprot/O75880, Protein SCO1 homolog, mitochondrial
+SCOD1, http://purl.uniprot.org/uniprot/O75880, Protein SCO1 homolog, mitochondrial
 No URI found for SCO2
 No URI found for SCP-2
 No URI found for SCPX
 No URI found for SCS
 SDS, http://purl.uniprot.org/uniprot/P20132, L-serine dehydratase/L-threonine deaminase
-SDS, http://purl.uniprot.org/uniprot/P20132, L-serine dehydratase/L-threonine deaminase
-SDHB, http://purl.uniprot.org/uniprot/P21912, Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial
+SDH, http://purl.uniprot.org/uniprot/P20132, L-serine dehydratase/L-threonine deaminase
+SDH, http://purl.uniprot.org/uniprot/P21912, Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial
 SDHA, http://purl.uniprot.org/uniprot/P31040, Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial
-SDHA, http://purl.uniprot.org/uniprot/P31040, Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial
-SDHA, http://purl.uniprot.org/uniprot/P31040, Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial
+SDH2, http://purl.uniprot.org/uniprot/P31040, Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial
+SDHF, http://purl.uniprot.org/uniprot/P31040, Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial
 SDHB, http://purl.uniprot.org/uniprot/P21912, Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial
-SDHB, http://purl.uniprot.org/uniprot/P21912, Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial
-SDHB, http://purl.uniprot.org/uniprot/P21912, Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial
+SDH, http://purl.uniprot.org/uniprot/P21912, Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial
+SDH1, http://purl.uniprot.org/uniprot/P21912, Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial
 SDHC, http://purl.uniprot.org/uniprot/Q99643, Succinate dehydrogenase cytochrome b560 subunit, mitochondrial
-SDHC, http://purl.uniprot.org/uniprot/Q99643, Succinate dehydrogenase cytochrome b560 subunit, mitochondrial
-SDHC, http://purl.uniprot.org/uniprot/Q99643, Succinate dehydrogenase cytochrome b560 subunit, mitochondrial
+SDH3, http://purl.uniprot.org/uniprot/Q99643, Succinate dehydrogenase cytochrome b560 subunit, mitochondrial
+CYB560, http://purl.uniprot.org/uniprot/Q99643, Succinate dehydrogenase cytochrome b560 subunit, mitochondrial
 SDHD, http://purl.uniprot.org/uniprot/O14521, Succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial
-SDHD, http://purl.uniprot.org/uniprot/O14521, Succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial
+SDH4, http://purl.uniprot.org/uniprot/O14521, Succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial
 No URI found for SEC53
 No URI found for SEPIAPTERIN REDUCTASE
 SQSTM1, http://purl.uniprot.org/uniprot/Q13501, Sequestosome-1
@@ -2329,29 +2329,29 @@ OSIL, http://purl.uniprot.org/uniprot/Q13501, Sequestosome-1
 No URI found for SERAC1
 No URI found for SERCA1
 SERPINA7, http://purl.uniprot.org/uniprot/P05543, Thyroxine-binding globulin
-SERPINA7, http://purl.uniprot.org/uniprot/P05543, Thyroxine-binding globulin
+TBG, http://purl.uniprot.org/uniprot/P05543, Thyroxine-binding globulin
 No URI found for SERUM TRANSFERRIN
 No URI found for SHORT-CHAIN ACYL-COA DEHYDROGENASE
 No URI found for SHY1
 SIX5, http://purl.uniprot.org/uniprot/Q8N196, Homeobox protein SIX5
-SIX5, http://purl.uniprot.org/uniprot/Q8N196, Homeobox protein SIX5
+DMAHP, http://purl.uniprot.org/uniprot/Q8N196, Homeobox protein SIX5
 No URI found for SKELETAL MUSCLE SODIUM CHANNEL
 SLC18A3, http://purl.uniprot.org/uniprot/Q16572, Vesicular acetylcholine transporter
-SLC18A3, http://purl.uniprot.org/uniprot/Q16572, Vesicular acetylcholine transporter
+VACHT, http://purl.uniprot.org/uniprot/Q16572, Vesicular acetylcholine transporter
 No URI found for SLC19A3
 SLC25A1, http://purl.uniprot.org/uniprot/P53007, Tricarboxylate transport protein, mitochondrial
-SLC25A1, http://purl.uniprot.org/uniprot/P53007, Tricarboxylate transport protein, mitochondrial
+SLC20A3, http://purl.uniprot.org/uniprot/P53007, Tricarboxylate transport protein, mitochondrial
 SLC2A1, http://purl.uniprot.org/uniprot/P11166, Solute carrier family 2, facilitated glucose transporter member 1
-SLC2A1, http://purl.uniprot.org/uniprot/P11166, Solute carrier family 2, facilitated glucose transporter member 1
+GLUT1, http://purl.uniprot.org/uniprot/P11166, Solute carrier family 2, facilitated glucose transporter member 1
 SLC5A7, http://purl.uniprot.org/uniprot/Q9GZV3, High affinity choline transporter 1
-SLC5A7, http://purl.uniprot.org/uniprot/Q9GZV3, High affinity choline transporter 1
+CHT1, http://purl.uniprot.org/uniprot/Q9GZV3, High affinity choline transporter 1
 SLC6A2, http://purl.uniprot.org/uniprot/P23975, Sodium-dependent noradrenaline transporter
-SLC6A2, http://purl.uniprot.org/uniprot/P23975, Sodium-dependent noradrenaline transporter
-SLC6A2, http://purl.uniprot.org/uniprot/P23975, Sodium-dependent noradrenaline transporter
-SLC6A2, http://purl.uniprot.org/uniprot/P23975, Sodium-dependent noradrenaline transporter
+NAT1, http://purl.uniprot.org/uniprot/P23975, Sodium-dependent noradrenaline transporter
+NET1, http://purl.uniprot.org/uniprot/P23975, Sodium-dependent noradrenaline transporter
+SLC6A5, http://purl.uniprot.org/uniprot/P23975, Sodium-dependent noradrenaline transporter
 SLC9A6, http://purl.uniprot.org/uniprot/Q92581, Sodium/hydrogen exchanger 6
-SLC9A6, http://purl.uniprot.org/uniprot/Q92581, Sodium/hydrogen exchanger 6
-SLC9A6, http://purl.uniprot.org/uniprot/Q92581, Sodium/hydrogen exchanger 6
+KIAA0267, http://purl.uniprot.org/uniprot/Q92581, Sodium/hydrogen exchanger 6
+NHE6, http://purl.uniprot.org/uniprot/Q92581, Sodium/hydrogen exchanger 6
 No URI found for SNARE
 No URI found for SNE
 No URI found for SOD
@@ -2360,31 +2360,31 @@ No URI found for SOX2
 No URI found for SPD
 No URI found for SPF1
 SPAST, http://purl.uniprot.org/uniprot/Q9UBP0, Spastin
-SPAST, http://purl.uniprot.org/uniprot/Q9UBP0, Spastin
+SPG4, http://purl.uniprot.org/uniprot/Q9UBP0, Spastin
 No URI found for SPR
 SPTBN2, http://purl.uniprot.org/uniprot/O15020, Spectrin beta chain, non-erythrocytic 2
-SPTBN2, http://purl.uniprot.org/uniprot/O15020, Spectrin beta chain, non-erythrocytic 2
-SPTBN2, http://purl.uniprot.org/uniprot/O15020, Spectrin beta chain, non-erythrocytic 2
+SCA5, http://purl.uniprot.org/uniprot/O15020, Spectrin beta chain, non-erythrocytic 2
+KIAA0302, http://purl.uniprot.org/uniprot/O15020, Spectrin beta chain, non-erythrocytic 2
 SQSTM1, http://purl.uniprot.org/uniprot/Q13501, Sequestosome-1
-SQSTM1, http://purl.uniprot.org/uniprot/Q13501, Sequestosome-1
-SQSTM1, http://purl.uniprot.org/uniprot/Q13501, Sequestosome-1
+ORCA, http://purl.uniprot.org/uniprot/Q13501, Sequestosome-1
+OSIL, http://purl.uniprot.org/uniprot/Q13501, Sequestosome-1
 No URI found for SQUINT
 No URI found for SR
 SRD5A3, http://purl.uniprot.org/uniprot/Q9H8P0, Polyprenal reductase
-SRD5A3, http://purl.uniprot.org/uniprot/Q9H8P0, Polyprenal reductase
+SRD5A2L, http://purl.uniprot.org/uniprot/Q9H8P0, Polyprenal reductase
 SREBF2, http://purl.uniprot.org/uniprot/Q12772, Sterol regulatory element-binding protein 2
-SREBF2, http://purl.uniprot.org/uniprot/Q12772, Sterol regulatory element-binding protein 2
+SREBP2, http://purl.uniprot.org/uniprot/Q12772, Sterol regulatory element-binding protein 2
 No URI found for SSA
 ALDH5A1, http://purl.uniprot.org/uniprot/P51649, Succinate-semialdehyde dehydrogenase, mitochondrial
-ALDH5A1, http://purl.uniprot.org/uniprot/P51649, Succinate-semialdehyde dehydrogenase, mitochondrial
+SSADH, http://purl.uniprot.org/uniprot/P51649, Succinate-semialdehyde dehydrogenase, mitochondrial
 No URI found for STRAIGHT-CHAIN ACYL-COA OXIDASE
 STX2, http://purl.uniprot.org/uniprot/P32856, Syntaxin-2
-STX2, http://purl.uniprot.org/uniprot/P32856, Syntaxin-2
-STX2, http://purl.uniprot.org/uniprot/P32856, Syntaxin-2
-STX2, http://purl.uniprot.org/uniprot/P32856, Syntaxin-2
-STX2, http://purl.uniprot.org/uniprot/P32856, Syntaxin-2
+STX2C, http://purl.uniprot.org/uniprot/P32856, Syntaxin-2
+STX2B, http://purl.uniprot.org/uniprot/P32856, Syntaxin-2
+STX2A, http://purl.uniprot.org/uniprot/P32856, Syntaxin-2
+EPIM, http://purl.uniprot.org/uniprot/P32856, Syntaxin-2
 STXBP1, http://purl.uniprot.org/uniprot/P61764, Syntaxin-binding protein 1
-STXBP1, http://purl.uniprot.org/uniprot/P61764, Syntaxin-binding protein 1
+UNC18A, http://purl.uniprot.org/uniprot/P61764, Syntaxin-binding protein 1
 SDHAF1, http://purl.uniprot.org/uniprot/A6NFY7, Succinate dehydrogenase assembly factor 1, mitochondrial
 LYRM8, http://purl.uniprot.org/uniprot/A6NFY7, Succinate dehydrogenase assembly factor 1, mitochondrial
 SDH4, http://purl.uniprot.org/uniprot/O14521, Succinate dehydrogenase [ubiquinone] cytochrome b small subunit, mitochondrial
@@ -2407,14 +2407,14 @@ No URI found for SUCCINIC SEMIALDEHYDE REDUCTASE
 No URI found for SUCLA2
 No URI found for SUCLG1
 SUGCT, http://purl.uniprot.org/uniprot/Q9HAC7, Succinate--hydroxymethylglutarate CoA-transferase
-SUGCT, http://purl.uniprot.org/uniprot/Q9HAC7, Succinate--hydroxymethylglutarate CoA-transferase
-SUGCT, http://purl.uniprot.org/uniprot/Q9HAC7, Succinate--hydroxymethylglutarate CoA-transferase
+C7orf10, http://purl.uniprot.org/uniprot/Q9HAC7, Succinate--hydroxymethylglutarate CoA-transferase
+DERP13, http://purl.uniprot.org/uniprot/Q9HAC7, Succinate--hydroxymethylglutarate CoA-transferase
 No URI found for SULFITE OXIDASE
 No URI found for SUPEROXIDE DISMUTASE
 SURF1, http://purl.uniprot.org/uniprot/Q15526, Surfeit locus protein 1
+SURF-1, http://purl.uniprot.org/uniprot/Q15526, Surfeit locus protein 1
 SURF1, http://purl.uniprot.org/uniprot/Q15526, Surfeit locus protein 1
-SURF1, http://purl.uniprot.org/uniprot/Q15526, Surfeit locus protein 1
-SURF1, http://purl.uniprot.org/uniprot/Q15526, Surfeit locus protein 1
+SURF-1, http://purl.uniprot.org/uniprot/Q15526, Surfeit locus protein 1
 No URI found for SXL
 No URI found for SYNAPTOTAGMIN 2
 No URI found for SYNAPTOTAGMIN II
@@ -2422,32 +2422,32 @@ No URI found for SYNUCLEIN ALPHA
 No URI found for SYT2
 No URI found for TAR
 MAPT, http://purl.uniprot.org/uniprot/P10636, Microtubule-associated protein tau
-MAPT, http://purl.uniprot.org/uniprot/P10636, Microtubule-associated protein tau
+TAU, http://purl.uniprot.org/uniprot/P10636, Microtubule-associated protein tau
 SERPINA7, http://purl.uniprot.org/uniprot/P05543, Thyroxine-binding globulin
-SERPINA7, http://purl.uniprot.org/uniprot/P05543, Thyroxine-binding globulin
+TBG, http://purl.uniprot.org/uniprot/P05543, Thyroxine-binding globulin
 TBP, http://purl.uniprot.org/uniprot/P20226, TATA-box-binding protein
-TBP, http://purl.uniprot.org/uniprot/P20226, TATA-box-binding protein
-TBP, http://purl.uniprot.org/uniprot/P20226, TATA-box-binding protein
-TBP, http://purl.uniprot.org/uniprot/P20226, TATA-box-binding protein
+TFIID, http://purl.uniprot.org/uniprot/P20226, TATA-box-binding protein
+TF2D, http://purl.uniprot.org/uniprot/P20226, TATA-box-binding protein
+GTF2D1, http://purl.uniprot.org/uniprot/P20226, TATA-box-binding protein
 No URI found for TDP-43
 No URI found for TED3
 No URI found for TER94
 TH, http://purl.uniprot.org/uniprot/P07101, Tyrosine 3-monooxygenase
-TH, http://purl.uniprot.org/uniprot/P07101, Tyrosine 3-monooxygenase
+TYH, http://purl.uniprot.org/uniprot/P07101, Tyrosine 3-monooxygenase
 No URI found for THIOLASE
 No URI found for THROMBIN
 No URI found for THROMBOPLASTIN
 No URI found for TK2
 No URI found for TMS
 TNF, http://purl.uniprot.org/uniprot/P01375, Tumor necrosis factor
-TNF, http://purl.uniprot.org/uniprot/P01375, Tumor necrosis factor
-TNF, http://purl.uniprot.org/uniprot/P01375, Tumor necrosis factor
+TNFSF2, http://purl.uniprot.org/uniprot/P01375, Tumor necrosis factor
+TNFA, http://purl.uniprot.org/uniprot/P01375, Tumor necrosis factor
 No URI found for TNR
 No URI found for TNSALP
 TOR1AIP1, http://purl.uniprot.org/uniprot/Q5JTV8, Torsin-1A-interacting protein 1
-TOR1AIP1, http://purl.uniprot.org/uniprot/Q5JTV8, Torsin-1A-interacting protein 1
+LAP1, http://purl.uniprot.org/uniprot/Q5JTV8, Torsin-1A-interacting protein 1
 TP53, http://purl.uniprot.org/uniprot/P04637, Cellular tumor antigen p53
-TP53, http://purl.uniprot.org/uniprot/P04637, Cellular tumor antigen p53
+P53, http://purl.uniprot.org/uniprot/P04637, Cellular tumor antigen p53
 No URI found for TPK1
 PDK3, http://purl.uniprot.org/uniprot/Q15120, [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 3, mitochondrial
 PDHK3, http://purl.uniprot.org/uniprot/Q15120, [Pyruvate dehydrogenase (acetyl-transferring)] kinase isozyme 3, mitochondrial
@@ -2515,15 +2515,15 @@ AAC4, http://purl.uniprot.org/uniprot/Q9H0C2, ADP/ATP translocase 4
 ANT4, http://purl.uniprot.org/uniprot/Q9H0C2, ADP/ATP translocase 4
 SFEC, http://purl.uniprot.org/uniprot/Q9H0C2, ADP/ATP translocase 4
 SCYL1, http://purl.uniprot.org/uniprot/Q96KG9, N-terminal kinase-like protein
-SCYL1, http://purl.uniprot.org/uniprot/Q96KG9, N-terminal kinase-like protein
-CD40LG, http://purl.uniprot.org/uniprot/P29965, CD40 ligand
+TRAP, http://purl.uniprot.org/uniprot/Q96KG9, N-terminal kinase-like protein
+TRAP, http://purl.uniprot.org/uniprot/P29965, CD40 ligand
 TNNT1, http://purl.uniprot.org/uniprot/P13805, Troponin T, slow skeletal muscle
 TNT, http://purl.uniprot.org/uniprot/P13805, Troponin T, slow skeletal muscle
 No URI found for TSH
 TTPA, http://purl.uniprot.org/uniprot/P49638, Alpha-tocopherol transfer protein
-TTPA, http://purl.uniprot.org/uniprot/P49638, Alpha-tocopherol transfer protein
+TPP1, http://purl.uniprot.org/uniprot/P49638, Alpha-tocopherol transfer protein
 TYMP, http://purl.uniprot.org/uniprot/P19971, Thymidine phosphorylase
-TYMP, http://purl.uniprot.org/uniprot/P19971, Thymidine phosphorylase
+ECGF1, http://purl.uniprot.org/uniprot/P19971, Thymidine phosphorylase
 MMP2, http://purl.uniprot.org/uniprot/P08253, 72 kDa type IV collagenase
 CLG4A, http://purl.uniprot.org/uniprot/P08253, 72 kDa type IV collagenase
 TH, http://purl.uniprot.org/uniprot/P07101, Tyrosine 3-monooxygenase
@@ -3117,3 +3117,5 @@ MKRN4, http://purl.uniprot.org/uniprot/Q13434, Putative E3 ubiquitin-protein lig
 MKRNP5, http://purl.uniprot.org/uniprot/Q13434, Putative E3 ubiquitin-protein ligase makorin-4
 RNF64, http://purl.uniprot.org/uniprot/Q13434, Putative E3 ubiquitin-protein ligase makorin-4
 ZNF127L1, http://purl.uniprot.org/uniprot/Q13434, Putative E3 ubiquitin-protein ligase makorin-4
+C14orf164, http://purl.uniprot.org/uniprot/A8MTL3, E3 ubiquitin-protein ligase RNF212B
+USP17C, http://purl.uniprot.org/uniprot/Q6QN14, Ubiquitin carboxyl-terminal hydrolase 17-like protein 6
