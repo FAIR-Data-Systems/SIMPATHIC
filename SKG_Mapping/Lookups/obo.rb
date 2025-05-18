@@ -1,3 +1,7 @@
+require 'json'
+require 'rest-client'
+require 'csv'
+
 class NCBO
   attr_accessor :uri, :url
 
@@ -7,7 +11,7 @@ class NCBO
   end
 
   def lookup_title_by_uri(term_uri:, ontology:)
-    warn "#{@uri} isn't an NCBO  URI, don't expect this to work!" unless @uri =~ /bioontology\.org/
+    warn "#{term_uri} isn't an NCBO  URI, don't expect this to work!" unless term_uri =~ /bioontology\.org/
     root = "http://data.bioontology.org/ontologies/#{ontology}/classes/"
     encoded = URI.encode_www_form_component term_uri
     url = root + encoded
