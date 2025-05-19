@@ -957,3 +957,24 @@ MONDO_0060663,http://purl.obolibrary.org/obo/MONDO_0060663,"congenital heart def
 MONDO_0060663,http://purl.obolibrary.org/obo/MONDO_0060663,"congenital heart defects, multiple types, 5",EFO_0000319,http://www.ebi.ac.uk/efo/EFO_0000319,cardiovascular disease
 MONDO_0060663,http://purl.obolibrary.org/obo/MONDO_0060663,"congenital heart defects, multiple types, 5",OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
 MONDO_0060704,http://purl.obolibrary.org/obo/MONDO_0060704,neurodevelopmental disorder with spastic quadriplegia and brain abnormalities with or without seizures,OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+EFO_0002496,http://www.ebi.ac.uk/efo/EFO_0002496,actinic keratosis,MONDO_0045024,http://purl.obolibrary.org/obo/MONDO_0045024,cancer or benign tumor
+EFO_0002496,http://www.ebi.ac.uk/efo/EFO_0002496,actinic keratosis,EFO_0010285,http://www.ebi.ac.uk/efo/EFO_0010285,integumentary system disease
+HP_0000265,http://purl.obolibrary.org/obo/HP_0000265,Mastoiditis,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0002144,http://purl.obolibrary.org/obo/HP_0002144,Tethered cord,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0002757,http://purl.obolibrary.org/obo/HP_0002757,Recurrent fractures,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0003756,http://purl.obolibrary.org/obo/HP_0003756,Skeletal myopathy,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0003756,http://purl.obolibrary.org/obo/HP_0003756,Skeletal myopathy,OTAR_0000006,http://www.ebi.ac.uk/efo/OTAR_0000006,OTAR_0000006
+HP_0005280,http://purl.obolibrary.org/obo/HP_0005280,Depressed nasal bridge,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0006114,http://purl.obolibrary.org/obo/HP_0006114,Multiple palmar creases,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0011411,http://purl.obolibrary.org/obo/HP_0011411,Forceps delivery,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0012389,http://purl.obolibrary.org/obo/HP_0012389,Appendicular hypotonia,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+MONDO_0003619,http://purl.obolibrary.org/obo/MONDO_0003619,salpingitis,OTAR_0000017,http://www.ebi.ac.uk/efo/OTAR_0000017,OTAR_0000017
+MONDO_0003619,http://purl.obolibrary.org/obo/MONDO_0003619,salpingitis,EFO_0009690,http://www.ebi.ac.uk/efo/EFO_0009690,urinary system disease
+MONDO_0004557,http://purl.obolibrary.org/obo/MONDO_0004557,congenital fibrosarcoma,MONDO_0045024,http://purl.obolibrary.org/obo/MONDO_0045024,cancer or benign tumor
+MONDO_0004557,http://purl.obolibrary.org/obo/MONDO_0004557,congenital fibrosarcoma,OTAR_0000006,http://www.ebi.ac.uk/efo/OTAR_0000006,OTAR_0000006
+MONDO_0007586,http://purl.obolibrary.org/obo/MONDO_0007586,"exostoses, multiple, type 2",MONDO_0024297,http://purl.obolibrary.org/obo/MONDO_0024297,obsolete nutritional or metabolic disease
+MONDO_0007586,http://purl.obolibrary.org/obo/MONDO_0007586,"exostoses, multiple, type 2",MONDO_0045024,http://purl.obolibrary.org/obo/MONDO_0045024,cancer or benign tumor
+MONDO_0007586,http://purl.obolibrary.org/obo/MONDO_0007586,"exostoses, multiple, type 2",OTAR_0000006,http://www.ebi.ac.uk/efo/OTAR_0000006,OTAR_0000006
+MONDO_0007586,http://purl.obolibrary.org/obo/MONDO_0007586,"exostoses, multiple, type 2",OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0012274,http://purl.obolibrary.org/obo/MONDO_0012274,acromesomelic dysplasia 3,OTAR_0000006,http://www.ebi.ac.uk/efo/OTAR_0000006,OTAR_0000006
+MONDO_0012274,http://purl.obolibrary.org/obo/MONDO_0012274,acromesomelic dysplasia 3,OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
