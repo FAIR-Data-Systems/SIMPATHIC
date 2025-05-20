@@ -978,3 +978,152 @@ MONDO_0007586,http://purl.obolibrary.org/obo/MONDO_0007586,"exostoses, multiple,
 MONDO_0007586,http://purl.obolibrary.org/obo/MONDO_0007586,"exostoses, multiple, type 2",OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
 MONDO_0012274,http://purl.obolibrary.org/obo/MONDO_0012274,acromesomelic dysplasia 3,OTAR_0000006,http://www.ebi.ac.uk/efo/OTAR_0000006,OTAR_0000006
 MONDO_0012274,http://purl.obolibrary.org/obo/MONDO_0012274,acromesomelic dysplasia 3,OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0013543,http://purl.obolibrary.org/obo/MONDO_0013543,trypsinogen deficiency,OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0013656,http://purl.obolibrary.org/obo/MONDO_0013656,"intellectual disability, autosomal dominant 9",EFO_0000618,http://www.ebi.ac.uk/efo/EFO_0000618,nervous system disease
+MONDO_0013656,http://purl.obolibrary.org/obo/MONDO_0013656,"intellectual disability, autosomal dominant 9",OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0013656,http://purl.obolibrary.org/obo/MONDO_0013656,"intellectual disability, autosomal dominant 9",MONDO_0002025,http://purl.obolibrary.org/obo/MONDO_0002025,psychiatric disorder
+MONDO_0014813,http://purl.obolibrary.org/obo/MONDO_0014813,hypomyelinating leukodystrophy 13,EFO_0000618,http://www.ebi.ac.uk/efo/EFO_0000618,nervous system disease
+MONDO_0014813,http://purl.obolibrary.org/obo/MONDO_0014813,hypomyelinating leukodystrophy 13,OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0030027,http://purl.obolibrary.org/obo/MONDO_0030027,"tremor, hereditary essential, 6",EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+MONDO_0030027,http://purl.obolibrary.org/obo/MONDO_0030027,"tremor, hereditary essential, 6",EFO_0000618,http://www.ebi.ac.uk/efo/EFO_0000618,nervous system disease
+MONDO_0030027,http://purl.obolibrary.org/obo/MONDO_0030027,"tremor, hereditary essential, 6",OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0042487,http://purl.obolibrary.org/obo/MONDO_0042487,uterine cervix carcinoma in situ,OTAR_0000017,http://www.ebi.ac.uk/efo/OTAR_0000017,OTAR_0000017
+MONDO_0042487,http://purl.obolibrary.org/obo/MONDO_0042487,uterine cervix carcinoma in situ,EFO_0009690,http://www.ebi.ac.uk/efo/EFO_0009690,urinary system disease
+MONDO_0042487,http://purl.obolibrary.org/obo/MONDO_0042487,uterine cervix carcinoma in situ,MONDO_0045024,http://purl.obolibrary.org/obo/MONDO_0045024,cancer or benign tumor
+EFO_0001358,http://www.ebi.ac.uk/efo/EFO_0001358,post-traumatic stress disorder,EFO_0000618,http://www.ebi.ac.uk/efo/EFO_0000618,nervous system disease
+EFO_0001358,http://www.ebi.ac.uk/efo/EFO_0001358,post-traumatic stress disorder,MONDO_0002025,http://purl.obolibrary.org/obo/MONDO_0002025,psychiatric disorder
+HP_0000341,http://purl.obolibrary.org/obo/HP_0000341,Narrow forehead,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0000391,http://purl.obolibrary.org/obo/HP_0000391,Thickened helices,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0000616,http://purl.obolibrary.org/obo/HP_0000616,Miosis,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0000725,http://purl.obolibrary.org/obo/HP_0000725,Psychotic episodes,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0001026,http://purl.obolibrary.org/obo/HP_0001026,Penetrating foot ulcers,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0007446,http://purl.obolibrary.org/obo/HP_0007446,Palmoplantar blistering,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0008994,http://purl.obolibrary.org/obo/HP_0008994,Proximal muscle weakness in lower limbs,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0009049,http://purl.obolibrary.org/obo/HP_0009049,Peroneal muscle atrophy,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+MONDO_0008295,http://purl.obolibrary.org/obo/MONDO_0008295,sporadic porphyria cutanea tarda,EFO_0009690,http://www.ebi.ac.uk/efo/EFO_0009690,urinary system disease
+MONDO_0008295,http://purl.obolibrary.org/obo/MONDO_0008295,sporadic porphyria cutanea tarda,MONDO_0024297,http://purl.obolibrary.org/obo/MONDO_0024297,obsolete nutritional or metabolic disease
+MONDO_0008295,http://purl.obolibrary.org/obo/MONDO_0008295,sporadic porphyria cutanea tarda,EFO_0001379,http://www.ebi.ac.uk/efo/EFO_0001379,endocrine system disease
+MONDO_0008295,http://purl.obolibrary.org/obo/MONDO_0008295,sporadic porphyria cutanea tarda,EFO_0010282,http://www.ebi.ac.uk/efo/EFO_0010282,gastrointestinal disease
+MONDO_0008295,http://purl.obolibrary.org/obo/MONDO_0008295,sporadic porphyria cutanea tarda,EFO_0000618,http://www.ebi.ac.uk/efo/EFO_0000618,nervous system disease
+MONDO_0008295,http://purl.obolibrary.org/obo/MONDO_0008295,sporadic porphyria cutanea tarda,OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0008295,http://purl.obolibrary.org/obo/MONDO_0008295,sporadic porphyria cutanea tarda,EFO_0010285,http://www.ebi.ac.uk/efo/EFO_0010285,integumentary system disease
+MONDO_0008295,http://purl.obolibrary.org/obo/MONDO_0008295,sporadic porphyria cutanea tarda,MONDO_0024458,http://purl.obolibrary.org/obo/MONDO_0024458,disorder of visual system
+MONDO_0014347,http://purl.obolibrary.org/obo/MONDO_0014347,"Rothmund-Thomson syndrome, type 3",OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0033622,http://purl.obolibrary.org/obo/MONDO_0033622,spermatogenic failure 44,OTAR_0000017,http://www.ebi.ac.uk/efo/OTAR_0000017,OTAR_0000017
+MONDO_0033622,http://purl.obolibrary.org/obo/MONDO_0033622,spermatogenic failure 44,EFO_0009690,http://www.ebi.ac.uk/efo/EFO_0009690,urinary system disease
+MONDO_0033622,http://purl.obolibrary.org/obo/MONDO_0033622,spermatogenic failure 44,OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+HP_0001279,http://purl.obolibrary.org/obo/HP_0001279,Syncope,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0001962,http://purl.obolibrary.org/obo/HP_0001962,Palpitations,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0040165,http://purl.obolibrary.org/obo/HP_0040165,Periostitis,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0045046,http://purl.obolibrary.org/obo/HP_0045046,Reduced insulin like growth factor binding protein acid labile subunit concentration,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+MONDO_0000643,http://purl.obolibrary.org/obo/MONDO_0000643,vulvar benign neoplasm,OTAR_0000017,http://www.ebi.ac.uk/efo/OTAR_0000017,OTAR_0000017
+MONDO_0000643,http://purl.obolibrary.org/obo/MONDO_0000643,vulvar benign neoplasm,EFO_0009690,http://www.ebi.ac.uk/efo/EFO_0009690,urinary system disease
+MONDO_0000643,http://purl.obolibrary.org/obo/MONDO_0000643,vulvar benign neoplasm,MONDO_0045024,http://purl.obolibrary.org/obo/MONDO_0045024,cancer or benign tumor
+MONDO_0004885,http://purl.obolibrary.org/obo/MONDO_0004885,choroidal sclerosis,EFO_0000319,http://www.ebi.ac.uk/efo/EFO_0000319,cardiovascular disease
+MONDO_0004885,http://purl.obolibrary.org/obo/MONDO_0004885,choroidal sclerosis,EFO_0000618,http://www.ebi.ac.uk/efo/EFO_0000618,nervous system disease
+MONDO_0004885,http://purl.obolibrary.org/obo/MONDO_0004885,choroidal sclerosis,MONDO_0024458,http://purl.obolibrary.org/obo/MONDO_0024458,disorder of visual system
+MONDO_0054743,http://purl.obolibrary.org/obo/MONDO_0054743,polycystic liver disease 3 with or without kidney cysts,EFO_0001379,http://www.ebi.ac.uk/efo/EFO_0001379,endocrine system disease
+MONDO_0054743,http://purl.obolibrary.org/obo/MONDO_0054743,polycystic liver disease 3 with or without kidney cysts,EFO_0010282,http://www.ebi.ac.uk/efo/EFO_0010282,gastrointestinal disease
+MONDO_0054743,http://purl.obolibrary.org/obo/MONDO_0054743,polycystic liver disease 3 with or without kidney cysts,OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0060712,http://purl.obolibrary.org/obo/MONDO_0060712,"obsolete developmental delay, intellectual disability, obesity, and dysmorphic features",OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+EFO_0000776,http://www.ebi.ac.uk/efo/EFO_0000776,Aeromonas hydrophila infection,EFO_0005741,http://www.ebi.ac.uk/efo/EFO_0005741,infectious disease
+HP_0000817,http://purl.obolibrary.org/obo/HP_0000817,Reduced eye contact,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0006882,http://purl.obolibrary.org/obo/HP_0006882,Severe hydrocephalus,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0011555,http://purl.obolibrary.org/obo/HP_0011555,Double inlet left ventricle,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0012167,http://purl.obolibrary.org/obo/HP_0012167,Hair-pulling,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0030369,http://purl.obolibrary.org/obo/HP_0030369,Induced vaginal delivery,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0100759,http://purl.obolibrary.org/obo/HP_0100759,Clubbing of fingers,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+MONDO_0004321,http://purl.obolibrary.org/obo/MONDO_0004321,endometrial mixed adenocarcinoma,OTAR_0000017,http://www.ebi.ac.uk/efo/OTAR_0000017,OTAR_0000017
+MONDO_0004321,http://purl.obolibrary.org/obo/MONDO_0004321,endometrial mixed adenocarcinoma,EFO_0009690,http://www.ebi.ac.uk/efo/EFO_0009690,urinary system disease
+MONDO_0004321,http://purl.obolibrary.org/obo/MONDO_0004321,endometrial mixed adenocarcinoma,MONDO_0045024,http://purl.obolibrary.org/obo/MONDO_0045024,cancer or benign tumor
+MONDO_0012057,http://purl.obolibrary.org/obo/MONDO_0012057,"legionnaire disease, susceptibility to",OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0012057,http://purl.obolibrary.org/obo/MONDO_0012057,"legionnaire disease, susceptibility to",EFO_0000540,http://www.ebi.ac.uk/efo/EFO_0000540,immune system disease
+MONDO_0018109,http://purl.obolibrary.org/obo/MONDO_0018109,fulminant viral hepatitis,EFO_0001379,http://www.ebi.ac.uk/efo/EFO_0001379,endocrine system disease
+MONDO_0018109,http://purl.obolibrary.org/obo/MONDO_0018109,fulminant viral hepatitis,EFO_0010282,http://www.ebi.ac.uk/efo/EFO_0010282,gastrointestinal disease
+MONDO_0030062,http://purl.obolibrary.org/obo/MONDO_0030062,"arrhythmogenic right ventricular dysplasia, familial, 14",OTAR_0000010,http://www.ebi.ac.uk/efo/OTAR_0000010,OTAR_0000010
+MONDO_0030062,http://purl.obolibrary.org/obo/MONDO_0030062,"arrhythmogenic right ventricular dysplasia, familial, 14",EFO_0000319,http://www.ebi.ac.uk/efo/EFO_0000319,cardiovascular disease
+MONDO_0030062,http://purl.obolibrary.org/obo/MONDO_0030062,"arrhythmogenic right ventricular dysplasia, familial, 14",OTAR_0000006,http://www.ebi.ac.uk/efo/OTAR_0000006,OTAR_0000006
+MONDO_0030062,http://purl.obolibrary.org/obo/MONDO_0030062,"arrhythmogenic right ventricular dysplasia, familial, 14",OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+HP_0000473,http://purl.obolibrary.org/obo/HP_0000473,Torticollis,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+MONDO_0021476,http://purl.obolibrary.org/obo/MONDO_0021476,benign neoplasm of tongue,EFO_0010282,http://www.ebi.ac.uk/efo/EFO_0010282,gastrointestinal disease
+MONDO_0021476,http://purl.obolibrary.org/obo/MONDO_0021476,benign neoplasm of tongue,MONDO_0045024,http://purl.obolibrary.org/obo/MONDO_0045024,cancer or benign tumor
+MONDO_0021476,http://purl.obolibrary.org/obo/MONDO_0021476,benign neoplasm of tongue,EFO_0000618,http://www.ebi.ac.uk/efo/EFO_0000618,nervous system disease
+MONDO_0030034,http://purl.obolibrary.org/obo/MONDO_0030034,"epilepsy, progressive myoclonic, 11",EFO_0000618,http://www.ebi.ac.uk/efo/EFO_0000618,nervous system disease
+MONDO_0030034,http://purl.obolibrary.org/obo/MONDO_0030034,"epilepsy, progressive myoclonic, 11",OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0032882,http://purl.obolibrary.org/obo/MONDO_0032882,Heyn-Sproul-Jackson syndrome,OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+EFO_0000613,http://www.ebi.ac.uk/efo/EFO_0000613,myxoid liposarcoma,MONDO_0045024,http://purl.obolibrary.org/obo/MONDO_0045024,cancer or benign tumor
+EFO_0000613,http://www.ebi.ac.uk/efo/EFO_0000613,myxoid liposarcoma,OTAR_0000006,http://www.ebi.ac.uk/efo/OTAR_0000006,OTAR_0000006
+HP_0001864,http://purl.obolibrary.org/obo/HP_0001864,Clinodactyly of the 5th toe,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0003720,http://purl.obolibrary.org/obo/HP_0003720,Generalized muscle hypertrophy,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0005085,http://purl.obolibrary.org/obo/HP_0005085,Limited knee flexion/extension,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0040183,http://purl.obolibrary.org/obo/HP_0040183,Encopresis,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+MONDO_0001302,http://purl.obolibrary.org/obo/MONDO_0001302,hypertensive heart disease,OTAR_0000010,http://www.ebi.ac.uk/efo/OTAR_0000010,OTAR_0000010
+MONDO_0001302,http://purl.obolibrary.org/obo/MONDO_0001302,hypertensive heart disease,EFO_0000319,http://www.ebi.ac.uk/efo/EFO_0000319,cardiovascular disease
+MONDO_0001859,http://purl.obolibrary.org/obo/MONDO_0001859,algoneurodystrophy,EFO_0000618,http://www.ebi.ac.uk/efo/EFO_0000618,nervous system disease
+MONDO_0012909,http://purl.obolibrary.org/obo/MONDO_0012909,"skeletal defects, genital hypoplasia, and intellectual disability",OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0015564,http://purl.obolibrary.org/obo/MONDO_0015564,Castleman disease,EFO_0005741,http://www.ebi.ac.uk/efo/EFO_0005741,infectious disease
+MONDO_0015564,http://purl.obolibrary.org/obo/MONDO_0015564,Castleman disease,MONDO_0045024,http://purl.obolibrary.org/obo/MONDO_0045024,cancer or benign tumor
+MONDO_0015564,http://purl.obolibrary.org/obo/MONDO_0015564,Castleman disease,OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0015564,http://purl.obolibrary.org/obo/MONDO_0015564,Castleman disease,EFO_0005803,http://www.ebi.ac.uk/efo/EFO_0005803,hematologic disease
+MONDO_0015564,http://purl.obolibrary.org/obo/MONDO_0015564,Castleman disease,EFO_0000540,http://www.ebi.ac.uk/efo/EFO_0000540,immune system disease
+MONDO_0018330,http://purl.obolibrary.org/obo/MONDO_0018330,mucinous adenocarcinoma of the appendix,EFO_0010282,http://www.ebi.ac.uk/efo/EFO_0010282,gastrointestinal disease
+MONDO_0018330,http://purl.obolibrary.org/obo/MONDO_0018330,mucinous adenocarcinoma of the appendix,MONDO_0045024,http://purl.obolibrary.org/obo/MONDO_0045024,cancer or benign tumor
+MONDO_0030030,http://purl.obolibrary.org/obo/MONDO_0030030,Nizon-Isidor syndrome,OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0030054,http://purl.obolibrary.org/obo/MONDO_0030054,"developmental and epileptic encephalopathy, 86",EFO_0000618,http://www.ebi.ac.uk/efo/EFO_0000618,nervous system disease
+MONDO_0030054,http://purl.obolibrary.org/obo/MONDO_0030054,"developmental and epileptic encephalopathy, 86",OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0032903,http://purl.obolibrary.org/obo/MONDO_0032903,"arthrogryposis multiplex congenita 4, neurogenic, with agenesis of the corpus callosum",OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0060555,http://purl.obolibrary.org/obo/MONDO_0060555,"vertebral, cardiac, renal, and limb defects syndrome 2",EFO_0009690,http://www.ebi.ac.uk/efo/EFO_0009690,urinary system disease
+MONDO_0060555,http://purl.obolibrary.org/obo/MONDO_0060555,"vertebral, cardiac, renal, and limb defects syndrome 2",OTAR_0000010,http://www.ebi.ac.uk/efo/OTAR_0000010,OTAR_0000010
+MONDO_0060555,http://purl.obolibrary.org/obo/MONDO_0060555,"vertebral, cardiac, renal, and limb defects syndrome 2",EFO_0000319,http://www.ebi.ac.uk/efo/EFO_0000319,cardiovascular disease
+MONDO_0060555,http://purl.obolibrary.org/obo/MONDO_0060555,"vertebral, cardiac, renal, and limb defects syndrome 2",EFO_0000618,http://www.ebi.ac.uk/efo/EFO_0000618,nervous system disease
+MONDO_0060555,http://purl.obolibrary.org/obo/MONDO_0060555,"vertebral, cardiac, renal, and limb defects syndrome 2",OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+EFO_0000775,http://www.ebi.ac.uk/efo/EFO_0000775,Whipple's disease,EFO_0005741,http://www.ebi.ac.uk/efo/EFO_0005741,infectious disease
+EFO_0000775,http://www.ebi.ac.uk/efo/EFO_0000775,Whipple's disease,EFO_0010282,http://www.ebi.ac.uk/efo/EFO_0010282,gastrointestinal disease
+EFO_0000775,http://www.ebi.ac.uk/efo/EFO_0000775,Whipple's disease,EFO_0000618,http://www.ebi.ac.uk/efo/EFO_0000618,nervous system disease
+MONDO_0001828,http://purl.obolibrary.org/obo/MONDO_0001828,acquired color blindness,OTAR_0000006,http://www.ebi.ac.uk/efo/OTAR_0000006,OTAR_0000006
+MONDO_0001828,http://purl.obolibrary.org/obo/MONDO_0001828,acquired color blindness,EFO_0000618,http://www.ebi.ac.uk/efo/EFO_0000618,nervous system disease
+MONDO_0001828,http://purl.obolibrary.org/obo/MONDO_0001828,acquired color blindness,OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0001828,http://purl.obolibrary.org/obo/MONDO_0001828,acquired color blindness,MONDO_0024458,http://purl.obolibrary.org/obo/MONDO_0024458,disorder of visual system
+MONDO_0002558,http://purl.obolibrary.org/obo/MONDO_0002558,melanotic neurilemmoma,MONDO_0045024,http://purl.obolibrary.org/obo/MONDO_0045024,cancer or benign tumor
+MONDO_0002558,http://purl.obolibrary.org/obo/MONDO_0002558,melanotic neurilemmoma,EFO_0000618,http://www.ebi.ac.uk/efo/EFO_0000618,nervous system disease
+MONDO_0004116,http://purl.obolibrary.org/obo/MONDO_0004116,esophageal small cell neuroendocrine carcinoma,EFO_0001379,http://www.ebi.ac.uk/efo/EFO_0001379,endocrine system disease
+MONDO_0004116,http://purl.obolibrary.org/obo/MONDO_0004116,esophageal small cell neuroendocrine carcinoma,EFO_0010282,http://www.ebi.ac.uk/efo/EFO_0010282,gastrointestinal disease
+MONDO_0004116,http://purl.obolibrary.org/obo/MONDO_0004116,esophageal small cell neuroendocrine carcinoma,OTAR_0000010,http://www.ebi.ac.uk/efo/OTAR_0000010,OTAR_0000010
+MONDO_0004116,http://purl.obolibrary.org/obo/MONDO_0004116,esophageal small cell neuroendocrine carcinoma,MONDO_0045024,http://purl.obolibrary.org/obo/MONDO_0045024,cancer or benign tumor
+MONDO_0007648,http://purl.obolibrary.org/obo/MONDO_0007648,hereditary diffuse gastric adenocarcinoma,EFO_0010282,http://www.ebi.ac.uk/efo/EFO_0010282,gastrointestinal disease
+MONDO_0007648,http://purl.obolibrary.org/obo/MONDO_0007648,hereditary diffuse gastric adenocarcinoma,OTAR_0000010,http://www.ebi.ac.uk/efo/OTAR_0000010,OTAR_0000010
+MONDO_0007648,http://purl.obolibrary.org/obo/MONDO_0007648,hereditary diffuse gastric adenocarcinoma,MONDO_0045024,http://purl.obolibrary.org/obo/MONDO_0045024,cancer or benign tumor
+MONDO_0007648,http://purl.obolibrary.org/obo/MONDO_0007648,hereditary diffuse gastric adenocarcinoma,OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0011283,http://purl.obolibrary.org/obo/MONDO_0011283,mitochondrial DNA depletion syndrome 1,MONDO_0024297,http://purl.obolibrary.org/obo/MONDO_0024297,obsolete nutritional or metabolic disease
+MONDO_0011283,http://purl.obolibrary.org/obo/MONDO_0011283,mitochondrial DNA depletion syndrome 1,EFO_0010282,http://www.ebi.ac.uk/efo/EFO_0010282,gastrointestinal disease
+MONDO_0011283,http://purl.obolibrary.org/obo/MONDO_0011283,mitochondrial DNA depletion syndrome 1,OTAR_0000006,http://www.ebi.ac.uk/efo/OTAR_0000006,OTAR_0000006
+MONDO_0011283,http://purl.obolibrary.org/obo/MONDO_0011283,mitochondrial DNA depletion syndrome 1,EFO_0000618,http://www.ebi.ac.uk/efo/EFO_0000618,nervous system disease
+MONDO_0011283,http://purl.obolibrary.org/obo/MONDO_0011283,mitochondrial DNA depletion syndrome 1,OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0011283,http://purl.obolibrary.org/obo/MONDO_0011283,mitochondrial DNA depletion syndrome 1,MONDO_0024458,http://purl.obolibrary.org/obo/MONDO_0024458,disorder of visual system
+MONDO_0014671,http://purl.obolibrary.org/obo/MONDO_0014671,"neuropathy, hereditary motor and sensory, type 6B",OTAR_0000006,http://www.ebi.ac.uk/efo/OTAR_0000006,OTAR_0000006
+MONDO_0014671,http://purl.obolibrary.org/obo/MONDO_0014671,"neuropathy, hereditary motor and sensory, type 6B",EFO_0000618,http://www.ebi.ac.uk/efo/EFO_0000618,nervous system disease
+MONDO_0014671,http://purl.obolibrary.org/obo/MONDO_0014671,"neuropathy, hereditary motor and sensory, type 6B",OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0014957,http://purl.obolibrary.org/obo/MONDO_0014957,language delay and attention deficit-hyperactivity disorder/cognitive impairment with or without cardiac arrhythmia,OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0018335,http://purl.obolibrary.org/obo/MONDO_0018335,obsolete deep dermatophytosis,EFO_0005741,http://www.ebi.ac.uk/efo/EFO_0005741,infectious disease
+MONDO_0019088,http://purl.obolibrary.org/obo/MONDO_0019088,post-transplant lymphoproliferative disease,EFO_0005741,http://www.ebi.ac.uk/efo/EFO_0005741,infectious disease
+MONDO_0019088,http://purl.obolibrary.org/obo/MONDO_0019088,post-transplant lymphoproliferative disease,MONDO_0045024,http://purl.obolibrary.org/obo/MONDO_0045024,cancer or benign tumor
+MONDO_0019088,http://purl.obolibrary.org/obo/MONDO_0019088,post-transplant lymphoproliferative disease,OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0019088,http://purl.obolibrary.org/obo/MONDO_0019088,post-transplant lymphoproliferative disease,EFO_0005803,http://www.ebi.ac.uk/efo/EFO_0005803,hematologic disease
+MONDO_0030072,http://purl.obolibrary.org/obo/MONDO_0030072,"developmental and epileptic encephalopathy, 88",EFO_0000618,http://www.ebi.ac.uk/efo/EFO_0000618,nervous system disease
+MONDO_0030072,http://purl.obolibrary.org/obo/MONDO_0030072,"developmental and epileptic encephalopathy, 88",OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0032932,http://purl.obolibrary.org/obo/MONDO_0032932,mitochondrial DNA depletion syndrome 18,MONDO_0024297,http://purl.obolibrary.org/obo/MONDO_0024297,obsolete nutritional or metabolic disease
+MONDO_0032932,http://purl.obolibrary.org/obo/MONDO_0032932,mitochondrial DNA depletion syndrome 18,EFO_0010282,http://www.ebi.ac.uk/efo/EFO_0010282,gastrointestinal disease
+MONDO_0032932,http://purl.obolibrary.org/obo/MONDO_0032932,mitochondrial DNA depletion syndrome 18,OTAR_0000006,http://www.ebi.ac.uk/efo/OTAR_0000006,OTAR_0000006
+MONDO_0032932,http://purl.obolibrary.org/obo/MONDO_0032932,mitochondrial DNA depletion syndrome 18,EFO_0000618,http://www.ebi.ac.uk/efo/EFO_0000618,nervous system disease
+MONDO_0032932,http://purl.obolibrary.org/obo/MONDO_0032932,mitochondrial DNA depletion syndrome 18,OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0032932,http://purl.obolibrary.org/obo/MONDO_0032932,mitochondrial DNA depletion syndrome 18,MONDO_0024458,http://purl.obolibrary.org/obo/MONDO_0024458,disorder of visual system
+EFO_0000394,http://www.ebi.ac.uk/efo/EFO_0000394,dedifferentiated chondrosarcoma,MONDO_0045024,http://purl.obolibrary.org/obo/MONDO_0045024,cancer or benign tumor
+EFO_0000394,http://www.ebi.ac.uk/efo/EFO_0000394,dedifferentiated chondrosarcoma,OTAR_0000006,http://www.ebi.ac.uk/efo/OTAR_0000006,OTAR_0000006
+HP_0000753,http://purl.obolibrary.org/obo/HP_0000753,Autism with high cognitive abilities,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0002901,http://purl.obolibrary.org/obo/HP_0002901,Hypocalcemia,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+HP_0004277,http://purl.obolibrary.org/obo/HP_0004277,Fractured hand bones,EFO_0000651,http://www.ebi.ac.uk/efo/EFO_0000651,phenotype
+MONDO_0010292,http://purl.obolibrary.org/obo/MONDO_0010292,Uruguay Faciocardiomusculoskeletal syndrome,OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0015813,http://purl.obolibrary.org/obo/MONDO_0015813,primary cutaneous marginal zone B-cell lymphoma,MONDO_0045024,http://purl.obolibrary.org/obo/MONDO_0045024,cancer or benign tumor
+MONDO_0015813,http://purl.obolibrary.org/obo/MONDO_0015813,primary cutaneous marginal zone B-cell lymphoma,OTAR_0000018,http://www.ebi.ac.uk/efo/OTAR_0000018,OTAR_0000018
+MONDO_0015813,http://purl.obolibrary.org/obo/MONDO_0015813,primary cutaneous marginal zone B-cell lymphoma,EFO_0005803,http://www.ebi.ac.uk/efo/EFO_0005803,hematologic disease
+MONDO_0015813,http://purl.obolibrary.org/obo/MONDO_0015813,primary cutaneous marginal zone B-cell lymphoma,EFO_0010285,http://www.ebi.ac.uk/efo/EFO_0010285,integumentary system disease
