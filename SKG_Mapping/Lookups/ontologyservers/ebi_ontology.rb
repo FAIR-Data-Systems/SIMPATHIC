@@ -40,7 +40,7 @@ class EBITerm
   end
 
   def lookup_title
-    title = nil
+    title = ""
     if (json = resolve_url_to_json(url: @url))
       title = find_title_in_json(json: json)
     end
@@ -49,6 +49,6 @@ class EBITerm
 
   def find_title_in_json(json:)
     return "" unless json
-    json["label"]
+    json["label"] || ""
   end
 end
