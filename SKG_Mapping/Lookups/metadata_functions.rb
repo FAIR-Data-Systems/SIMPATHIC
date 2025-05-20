@@ -46,9 +46,7 @@ def resolve_url_to_jsonld(url:)
 end
 
 def resolve_url_to_json(url:, accept: "application/json")
-  # graph = RDF::Graph.new
-  # type = TYPEHASH[accept] # e.g. :turtle  for the RDF reader
-
+  
   begin
     r = RestClient::Request.execute(
       method: :get,
@@ -57,11 +55,7 @@ def resolve_url_to_json(url:, accept: "application/json")
     )
   rescue StandardError
     warn "#{url} didn't resolve when trying for #{accept} #{r}"
-    r = RestClient::Request.execute(
-      method: :get,
-      url: url,
-      headers: { accept: accept }
-    )
+    return JSON.parse("{}")
   end
 
   body = r.body
@@ -123,6 +117,10 @@ def ontology_annotations(uri:)
     elsif uri =~ /DOID/   
       warn "DOID"
       doid = DOID.new(uri: uri)
+      term = doid.lookup_title 
+    elsif uri =~ /CHEMBL/   
+      warn "CHEMBL"
+      doid = CHEMBL.new(molecule: uri) # in this case, it is just the CHEMBL id!!
       term = doid.lookup_title 
     elsif uri =~ /HP_|ORDO|UBERON_|CHEMINF|DUO_|EFO_|MONDO_/   
       # HPO terms redirect to JAX using ontobee, so they have to be treated separately
