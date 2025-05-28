@@ -32,3 +32,13 @@ Gene-Uniprot
 ENSG - UP
 source,ensembl,opentargets,uniprot,taxon,prefname
 DOID_7551,ENSG00000058085,http://purl.uniprot.org/opentargets/ENSG00000010810,http://purl.uniprot.org/uniprot/P06241,http://purl.uniprot.org/taxonomy/9606,Tyrosine-protein kinase Fyn
+
+
+
+
+
+
+
+
+BIOVISTA
+
