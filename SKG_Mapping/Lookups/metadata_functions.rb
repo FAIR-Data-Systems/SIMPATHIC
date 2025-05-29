@@ -134,7 +134,7 @@ def ontology_annotations(uri:)
       uri = $1  # http://edamontology.org/data_1153
       ebi3 = EBITerm.new(uri: uri)
       term = ebi3.lookup_title
-    elsif uri =~ /LNC/   # LNC terms redirect to NCBO bioontologies, so need to be given to the API
+    elsif uri =~ /LNC|MESH/   # LNC and mesh terms redirect to NCBO bioontologies, so need to be given to the API
       warn "NCBO"
       ncbo = NCBO.new(uri: uri)
       term = ncbo.lookup_title # specific for EBI
