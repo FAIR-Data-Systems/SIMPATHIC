@@ -1,11 +1,11 @@
 require "json"
 require "linkeddata"
 
-PARAMS = "?apikey=74027bd8-6be0-4329-be22-aa3717f97243&format=json"
+PARAMS = "?apikey=24e04058-54e0-11e0-9d7b-005056aa3316&format=json"
 
 # http://data.bioontology.org/ontologies/SNOMEDCT/classes/http%3A%2F%2Fpurl.bioontology.org%2Fontology%2FSNOMEDCT%2F410607006
 class NCBO
-  attr_accessor :uri, :url
+  attr_accessor :url
 
   def initialize(uri:)
     @uri = uri
@@ -13,16 +13,23 @@ class NCBO
 
     root = "http://data.bioontology.org/ontologies/XXXXX/classes/"
     encoded = URI.encode_www_form_component uri
-
-    return unless uri =~ /LNC/
-
-    @url = root.gsub("XXXXX", "LOINC") + encoded + PARAMS
+    begin
+      ontologyid = uri.match(%r{/ontology/([^/]+)/})[1]  # match the ontology identifier
+    rescue StandardError => e
+      warn e.inspect
+    end
+    warn "ontology #{ontologyid}"
+    if ontologyid =="LNC"  # stupidly change the abbreviation!
+      @url = root.gsub("XXXXX", "LOINC") + encoded + PARAMS
+    else
+      @url = root.gsub("XXXXX", ontologyid) + encoded + PARAMS
+    end
   end
 
   def lookup_title
     title = nil
-    fullURL = "#{@url}?#{PARAMS}" # add API key and json directive
-    if (json = resolve_url_to_json(url: @url, accept: "application/json"))
+    fullURL = "#{url}?#{PARAMS}" # add API key and json directive
+    if (json = resolve_url_to_json(url: fullURL, accept: "application/json"))
       title = find_title_in_json(json: json)
     end
     title
