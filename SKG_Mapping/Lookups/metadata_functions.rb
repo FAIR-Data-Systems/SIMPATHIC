@@ -67,7 +67,7 @@ def resolve_url_to_rdf(url:, accept: "text/turtle")
   graph = RDF::Graph.new
   type = TYPEHASH[accept] # e.g. :turtle  for the RDF reader
 
-  warn "retrieving type: #{type}"
+  # warn "retrieving type: #{type}"
   begin
     r = RestClient::Request.execute(
       method: :get,
@@ -103,9 +103,9 @@ def ontology_annotations(uri:)
 
   term = nil
   urls = pre_process_uri(uri: uri)
-  warn "Final URL list #{urls}\n\n"
+  # warn "Final URL list #{urls}\n\n"
   urls.each do |uri|
-    warn "processing #{uri}\n"
+    # warn "processing #{uri}\n"
     if (match = uri.match(/etsi\.org/))  # done
       warn "ETSI"
       etsi = Etsi.new(uri: uri)
@@ -142,9 +142,10 @@ def ontology_annotations(uri:)
       warn "Bio2RDF"
       bio2rdf = Bio2RDF.new(uri: uri)
       term = bio2rdf.lookup_title # specific for EBI
-    elsif (match = uri.match(/purl\.obolibrary\.org\/obo\/(\w+)/))
+    elsif uri.match(/purl\.obolibrary\.org\/obo\/(\w+)/)
       warn "obolibrary"
-      uri = "https://purl.obolibrary.org/obo/#{match[1]}"
+      # F'ing redirect now to AmiGo that doesn't support content negotiation!  ARRRGHGH!  Why does OBO keep breaking things!
+      # uri = "https://purl.obolibrary.org/obo/#{match[1]}"
       warn "obolibrary #{uri}"
       ob = Ontobee.new(uri: uri)
       term = ob.lookup_title
@@ -171,8 +172,8 @@ def ontology_annotations(uri:)
     warn "just a URL"
     term = $1
   end
-  warn "term: #{term}"
-  warn "found no match for #{uri}" unless term
+  # warn "term: #{term}"
+  # warn "found no match for #{uri}" unless term
   term
 end
 
