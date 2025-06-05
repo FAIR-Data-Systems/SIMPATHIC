@@ -1,0 +1,609 @@
+source,ensembl,uniprot,taxon,prefname
+C1421479,http://purl.uniprot.org/opentargets/ENSG00000007047,http://purl.uniprot.org/uniprot/Q96L34,http://purl.uniprot.org/taxonomy/9606,MAP/microtubule affinity-regulating kinase 4
+C1418504,http://purl.uniprot.org/opentargets/ENSG00000013375,http://purl.uniprot.org/uniprot/O95394,http://purl.uniprot.org/taxonomy/9606,Phosphoacetylglucosamine mutase
+C1425023,http://purl.uniprot.org/opentargets/ENSG00000033011,http://purl.uniprot.org/uniprot/Q9BT22,http://purl.uniprot.org/taxonomy/9606,Chitobiosyldiphosphodolichol beta-mannosyltransferase
+C1421146,http://purl.uniprot.org/opentargets/ENSG00000039650,http://purl.uniprot.org/uniprot/Q96T60,http://purl.uniprot.org/taxonomy/9606,Bifunctional polynucleotide phosphatase/kinase
+C1538301,http://purl.uniprot.org/opentargets/ENSG00000066427,http://purl.uniprot.org/uniprot/P54252,http://purl.uniprot.org/taxonomy/9606,Ataxin-3
+C1417651,http://purl.uniprot.org/opentargets/ENSG00000077984,http://purl.uniprot.org/uniprot/O76096,http://purl.uniprot.org/taxonomy/9606,Cystatin-F
+C1537998,http://purl.uniprot.org/opentargets/ENSG00000079332,http://purl.uniprot.org/uniprot/Q9NR31,http://purl.uniprot.org/taxonomy/9606,Small COPII coat GTPase SAR1A
+C1424584,http://purl.uniprot.org/opentargets/ENSG00000080824,http://purl.uniprot.org/uniprot/P07900,http://purl.uniprot.org/taxonomy/9606,Heat shock protein HSP 90-alpha
+C1418866,http://purl.uniprot.org/opentargets/ENSG00000089280,http://purl.uniprot.org/uniprot/P35637,http://purl.uniprot.org/taxonomy/9606,RNA-binding protein FUS
+C1422048,http://purl.uniprot.org/opentargets/ENSG00000090661,http://purl.uniprot.org/uniprot/Q9HA82,http://purl.uniprot.org/taxonomy/9606,Ceramide synthase 4
+C1417668,http://purl.uniprot.org/opentargets/ENSG00000096717,http://purl.uniprot.org/uniprot/Q96EB6,http://purl.uniprot.org/taxonomy/9606,NAD-dependent protein deacetylase sirtuin-1
+C1414860,http://purl.uniprot.org/opentargets/ENSG00000100815,http://purl.uniprot.org/uniprot/Q15643,http://purl.uniprot.org/taxonomy/9606,Thyroid receptor-interacting protein 11
+C1413195,http://purl.uniprot.org/opentargets/ENSG00000101191,http://purl.uniprot.org/uniprot/Q9BTC0,http://purl.uniprot.org/taxonomy/9606,Death-inducer obliterator 1
+C1412727,http://purl.uniprot.org/opentargets/ENSG00000102753,http://purl.uniprot.org/uniprot/O00505,http://purl.uniprot.org/taxonomy/9606,Importin subunit alpha-4
+C1420527,http://purl.uniprot.org/opentargets/ENSG00000105514,http://purl.uniprot.org/uniprot/O95716,http://purl.uniprot.org/taxonomy/9606,Ras-related protein Rab-3D
+C1538301,http://purl.uniprot.org/opentargets/ENSG00000107105,http://purl.uniprot.org/uniprot/Q12926,http://purl.uniprot.org/taxonomy/9606,ELAV-like protein 2
+C1825311,http://purl.uniprot.org/opentargets/ENSG00000108424,http://purl.uniprot.org/uniprot/Q14974,http://purl.uniprot.org/taxonomy/9606,Importin subunit beta-1
+C1825598,http://purl.uniprot.org/opentargets/ENSG00000108576,http://purl.uniprot.org/uniprot/P31645,http://purl.uniprot.org/taxonomy/9606,Sodium-dependent serotonin transporter
+C1414247,http://purl.uniprot.org/opentargets/ENSG00000108823,http://purl.uniprot.org/uniprot/Q16586,http://purl.uniprot.org/taxonomy/9606,Alpha-sarcoglycan
+C1424950,http://purl.uniprot.org/opentargets/ENSG00000109320,http://purl.uniprot.org/uniprot/P19838,http://purl.uniprot.org/taxonomy/9606,Nuclear factor NF-kappa-B p105 subunit
+C1413555,http://purl.uniprot.org/opentargets/ENSG00000110074,http://purl.uniprot.org/uniprot/Q96CU9,http://purl.uniprot.org/taxonomy/9606,FAD-dependent oxidoreductase domain-containing protein 1
+C1744687,http://purl.uniprot.org/opentargets/ENSG00000110717,http://purl.uniprot.org/uniprot/O00217,http://purl.uniprot.org/taxonomy/9606,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial"
+C1417719,http://purl.uniprot.org/opentargets/ENSG00000111676,http://purl.uniprot.org/uniprot/P54259,http://purl.uniprot.org/taxonomy/9606,Atrophin-1
+C1420588,http://purl.uniprot.org/opentargets/ENSG00000112290,http://purl.uniprot.org/uniprot/Q92558,http://purl.uniprot.org/taxonomy/9606,Actin-binding protein WASF1
+C1412481,http://purl.uniprot.org/opentargets/ENSG00000112799,http://purl.uniprot.org/uniprot/O95711,http://purl.uniprot.org/taxonomy/9606,Lymphocyte antigen 86
+C1421305,http://purl.uniprot.org/opentargets/ENSG00000116679,http://purl.uniprot.org/uniprot/Q9Y6Y0,http://purl.uniprot.org/taxonomy/9606,Influenza virus NS1A-binding protein
+C1418797,http://purl.uniprot.org/opentargets/ENSG00000116984,http://purl.uniprot.org/uniprot/Q99707,http://purl.uniprot.org/taxonomy/9606,Methionine synthase
+C1413128,http://purl.uniprot.org/opentargets/ENSG00000120948,http://purl.uniprot.org/uniprot/Q13148,http://purl.uniprot.org/taxonomy/9606,TAR DNA-binding protein 43
+C1418674,http://purl.uniprot.org/opentargets/ENSG00000122585,http://purl.uniprot.org/uniprot/P01303,http://purl.uniprot.org/taxonomy/9606,Pro-neuropeptide Y
+C1418518,http://purl.uniprot.org/opentargets/ENSG00000122783,http://purl.uniprot.org/uniprot/Q9BWK5,http://purl.uniprot.org/taxonomy/9606,Cell cycle regulator of non-homologous end joining
+C1538715,http://purl.uniprot.org/opentargets/ENSG00000123104,http://purl.uniprot.org/uniprot/Q14571,http://purl.uniprot.org/taxonomy/9606,"Inositol 1,4,5-trisphosphate-gated calcium channel ITPR2"
+C1425023,http://purl.uniprot.org/opentargets/ENSG00000124788,http://purl.uniprot.org/uniprot/P54253,http://purl.uniprot.org/taxonomy/9606,Ataxin-1
+C1425428,http://purl.uniprot.org/opentargets/ENSG00000126522,http://purl.uniprot.org/uniprot/P04424,http://purl.uniprot.org/taxonomy/9606,Argininosuccinate lyase
+C1538624,http://purl.uniprot.org/opentargets/ENSG00000126581,http://purl.uniprot.org/uniprot/Q14457,http://purl.uniprot.org/taxonomy/9606,Beclin-1
+C1412215,http://purl.uniprot.org/opentargets/ENSG00000127884,http://purl.uniprot.org/uniprot/P30084,http://purl.uniprot.org/taxonomy/9606,"Enoyl-CoA hydratase, mitochondrial"
+C1825598,http://purl.uniprot.org/opentargets/ENSG00000129003,http://purl.uniprot.org/uniprot/Q709C8,http://purl.uniprot.org/taxonomy/9606,Intermembrane lipid transfer protein VPS13C
+C1823430,http://purl.uniprot.org/opentargets/ENSG00000130203,http://purl.uniprot.org/uniprot/P02649,http://purl.uniprot.org/taxonomy/9606,Apolipoprotein E
+C1538301,http://purl.uniprot.org/opentargets/ENSG00000132002,http://purl.uniprot.org/uniprot/P25685,http://purl.uniprot.org/taxonomy/9606,DnaJ homolog subfamily B member 1
+C1417668,http://purl.uniprot.org/opentargets/ENSG00000134259,http://purl.uniprot.org/uniprot/P01138,http://purl.uniprot.org/taxonomy/9606,Beta-nerve growth factor
+C1538301,http://purl.uniprot.org/opentargets/ENSG00000134489,http://purl.uniprot.org/uniprot/Q9H3N8,http://purl.uniprot.org/taxonomy/9606,Histamine H4 receptor
+C1420005,http://purl.uniprot.org/opentargets/ENSG00000134851,http://purl.uniprot.org/uniprot/Q9HC07,http://purl.uniprot.org/taxonomy/9606,Putative divalent cation/proton antiporter TMEM165
+C1418674,http://purl.uniprot.org/opentargets/ENSG00000138078,http://purl.uniprot.org/uniprot/Q4J6C6,http://purl.uniprot.org/taxonomy/9606,Prolyl endopeptidase-like
+C1423062,http://purl.uniprot.org/opentargets/ENSG00000140521,http://purl.uniprot.org/uniprot/P54098,http://purl.uniprot.org/taxonomy/9606,DNA polymerase subunit gamma-1
+C1538301,http://purl.uniprot.org/opentargets/ENSG00000140650,http://purl.uniprot.org/uniprot/O15305,http://purl.uniprot.org/taxonomy/9606,Phosphomannomutase 2
+C1334353,http://purl.uniprot.org/opentargets/ENSG00000141510,http://purl.uniprot.org/uniprot/P04637,http://purl.uniprot.org/taxonomy/9606,Cellular tumor antigen p53
+C1417668,http://purl.uniprot.org/opentargets/ENSG00000141837,http://purl.uniprot.org/uniprot/O00555,http://purl.uniprot.org/taxonomy/9606,Voltage-dependent P/Q-type calcium channel subunit alpha-1A
+C1421437,http://purl.uniprot.org/opentargets/ENSG00000142657,http://purl.uniprot.org/uniprot/P52209,http://purl.uniprot.org/taxonomy/9606,"6-phosphogluconate dehydrogenase, decarboxylating"
+C1428142,http://purl.uniprot.org/opentargets/ENSG00000147044,http://purl.uniprot.org/uniprot/O14936,http://purl.uniprot.org/taxonomy/9606,Peripheral plasma membrane protein CASK
+C1419208,http://purl.uniprot.org/opentargets/ENSG00000147162,http://purl.uniprot.org/uniprot/O15294,http://purl.uniprot.org/taxonomy/9606,UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit
+C1418731,http://purl.uniprot.org/opentargets/ENSG00000147894,http://purl.uniprot.org/uniprot/Q96LT7,http://purl.uniprot.org/taxonomy/9606,Guanine nucleotide exchange factor C9orf72
+C1417815,http://purl.uniprot.org/opentargets/ENSG00000148498,http://purl.uniprot.org/uniprot/Q8TEW0,http://purl.uniprot.org/taxonomy/9606,Partitioning defective 3 homolog
+C1423062,http://purl.uniprot.org/opentargets/ENSG00000150093,http://purl.uniprot.org/uniprot/P05556,http://purl.uniprot.org/taxonomy/9606,Integrin beta-1
+C1420214,http://purl.uniprot.org/opentargets/ENSG00000151092,http://purl.uniprot.org/uniprot/Q96IV0,http://purl.uniprot.org/taxonomy/9606,Peptide-N(4)-(N-acetyl-beta-glucosaminyl)asparagine amidase
+C1367177,http://purl.uniprot.org/opentargets/ENSG00000154059,http://purl.uniprot.org/uniprot/Q9P2X3,http://purl.uniprot.org/taxonomy/9606,Protein IMPACT
+C1538301,http://purl.uniprot.org/opentargets/ENSG00000154277,http://purl.uniprot.org/uniprot/P09936,http://purl.uniprot.org/taxonomy/9606,Ubiquitin carboxyl-terminal hydrolase isozyme L1
+C1825598,http://purl.uniprot.org/opentargets/ENSG00000160710,http://purl.uniprot.org/uniprot/P55265,http://purl.uniprot.org/taxonomy/9606,Double-stranded RNA-specific adenosine deaminase
+C1538299,http://purl.uniprot.org/opentargets/ENSG00000161395,http://purl.uniprot.org/uniprot/Q96FM1,http://purl.uniprot.org/taxonomy/9606,Post-GPI attachment to proteins factor 3
+C1417668,http://purl.uniprot.org/opentargets/ENSG00000163468,http://purl.uniprot.org/uniprot/P49368,http://purl.uniprot.org/taxonomy/9606,T-complex protein 1 subunit gamma
+C1413336,http://purl.uniprot.org/opentargets/ENSG00000165280,http://purl.uniprot.org/uniprot/P55072,http://purl.uniprot.org/taxonomy/9606,Transitional endoplasmic reticulum ATPase
+C1418707,http://purl.uniprot.org/opentargets/ENSG00000167281,http://purl.uniprot.org/uniprot/A6NFN3,http://purl.uniprot.org/taxonomy/9606,RNA binding protein fox-1 homolog 3
+C1416705,http://purl.uniprot.org/opentargets/ENSG00000170835,http://purl.uniprot.org/uniprot/P19835,http://purl.uniprot.org/taxonomy/9606,Bile salt-activated lipase
+C1416701,http://purl.uniprot.org/opentargets/ENSG00000171497,http://purl.uniprot.org/uniprot/Q08752,http://purl.uniprot.org/taxonomy/9606,Peptidyl-prolyl cis-trans isomerase D
+C1414372,http://purl.uniprot.org/opentargets/ENSG00000172005,http://purl.uniprot.org/uniprot/P21145,http://purl.uniprot.org/taxonomy/9606,Myelin and lymphocyte protein
+C1416518,http://purl.uniprot.org/opentargets/ENSG00000178295,http://purl.uniprot.org/uniprot/Q17RS7,http://purl.uniprot.org/taxonomy/9606,Flap endonuclease GEN homolog 1
+C1412785,http://purl.uniprot.org/opentargets/ENSG00000178538,http://purl.uniprot.org/uniprot/P35219,http://purl.uniprot.org/taxonomy/9606,Carbonic anhydrase-related protein
+C1424660,http://purl.uniprot.org/opentargets/ENSG00000185345,http://purl.uniprot.org/uniprot/O60260,http://purl.uniprot.org/taxonomy/9606,E3 ubiquitin-protein ligase parkin
+C1412481,http://purl.uniprot.org/opentargets/ENSG00000186318,http://purl.uniprot.org/uniprot/P56817,http://purl.uniprot.org/taxonomy/9606,Beta-secretase 1
+C1422767,http://purl.uniprot.org/opentargets/ENSG00000188021,http://purl.uniprot.org/uniprot/Q9UHD9,http://purl.uniprot.org/taxonomy/9606,Ubiquilin-2
+C1824935,http://purl.uniprot.org/opentargets/ENSG00000188822,http://purl.uniprot.org/uniprot/P34972,http://purl.uniprot.org/taxonomy/9606,Cannabinoid receptor 2
+C1416989,http://purl.uniprot.org/opentargets/ENSG00000198646,http://purl.uniprot.org/uniprot/Q14686,http://purl.uniprot.org/taxonomy/9606,Nuclear receptor coactivator 6
+C1421309,http://purl.uniprot.org/opentargets/ENSG00000204640,http://purl.uniprot.org/uniprot/Q5H8A3,http://purl.uniprot.org/taxonomy/9606,Neuromedin-S
+C1419815,http://purl.uniprot.org/opentargets/ENSG00000204842,http://purl.uniprot.org/uniprot/Q99700,http://purl.uniprot.org/taxonomy/9606,Ataxin-2
+C0079419,http://purl.uniprot.org/opentargets/ENSG00000263001,http://purl.uniprot.org/uniprot/P78347,http://purl.uniprot.org/taxonomy/9606,General transcription factor II-I
+C1412149,http://purl.uniprot.org/opentargets/ENSG00000277586,http://purl.uniprot.org/uniprot/P07196,http://purl.uniprot.org/taxonomy/9606,Neurofilament light polypeptide
+C1823521,http://purl.uniprot.org/opentargets/ENSG00000014919,http://purl.uniprot.org/uniprot/Q7KZN9,http://purl.uniprot.org/taxonomy/9606,Heme A synthase COX15
+C1826409,http://purl.uniprot.org/opentargets/ENSG00000020577,http://purl.uniprot.org/uniprot/Q9UPU9,http://purl.uniprot.org/taxonomy/9606,Protein Smaug homolog 1
+C1418447,http://purl.uniprot.org/opentargets/ENSG00000039650,http://purl.uniprot.org/uniprot/Q96T60,http://purl.uniprot.org/taxonomy/9606,Bifunctional polynucleotide phosphatase/kinase
+C1538298,http://purl.uniprot.org/opentargets/ENSG00000054392,http://purl.uniprot.org/uniprot/Q5VTY9,http://purl.uniprot.org/taxonomy/9606,Protein-cysteine N-palmitoyltransferase HHAT
+C1538301,http://purl.uniprot.org/opentargets/ENSG00000060237,http://purl.uniprot.org/uniprot/Q9H4A3,http://purl.uniprot.org/taxonomy/9606,Serine/threonine-protein kinase WNK1
+C1419815,http://purl.uniprot.org/opentargets/ENSG00000066427,http://purl.uniprot.org/uniprot/P54252,http://purl.uniprot.org/taxonomy/9606,Ataxin-3
+C1416431,http://purl.uniprot.org/opentargets/ENSG00000069535,http://purl.uniprot.org/uniprot/P27338,http://purl.uniprot.org/taxonomy/9606,Amine oxidase [flavin-containing] B
+C1421437,http://purl.uniprot.org/opentargets/ENSG00000074416,http://purl.uniprot.org/uniprot/Q99685,http://purl.uniprot.org/taxonomy/9606,Monoglyceride lipase
+C1456413,http://purl.uniprot.org/opentargets/ENSG00000075043,http://purl.uniprot.org/uniprot/O43526,http://purl.uniprot.org/taxonomy/9606,Potassium voltage-gated channel subfamily KQT member 2
+C1334353,http://purl.uniprot.org/opentargets/ENSG00000078328,http://purl.uniprot.org/uniprot/Q9NWB1,http://purl.uniprot.org/taxonomy/9606,RNA binding protein fox-1 homolog 1
+C1419864,http://purl.uniprot.org/opentargets/ENSG00000079332,http://purl.uniprot.org/uniprot/Q9NR31,http://purl.uniprot.org/taxonomy/9606,Small COPII coat GTPase SAR1A
+C1424584,http://purl.uniprot.org/opentargets/ENSG00000082641,http://purl.uniprot.org/uniprot/Q14494,http://purl.uniprot.org/taxonomy/9606,Endoplasmic reticulum membrane sensor NFE2L1
+C1425023,http://purl.uniprot.org/opentargets/ENSG00000099940,http://purl.uniprot.org/uniprot/O95721,http://purl.uniprot.org/taxonomy/9606,Synaptosomal-associated protein 29
+C1418674,http://purl.uniprot.org/opentargets/ENSG00000100300,http://purl.uniprot.org/uniprot/P30536,http://purl.uniprot.org/taxonomy/9606,Translocator protein
+C1417002,http://purl.uniprot.org/opentargets/ENSG00000101327,http://purl.uniprot.org/uniprot/P01213,http://purl.uniprot.org/taxonomy/9606,Proenkephalin-B
+C1442515,http://purl.uniprot.org/opentargets/ENSG00000101680,http://purl.uniprot.org/uniprot/P25391,http://purl.uniprot.org/taxonomy/9606,Laminin subunit alpha-1
+C1414512,http://purl.uniprot.org/opentargets/ENSG00000101901,http://purl.uniprot.org/uniprot/Q9NP73,http://purl.uniprot.org/taxonomy/9606,UDP-N-acetylglucosamine transferase subunit ALG13
+C1415504,http://purl.uniprot.org/opentargets/ENSG00000102174,http://purl.uniprot.org/uniprot/P78562,http://purl.uniprot.org/taxonomy/9606,Phosphate-regulating neutral endopeptidase PHEX
+C1836075,http://purl.uniprot.org/opentargets/ENSG00000107147,http://purl.uniprot.org/uniprot/Q5JUK3,http://purl.uniprot.org/taxonomy/9606,Potassium channel subfamily T member 1
+C1420017,http://purl.uniprot.org/opentargets/ENSG00000110717,http://purl.uniprot.org/uniprot/O00217,http://purl.uniprot.org/taxonomy/9606,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial"
+C1421563,http://purl.uniprot.org/opentargets/ENSG00000111676,http://purl.uniprot.org/uniprot/P54259,http://purl.uniprot.org/taxonomy/9606,Atrophin-1
+C1414998,http://purl.uniprot.org/opentargets/ENSG00000112799,http://purl.uniprot.org/uniprot/O95711,http://purl.uniprot.org/taxonomy/9606,Lymphocyte antigen 86
+C1825598,http://purl.uniprot.org/opentargets/ENSG00000113532,http://purl.uniprot.org/uniprot/Q92187,http://purl.uniprot.org/taxonomy/9606,"CMP-N-acetylneuraminate-poly-alpha-2,8-sialyltransferase"
+C1422771,http://purl.uniprot.org/opentargets/ENSG00000117480,http://purl.uniprot.org/uniprot/O00519,http://purl.uniprot.org/taxonomy/9606,Fatty-acid amide hydrolase 1
+C1418270,http://purl.uniprot.org/opentargets/ENSG00000122783,http://purl.uniprot.org/uniprot/Q9BWK5,http://purl.uniprot.org/taxonomy/9606,Cell cycle regulator of non-homologous end joining
+C1417651,http://purl.uniprot.org/opentargets/ENSG00000124587,http://purl.uniprot.org/uniprot/Q13608,http://purl.uniprot.org/taxonomy/9606,Peroxisomal ATPase PEX6
+C1415500,http://purl.uniprot.org/opentargets/ENSG00000124788,http://purl.uniprot.org/uniprot/P54253,http://purl.uniprot.org/taxonomy/9606,Ataxin-1
+C1419815,http://purl.uniprot.org/opentargets/ENSG00000127884,http://purl.uniprot.org/uniprot/P30084,http://purl.uniprot.org/taxonomy/9606,"Enoyl-CoA hydratase, mitochondrial"
+C1413824,http://purl.uniprot.org/opentargets/ENSG00000128039,http://purl.uniprot.org/uniprot/Q9H8P0,http://purl.uniprot.org/taxonomy/9606,Polyprenal reductase
+C1854634,http://purl.uniprot.org/opentargets/ENSG00000134308,http://purl.uniprot.org/uniprot/P27348,http://purl.uniprot.org/taxonomy/9606,14-3-3 protein theta
+C1414083,http://purl.uniprot.org/opentargets/ENSG00000137074,http://purl.uniprot.org/uniprot/Q7Z2E3,http://purl.uniprot.org/taxonomy/9606,Aprataxin
+C1826968,http://purl.uniprot.org/opentargets/ENSG00000137252,http://purl.uniprot.org/uniprot/O43614,http://purl.uniprot.org/taxonomy/9606,Orexin receptor type 2
+C1417055,http://purl.uniprot.org/opentargets/ENSG00000137513,http://purl.uniprot.org/uniprot/Q96I59,http://purl.uniprot.org/taxonomy/9606,Asparaginyl-tRNA synthetase
+C1415504,http://purl.uniprot.org/opentargets/ENSG00000140650,http://purl.uniprot.org/uniprot/O15305,http://purl.uniprot.org/taxonomy/9606,Phosphomannomutase 2
+C3147283,http://purl.uniprot.org/opentargets/ENSG00000141837,http://purl.uniprot.org/uniprot/O00555,http://purl.uniprot.org/taxonomy/9606,Voltage-dependent P/Q-type calcium channel subunit alpha-1A
+C1418674,http://purl.uniprot.org/opentargets/ENSG00000142920,http://purl.uniprot.org/uniprot/Q96A70,http://purl.uniprot.org/taxonomy/9606,Antizyme inhibitor 2
+C1417055,http://purl.uniprot.org/opentargets/ENSG00000148798,http://purl.uniprot.org/uniprot/Q16352,http://purl.uniprot.org/taxonomy/9606,Alpha-internexin
+C1539956,http://purl.uniprot.org/opentargets/ENSG00000149187,http://purl.uniprot.org/uniprot/Q92879,http://purl.uniprot.org/taxonomy/9606,CUGBP Elav-like family member 1
+C1538298,http://purl.uniprot.org/opentargets/ENSG00000150787,http://purl.uniprot.org/uniprot/Q03393,http://purl.uniprot.org/taxonomy/9606,6-pyruvoyl tetrahydrobiopterin synthase
+C1538301,http://purl.uniprot.org/opentargets/ENSG00000151092,http://purl.uniprot.org/uniprot/Q96IV0,http://purl.uniprot.org/taxonomy/9606,Peptide-N(4)-(N-acetyl-beta-glucosaminyl)asparagine amidase
+C1456413,http://purl.uniprot.org/opentargets/ENSG00000152601,http://purl.uniprot.org/uniprot/Q9NR56,http://purl.uniprot.org/taxonomy/9606,Muscleblind-like protein 1
+C1419815,http://purl.uniprot.org/opentargets/ENSG00000152818,http://purl.uniprot.org/uniprot/P46939,http://purl.uniprot.org/taxonomy/9606,Utrophin
+C1334353,http://purl.uniprot.org/opentargets/ENSG00000154059,http://purl.uniprot.org/uniprot/Q9P2X3,http://purl.uniprot.org/taxonomy/9606,Protein IMPACT
+C1822755,http://purl.uniprot.org/opentargets/ENSG00000158828,http://purl.uniprot.org/uniprot/Q9BXM7,http://purl.uniprot.org/taxonomy/9606,"Serine/threonine-protein kinase PINK1, mitochondrial"
+C1420488,http://purl.uniprot.org/opentargets/ENSG00000161610,http://purl.uniprot.org/uniprot/O43612,http://purl.uniprot.org/taxonomy/9606,Hypocretin neuropeptide precursor
+C1414998,http://purl.uniprot.org/opentargets/ENSG00000164209,http://purl.uniprot.org/uniprot/Q96AG3,http://purl.uniprot.org/taxonomy/9606,Mitochondrial outer membrane protein SLC25A46
+C1539876,http://purl.uniprot.org/opentargets/ENSG00000165280,http://purl.uniprot.org/uniprot/P55072,http://purl.uniprot.org/taxonomy/9606,Transitional endoplasmic reticulum ATPase
+C1418478,http://purl.uniprot.org/opentargets/ENSG00000166863,http://purl.uniprot.org/uniprot/Q9UHF0,http://purl.uniprot.org/taxonomy/9606,Tachykinin-3
+C1419129,http://purl.uniprot.org/opentargets/ENSG00000166948,http://purl.uniprot.org/uniprot/O95932,http://purl.uniprot.org/taxonomy/9606,Protein-glutamine gamma-glutamyltransferase 6
+C1420188,http://purl.uniprot.org/opentargets/ENSG00000167281,http://purl.uniprot.org/uniprot/A6NFN3,http://purl.uniprot.org/taxonomy/9606,RNA binding protein fox-1 homolog 3
+C2240046,http://purl.uniprot.org/opentargets/ENSG00000168830,http://purl.uniprot.org/uniprot/P28566,http://purl.uniprot.org/taxonomy/9606,5-hydroxytryptamine receptor 1E
+C1540211,http://purl.uniprot.org/opentargets/ENSG00000169194,http://purl.uniprot.org/uniprot/P35225,http://purl.uniprot.org/taxonomy/9606,Interleukin-13
+C1537983,http://purl.uniprot.org/opentargets/ENSG00000169313,http://purl.uniprot.org/uniprot/Q9H244,http://purl.uniprot.org/taxonomy/9606,P2Y purinoceptor 12
+C1418707,http://purl.uniprot.org/opentargets/ENSG00000169689,http://purl.uniprot.org/uniprot/A8MT69,http://purl.uniprot.org/taxonomy/9606,Centromere protein X
+C1423885,http://purl.uniprot.org/opentargets/ENSG00000177628,http://purl.uniprot.org/uniprot/P04062,http://purl.uniprot.org/taxonomy/9606,Lysosomal acid glucosylceramidase
+C1413632,http://purl.uniprot.org/opentargets/ENSG00000179097,http://purl.uniprot.org/uniprot/P30939,http://purl.uniprot.org/taxonomy/9606,5-hydroxytryptamine receptor 1F
+C1537995,http://purl.uniprot.org/opentargets/ENSG00000183638,http://purl.uniprot.org/uniprot/Q8IWN7,http://purl.uniprot.org/taxonomy/9606,Retinitis pigmentosa 1-like 1 protein
+C1334353,http://purl.uniprot.org/opentargets/ENSG00000183873,http://purl.uniprot.org/uniprot/Q14524,http://purl.uniprot.org/taxonomy/9606,Sodium channel protein type 5 subunit alpha
+C1417700,http://purl.uniprot.org/opentargets/ENSG00000183918,http://purl.uniprot.org/uniprot/O60880,http://purl.uniprot.org/taxonomy/9606,SH2 domain-containing protein 1A
+C1539668,http://purl.uniprot.org/opentargets/ENSG00000185345,http://purl.uniprot.org/uniprot/O60260,http://purl.uniprot.org/taxonomy/9606,E3 ubiquitin-protein ligase parkin
+C1425023,http://purl.uniprot.org/opentargets/ENSG00000185721,http://purl.uniprot.org/uniprot/Q9Y295,http://purl.uniprot.org/taxonomy/9606,Developmentally-regulated GTP-binding protein 1
+C1418674,http://purl.uniprot.org/opentargets/ENSG00000188037,http://purl.uniprot.org/uniprot/P35523,http://purl.uniprot.org/taxonomy/9606,Chloride channel protein 1
+C1416832,http://purl.uniprot.org/opentargets/ENSG00000197386,http://purl.uniprot.org/uniprot/P42858,http://purl.uniprot.org/taxonomy/9606,Huntingtin
+C1415502,http://purl.uniprot.org/opentargets/ENSG00000198695,http://purl.uniprot.org/uniprot/P03923,http://purl.uniprot.org/taxonomy/9606,NADH-ubiquinone oxidoreductase chain 6
+C1414874,http://purl.uniprot.org/opentargets/ENSG00000198899,http://purl.uniprot.org/uniprot/P00846,http://purl.uniprot.org/taxonomy/9606,ATP synthase F(0) complex subunit a
+C1825598,http://purl.uniprot.org/opentargets/ENSG00000198947,http://purl.uniprot.org/uniprot/P11532,http://purl.uniprot.org/taxonomy/9606,Dystrophin
+C1425330,http://purl.uniprot.org/opentargets/ENSG00000204842,http://purl.uniprot.org/uniprot/Q99700,http://purl.uniprot.org/taxonomy/9606,Ataxin-2
+C1418674,http://purl.uniprot.org/opentargets/ENSG00000214285,http://purl.uniprot.org/uniprot/P0C0P6,http://purl.uniprot.org/taxonomy/9606,Neuropeptide S
+C1416775,http://purl.uniprot.org/opentargets/ENSG00000266964,http://purl.uniprot.org/uniprot/O00168,http://purl.uniprot.org/taxonomy/9606,Phospholemman
+C1425330,http://purl.uniprot.org/opentargets/ENSG00000000938,http://purl.uniprot.org/uniprot/P09769,http://purl.uniprot.org/taxonomy/9606,Tyrosine-protein kinase Fgr
+C1425023,http://purl.uniprot.org/opentargets/ENSG00000007047,http://purl.uniprot.org/uniprot/Q96L34,http://purl.uniprot.org/taxonomy/9606,MAP/microtubule affinity-regulating kinase 4
+C1412382,http://purl.uniprot.org/opentargets/ENSG00000008311,http://purl.uniprot.org/uniprot/Q9UDR5,http://purl.uniprot.org/taxonomy/9606,"Alpha-aminoadipic semialdehyde synthase, mitochondrial"
+C1825868,http://purl.uniprot.org/opentargets/ENSG00000020577,http://purl.uniprot.org/uniprot/Q9UPU9,http://purl.uniprot.org/taxonomy/9606,Protein Smaug homolog 1
+C1439274,http://purl.uniprot.org/opentargets/ENSG00000048740,http://purl.uniprot.org/uniprot/O95319,http://purl.uniprot.org/taxonomy/9606,CUGBP Elav-like family member 2
+C1425330,http://purl.uniprot.org/opentargets/ENSG00000064042,http://purl.uniprot.org/uniprot/Q9UPQ0,http://purl.uniprot.org/taxonomy/9606,LIM and calponin homology domains-containing protein 1
+C1427027,http://purl.uniprot.org/opentargets/ENSG00000065427,http://purl.uniprot.org/uniprot/Q15046,http://purl.uniprot.org/taxonomy/9606,Lysine--tRNA ligase
+C1420588,http://purl.uniprot.org/opentargets/ENSG00000075142,http://purl.uniprot.org/uniprot/P30626,http://purl.uniprot.org/taxonomy/9606,Sorcin
+C1417055,http://purl.uniprot.org/opentargets/ENSG00000076770,http://purl.uniprot.org/uniprot/Q9NUK0,http://purl.uniprot.org/taxonomy/9606,Muscleblind-like protein 3
+C1824794,http://purl.uniprot.org/opentargets/ENSG00000078328,http://purl.uniprot.org/uniprot/Q9NWB1,http://purl.uniprot.org/taxonomy/9606,RNA binding protein fox-1 homolog 1
+C1414085,http://purl.uniprot.org/opentargets/ENSG00000082701,http://purl.uniprot.org/uniprot/P49841,http://purl.uniprot.org/taxonomy/9606,Glycogen synthase kinase-3 beta
+C1825598,http://purl.uniprot.org/opentargets/ENSG00000085998,http://purl.uniprot.org/uniprot/Q8WZA1,http://purl.uniprot.org/taxonomy/9606,"Protein O-linked-mannose beta-1,2-N-acetylglucosaminyltransferase 1"
+C1413825,http://purl.uniprot.org/opentargets/ENSG00000100320,http://purl.uniprot.org/uniprot/O43251,http://purl.uniprot.org/taxonomy/9606,RNA binding protein fox-1 homolog 2
+C1414899,http://purl.uniprot.org/opentargets/ENSG00000100410,http://purl.uniprot.org/uniprot/Q7RTV0,http://purl.uniprot.org/taxonomy/9606,PHD finger-like domain-containing protein 5A
+C2239652,http://purl.uniprot.org/opentargets/ENSG00000102032,http://purl.uniprot.org/uniprot/P51606,http://purl.uniprot.org/taxonomy/9606,N-acylglucosamine 2-epimerase
+C1413824,http://purl.uniprot.org/opentargets/ENSG00000102081,http://purl.uniprot.org/uniprot/Q06787,http://purl.uniprot.org/taxonomy/9606,Fragile X messenger ribonucleoprotein 1
+C1539609,http://purl.uniprot.org/opentargets/ENSG00000104879,http://purl.uniprot.org/uniprot/P06732,http://purl.uniprot.org/taxonomy/9606,Creatine kinase M-type
+C1420115,http://purl.uniprot.org/opentargets/ENSG00000104936,http://purl.uniprot.org/uniprot/Q09013,http://purl.uniprot.org/taxonomy/9606,Myotonin-protein kinase
+C1415012,http://purl.uniprot.org/opentargets/ENSG00000106692,http://purl.uniprot.org/uniprot/O75072,http://purl.uniprot.org/taxonomy/9606,Ribitol-5-phosphate transferase FKTN
+C1418779,http://purl.uniprot.org/opentargets/ENSG00000107105,http://purl.uniprot.org/uniprot/Q12926,http://purl.uniprot.org/taxonomy/9606,ELAV-like protein 2
+C1334535,http://purl.uniprot.org/opentargets/ENSG00000108176,http://purl.uniprot.org/uniprot/Q9UKB3,http://purl.uniprot.org/taxonomy/9606,DnaJ homolog subfamily C member 12
+C1414558,http://purl.uniprot.org/opentargets/ENSG00000108515,http://purl.uniprot.org/uniprot/P13929,http://purl.uniprot.org/taxonomy/9606,Beta-enolase
+C1826644,http://purl.uniprot.org/opentargets/ENSG00000108654,http://purl.uniprot.org/uniprot/P17844,http://purl.uniprot.org/taxonomy/9606,Probable ATP-dependent RNA helicase DDX5
+C1425226,http://purl.uniprot.org/opentargets/ENSG00000109819,http://purl.uniprot.org/uniprot/Q9UBK2,http://purl.uniprot.org/taxonomy/9606,Peroxisome proliferator-activated receptor gamma coactivator 1-alpha
+C1413554,http://purl.uniprot.org/opentargets/ENSG00000110717,http://purl.uniprot.org/uniprot/O00217,http://purl.uniprot.org/taxonomy/9606,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial"
+C1537989,http://purl.uniprot.org/opentargets/ENSG00000112183,http://purl.uniprot.org/uniprot/Q9BX46,http://purl.uniprot.org/taxonomy/9606,RNA-binding protein 24
+C1417651,http://purl.uniprot.org/opentargets/ENSG00000112699,http://purl.uniprot.org/uniprot/O60547,http://purl.uniprot.org/taxonomy/9606,"GDP-mannose 4,6 dehydratase"
+C1823407,http://purl.uniprot.org/opentargets/ENSG00000117054,http://purl.uniprot.org/uniprot/P11310,http://purl.uniprot.org/taxonomy/9606,"Medium-chain specific acyl-CoA dehydrogenase, mitochondrial"
+C1823405,http://purl.uniprot.org/opentargets/ENSG00000117682,http://purl.uniprot.org/uniprot/Q86SQ9,http://purl.uniprot.org/taxonomy/9606,Dehydrodolichyl diphosphate synthase complex subunit DHDDS
+C2681112,http://purl.uniprot.org/opentargets/ENSG00000118432,http://purl.uniprot.org/uniprot/P21554,http://purl.uniprot.org/taxonomy/9606,Cannabinoid receptor 1
+C1825598,http://purl.uniprot.org/opentargets/ENSG00000120519,http://purl.uniprot.org/uniprot/Q0GE19,http://purl.uniprot.org/taxonomy/9606,Sodium/bile acid cotransporter 7
+C1416994,http://purl.uniprot.org/opentargets/ENSG00000120800,http://purl.uniprot.org/uniprot/O75691,http://purl.uniprot.org/taxonomy/9606,Small subunit processome component 20 homolog
+C1836075,http://purl.uniprot.org/opentargets/ENSG00000120948,http://purl.uniprot.org/uniprot/Q13148,http://purl.uniprot.org/taxonomy/9606,TAR DNA-binding protein 43
+C0919478,http://purl.uniprot.org/opentargets/ENSG00000124299,http://purl.uniprot.org/uniprot/P12955,http://purl.uniprot.org/taxonomy/9606,Xaa-Pro dipeptidase
+C1413554,http://purl.uniprot.org/opentargets/ENSG00000125363,http://purl.uniprot.org/uniprot/Q99217,http://purl.uniprot.org/taxonomy/9606,"Amelogenin, X isoform"
+C2828846,http://purl.uniprot.org/opentargets/ENSG00000131979,http://purl.uniprot.org/uniprot/P30793,http://purl.uniprot.org/taxonomy/9606,GTP cyclohydrolase 1
+C1418887,http://purl.uniprot.org/opentargets/ENSG00000132874,http://purl.uniprot.org/uniprot/Q15849,http://purl.uniprot.org/taxonomy/9606,Urea transporter 2
+C1823612,http://purl.uniprot.org/opentargets/ENSG00000135903,http://purl.uniprot.org/uniprot/P23760,http://purl.uniprot.org/taxonomy/9606,Paired box protein Pax-3
+C1417132,http://purl.uniprot.org/opentargets/ENSG00000135917,http://purl.uniprot.org/uniprot/Q9BZV2,http://purl.uniprot.org/taxonomy/9606,Thiamine transporter 2
+C1414085,http://purl.uniprot.org/opentargets/ENSG00000136450,http://purl.uniprot.org/uniprot/Q07955,http://purl.uniprot.org/taxonomy/9606,Serine/arginine-rich splicing factor 1
+C1420401,http://purl.uniprot.org/opentargets/ENSG00000137513,http://purl.uniprot.org/uniprot/Q96I59,http://purl.uniprot.org/taxonomy/9606,Asparaginyl-tRNA synthetase
+C1425228,http://purl.uniprot.org/opentargets/ENSG00000140521,http://purl.uniprot.org/uniprot/P54098,http://purl.uniprot.org/taxonomy/9606,DNA polymerase subunit gamma-1
+C1414372,http://purl.uniprot.org/opentargets/ENSG00000142657,http://purl.uniprot.org/uniprot/P52209,http://purl.uniprot.org/taxonomy/9606,"6-phosphogluconate dehydrogenase, decarboxylating"
+C1418504,http://purl.uniprot.org/opentargets/ENSG00000143632,http://purl.uniprot.org/uniprot/P68133,http://purl.uniprot.org/taxonomy/9606,"Actin, alpha skeletal muscle"
+C1424138,http://purl.uniprot.org/opentargets/ENSG00000149187,http://purl.uniprot.org/uniprot/Q92879,http://purl.uniprot.org/taxonomy/9606,CUGBP Elav-like family member 1
+C1417645,http://purl.uniprot.org/opentargets/ENSG00000150787,http://purl.uniprot.org/uniprot/Q03393,http://purl.uniprot.org/taxonomy/9606,6-pyruvoyl tetrahydrobiopterin synthase
+C1418731,http://purl.uniprot.org/opentargets/ENSG00000151092,http://purl.uniprot.org/uniprot/Q96IV0,http://purl.uniprot.org/taxonomy/9606,Peptide-N(4)-(N-acetyl-beta-glucosaminyl)asparagine amidase
+C1419873,http://purl.uniprot.org/opentargets/ENSG00000152601,http://purl.uniprot.org/uniprot/Q9NR56,http://purl.uniprot.org/taxonomy/9606,Muscleblind-like protein 1
+C1424138,http://purl.uniprot.org/opentargets/ENSG00000154059,http://purl.uniprot.org/uniprot/Q9P2X3,http://purl.uniprot.org/taxonomy/9606,Protein IMPACT
+C1413450,http://purl.uniprot.org/opentargets/ENSG00000158864,http://purl.uniprot.org/uniprot/O75306,http://purl.uniprot.org/taxonomy/9606,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial"
+C1413435,http://purl.uniprot.org/opentargets/ENSG00000160131,http://purl.uniprot.org/uniprot/Q3ZAQ7,http://purl.uniprot.org/taxonomy/9606,Vacuolar ATPase assembly integral membrane protein VMA21
+C1414085,http://purl.uniprot.org/opentargets/ENSG00000164879,http://purl.uniprot.org/uniprot/P07451,http://purl.uniprot.org/taxonomy/9606,Carbonic anhydrase 3
+C1412477,http://purl.uniprot.org/opentargets/ENSG00000165646,http://purl.uniprot.org/uniprot/Q05940,http://purl.uniprot.org/taxonomy/9606,Synaptic vesicular amine transporter
+C1417055,http://purl.uniprot.org/opentargets/ENSG00000167258,http://purl.uniprot.org/uniprot/Q9NYV4,http://purl.uniprot.org/taxonomy/9606,Cyclin-dependent kinase 12
+C1419339,http://purl.uniprot.org/opentargets/ENSG00000169313,http://purl.uniprot.org/uniprot/Q9H244,http://purl.uniprot.org/taxonomy/9606,P2Y purinoceptor 12
+C1419129,http://purl.uniprot.org/opentargets/ENSG00000169567,http://purl.uniprot.org/uniprot/P49773,http://purl.uniprot.org/taxonomy/9606,Adenosine 5'-monophosphoramidase HINT1
+C1420076,http://purl.uniprot.org/opentargets/ENSG00000171105,http://purl.uniprot.org/uniprot/P06213,http://purl.uniprot.org/taxonomy/9606,Insulin receptor
+C1427004,http://purl.uniprot.org/opentargets/ENSG00000171298,http://purl.uniprot.org/uniprot/P10253,http://purl.uniprot.org/taxonomy/9606,Lysosomal alpha-glucosidase
+C1854634,http://purl.uniprot.org/opentargets/ENSG00000171759,http://purl.uniprot.org/uniprot/P00439,http://purl.uniprot.org/taxonomy/9606,Phenylalanine-4-hydroxylase
+C1419304,http://purl.uniprot.org/opentargets/ENSG00000171867,http://purl.uniprot.org/uniprot/P04156,http://purl.uniprot.org/taxonomy/9606,Major prion protein
+C1419989,http://purl.uniprot.org/opentargets/ENSG00000175938,http://purl.uniprot.org/uniprot/Q9BRQ5,http://purl.uniprot.org/taxonomy/9606,Protein orai-3
+C1419864,http://purl.uniprot.org/opentargets/ENSG00000177045,http://purl.uniprot.org/uniprot/Q8N196,http://purl.uniprot.org/taxonomy/9606,Homeobox protein SIX5
+C1413963,http://purl.uniprot.org/opentargets/ENSG00000177239,http://purl.uniprot.org/uniprot/Q9UKM7,http://purl.uniprot.org/taxonomy/9606,"Endoplasmic reticulum mannosyl-oligosaccharide 1,2-alpha-mannosidase"
+C1418462,http://purl.uniprot.org/opentargets/ENSG00000180644,http://purl.uniprot.org/uniprot/P14222,http://purl.uniprot.org/taxonomy/9606,Perforin-1
+C1418941,http://purl.uniprot.org/opentargets/ENSG00000181027,http://purl.uniprot.org/uniprot/Q9H9S5,http://purl.uniprot.org/taxonomy/9606,Ribitol 5-phosphate transferase FKRP
+C1414405,http://purl.uniprot.org/opentargets/ENSG00000183873,http://purl.uniprot.org/uniprot/Q14524,http://purl.uniprot.org/taxonomy/9606,Sodium channel protein type 5 subunit alpha
+C1414088,http://purl.uniprot.org/opentargets/ENSG00000184194,http://purl.uniprot.org/uniprot/Q9NS66,http://purl.uniprot.org/taxonomy/9606,Probable G-protein coupled receptor 173
+C1415321,http://purl.uniprot.org/opentargets/ENSG00000185800,http://purl.uniprot.org/uniprot/Q09019,http://purl.uniprot.org/taxonomy/9606,Dystrophia myotonica WD repeat-containing protein
+C1413044,http://purl.uniprot.org/opentargets/ENSG00000188037,http://purl.uniprot.org/uniprot/P35523,http://purl.uniprot.org/taxonomy/9606,Chloride channel protein 1
+C1413824,http://purl.uniprot.org/opentargets/ENSG00000188778,http://purl.uniprot.org/uniprot/P13945,http://purl.uniprot.org/taxonomy/9606,Beta-3 adrenergic receptor
+C1416776,http://purl.uniprot.org/opentargets/ENSG00000196365,http://purl.uniprot.org/uniprot/P36776,http://purl.uniprot.org/taxonomy/9606,"Lon protease homolog, mitochondrial"
+C1334133,http://purl.uniprot.org/opentargets/ENSG00000196569,http://purl.uniprot.org/uniprot/P24043,http://purl.uniprot.org/taxonomy/9606,Laminin subunit alpha-2
+C1420099,http://purl.uniprot.org/opentargets/ENSG00000198888,http://purl.uniprot.org/uniprot/P03886,http://purl.uniprot.org/taxonomy/9606,NADH-ubiquinone oxidoreductase chain 1
+C1335192,http://purl.uniprot.org/opentargets/ENSG00000214285,http://purl.uniprot.org/uniprot/P0C0P6,http://purl.uniprot.org/taxonomy/9606,Neuropeptide S
+C1416540,http://purl.uniprot.org/opentargets/ENSG00000214827,http://purl.uniprot.org/uniprot/P56278,http://purl.uniprot.org/taxonomy/9606,Protein p13 MTCP-1
+C1425023,http://purl.uniprot.org/opentargets/ENSG00000234906,http://purl.uniprot.org/uniprot/P02655,http://purl.uniprot.org/taxonomy/9606,Apolipoprotein C-II
+C1538790,http://purl.uniprot.org/opentargets/ENSG00000237136,http://purl.uniprot.org/uniprot/C9J302,http://purl.uniprot.org/taxonomy/9606,Uncharacterized protein C4orf51
+C1421396,http://purl.uniprot.org/opentargets/ENSG00000067704,http://purl.uniprot.org/uniprot/Q9NSE4,http://purl.uniprot.org/taxonomy/9606,"Isoleucine--tRNA ligase, mitochondrial"
+C1417647,http://purl.uniprot.org/opentargets/ENSG00000073578,http://purl.uniprot.org/uniprot/P31040,http://purl.uniprot.org/taxonomy/9606,"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial"
+C1425330,http://purl.uniprot.org/opentargets/ENSG00000079739,http://purl.uniprot.org/uniprot/P36871,http://purl.uniprot.org/taxonomy/9606,Phosphoglucomutase-1
+C1412251,http://purl.uniprot.org/opentargets/ENSG00000090861,http://purl.uniprot.org/uniprot/P49588,http://purl.uniprot.org/taxonomy/9606,"Alanine--tRNA ligase, cytoplasmic"
+C1415900,http://purl.uniprot.org/opentargets/ENSG00000101247,http://purl.uniprot.org/uniprot/Q5TEU4,http://purl.uniprot.org/taxonomy/9606,"Arginine-hydroxylase NDUFAF5, mitochondrial"
+C1425023,http://purl.uniprot.org/opentargets/ENSG00000107815,http://purl.uniprot.org/uniprot/Q96RR1,http://purl.uniprot.org/taxonomy/9606,Twinkle mtDNA helicase
+C1417652,http://purl.uniprot.org/opentargets/ENSG00000109819,http://purl.uniprot.org/uniprot/Q9UBK2,http://purl.uniprot.org/taxonomy/9606,Peroxisome proliferator-activated receptor gamma coactivator 1-alpha
+C1424082,http://purl.uniprot.org/opentargets/ENSG00000110074,http://purl.uniprot.org/uniprot/Q96CU9,http://purl.uniprot.org/taxonomy/9606,FAD-dependent oxidoreductase domain-containing protein 1
+C1418732,http://purl.uniprot.org/opentargets/ENSG00000110717,http://purl.uniprot.org/uniprot/O00217,http://purl.uniprot.org/taxonomy/9606,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial"
+C1537998,http://purl.uniprot.org/opentargets/ENSG00000112183,http://purl.uniprot.org/uniprot/Q9BX46,http://purl.uniprot.org/taxonomy/9606,RNA-binding protein 24
+C1423817,http://purl.uniprot.org/opentargets/ENSG00000112290,http://purl.uniprot.org/uniprot/Q92558,http://purl.uniprot.org/taxonomy/9606,Actin-binding protein WASF1
+C1824156,http://purl.uniprot.org/opentargets/ENSG00000119943,http://purl.uniprot.org/uniprot/Q8N2H3,http://purl.uniprot.org/taxonomy/9606,Pyridine nucleotide-disulfide oxidoreductase domain-containing protein 2
+C1427960,http://purl.uniprot.org/opentargets/ENSG00000122786,http://purl.uniprot.org/uniprot/Q05682,http://purl.uniprot.org/taxonomy/9606,Caldesmon
+C1428119,http://purl.uniprot.org/opentargets/ENSG00000123297,http://purl.uniprot.org/uniprot/P43897,http://purl.uniprot.org/taxonomy/9606,"Elongation factor Ts, mitochondrial"
+C1825598,http://purl.uniprot.org/opentargets/ENSG00000123545,http://purl.uniprot.org/uniprot/Q9P032,http://purl.uniprot.org/taxonomy/9606,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 4
+C1414247,http://purl.uniprot.org/opentargets/ENSG00000123908,http://purl.uniprot.org/uniprot/Q9UKV8,http://purl.uniprot.org/taxonomy/9606,Protein argonaute-2
+C1417647,http://purl.uniprot.org/opentargets/ENSG00000125356,http://purl.uniprot.org/uniprot/O15239,http://purl.uniprot.org/taxonomy/9606,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1
+C1417640,http://purl.uniprot.org/opentargets/ENSG00000125871,http://purl.uniprot.org/uniprot/Q9BQP7,http://purl.uniprot.org/taxonomy/9606,Mitochondrial genome maintenance exonuclease 1
+C1822755,http://purl.uniprot.org/opentargets/ENSG00000127884,http://purl.uniprot.org/uniprot/P30084,http://purl.uniprot.org/taxonomy/9606,"Enoyl-CoA hydratase, mitochondrial"
+C1537989,http://purl.uniprot.org/opentargets/ENSG00000131828,http://purl.uniprot.org/uniprot/P08559,http://purl.uniprot.org/taxonomy/9606,"Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial"
+C1419873,http://purl.uniprot.org/opentargets/ENSG00000132300,http://purl.uniprot.org/uniprot/Q96EY7,http://purl.uniprot.org/taxonomy/9606,Small ribosomal subunit protein mS39
+C1420527,http://purl.uniprot.org/opentargets/ENSG00000134489,http://purl.uniprot.org/uniprot/Q9H3N8,http://purl.uniprot.org/taxonomy/9606,Histamine H4 receptor
+C1417647,http://purl.uniprot.org/opentargets/ENSG00000135124,http://purl.uniprot.org/uniprot/Q99571,http://purl.uniprot.org/taxonomy/9606,P2X purinoceptor 4
+C1418504,http://purl.uniprot.org/opentargets/ENSG00000135917,http://purl.uniprot.org/uniprot/Q9BZV2,http://purl.uniprot.org/taxonomy/9606,Thiamine transporter 2
+C1537983,http://purl.uniprot.org/opentargets/ENSG00000136463,http://purl.uniprot.org/uniprot/Q9BSH4,http://purl.uniprot.org/taxonomy/9606,Translational activator of cytochrome c oxidase 1
+C1423817,http://purl.uniprot.org/opentargets/ENSG00000137513,http://purl.uniprot.org/uniprot/Q96I59,http://purl.uniprot.org/taxonomy/9606,Asparaginyl-tRNA synthetase
+C1537995,http://purl.uniprot.org/opentargets/ENSG00000138035,http://purl.uniprot.org/uniprot/Q8TCS8,http://purl.uniprot.org/taxonomy/9606,"Polyribonucleotide nucleotidyltransferase 1, mitochondrial"
+C1416989,http://purl.uniprot.org/opentargets/ENSG00000138095,http://purl.uniprot.org/uniprot/P42704,http://purl.uniprot.org/taxonomy/9606,"Leucine-rich PPR motif-containing protein, mitochondrial"
+C1424138,http://purl.uniprot.org/opentargets/ENSG00000140650,http://purl.uniprot.org/uniprot/O15305,http://purl.uniprot.org/taxonomy/9606,Phosphomannomutase 2
+C1539561,http://purl.uniprot.org/opentargets/ENSG00000142657,http://purl.uniprot.org/uniprot/P52209,http://purl.uniprot.org/taxonomy/9606,"6-phosphogluconate dehydrogenase, decarboxylating"
+C1824568,http://purl.uniprot.org/opentargets/ENSG00000148187,http://purl.uniprot.org/uniprot/Q96E11,http://purl.uniprot.org/taxonomy/9606,"Ribosome-recycling factor, mitochondrial"
+C1825559,http://purl.uniprot.org/opentargets/ENSG00000151092,http://purl.uniprot.org/uniprot/Q96IV0,http://purl.uniprot.org/taxonomy/9606,Peptide-N(4)-(N-acetyl-beta-glucosaminyl)asparagine amidase
+C1417646,http://purl.uniprot.org/opentargets/ENSG00000154059,http://purl.uniprot.org/uniprot/Q9P2X3,http://purl.uniprot.org/taxonomy/9606,Protein IMPACT
+C1826350,http://purl.uniprot.org/opentargets/ENSG00000156170,http://purl.uniprot.org/uniprot/Q330K2,http://purl.uniprot.org/taxonomy/9606,"NADH dehydrogenase (ubiquinone) complex I, assembly factor 6"
+C1418437,http://purl.uniprot.org/opentargets/ENSG00000158864,http://purl.uniprot.org/uniprot/O75306,http://purl.uniprot.org/taxonomy/9606,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial"
+C1824247,http://purl.uniprot.org/opentargets/ENSG00000163933,http://purl.uniprot.org/uniprot/Q96AA3,http://purl.uniprot.org/taxonomy/9606,Man(5)GlcNAc(2)-PP-dolichol translocation protein RFT1
+C1825311,http://purl.uniprot.org/opentargets/ENSG00000164209,http://purl.uniprot.org/uniprot/Q96AG3,http://purl.uniprot.org/taxonomy/9606,Mitochondrial outer membrane protein SLC25A46
+C1824156,http://purl.uniprot.org/opentargets/ENSG00000164258,http://purl.uniprot.org/uniprot/O43181,http://purl.uniprot.org/taxonomy/9606,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial"
+C1427260,http://purl.uniprot.org/opentargets/ENSG00000164347,http://purl.uniprot.org/uniprot/Q969S9,http://purl.uniprot.org/taxonomy/9606,"Ribosome-releasing factor 2, mitochondrial"
+C1412054,http://purl.uniprot.org/opentargets/ENSG00000166136,http://purl.uniprot.org/uniprot/O95169,http://purl.uniprot.org/taxonomy/9606,"NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial"
+C1417651,http://purl.uniprot.org/opentargets/ENSG00000167792,http://purl.uniprot.org/uniprot/P49821,http://purl.uniprot.org/taxonomy/9606,"NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial"
+C1423677,http://purl.uniprot.org/opentargets/ENSG00000169313,http://purl.uniprot.org/uniprot/Q9H244,http://purl.uniprot.org/taxonomy/9606,P2Y purinoceptor 12
+C1414333,http://purl.uniprot.org/opentargets/ENSG00000172005,http://purl.uniprot.org/uniprot/P21145,http://purl.uniprot.org/taxonomy/9606,Myelin and lymphocyte protein
+C1826731,http://purl.uniprot.org/opentargets/ENSG00000172037,http://purl.uniprot.org/uniprot/P55268,http://purl.uniprot.org/taxonomy/9606,Laminin subunit beta-2
+C1414247,http://purl.uniprot.org/opentargets/ENSG00000172046,http://purl.uniprot.org/uniprot/O94966,http://purl.uniprot.org/taxonomy/9606,Ubiquitin carboxyl-terminal hydrolase 19
+C1419906,http://purl.uniprot.org/opentargets/ENSG00000176340,http://purl.uniprot.org/uniprot/P10176,http://purl.uniprot.org/taxonomy/9606,"Cytochrome c oxidase subunit 8A, mitochondrial"
+C1825598,http://purl.uniprot.org/opentargets/ENSG00000178057,http://purl.uniprot.org/uniprot/Q9BU61,http://purl.uniprot.org/taxonomy/9606,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 3
+C1427960,http://purl.uniprot.org/opentargets/ENSG00000178127,http://purl.uniprot.org/uniprot/P19404,http://purl.uniprot.org/taxonomy/9606,"NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial"
+C1537988,http://purl.uniprot.org/opentargets/ENSG00000184752,http://purl.uniprot.org/uniprot/Q9UI09,http://purl.uniprot.org/taxonomy/9606,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12
+C1537991,http://purl.uniprot.org/opentargets/ENSG00000197919,http://purl.uniprot.org/uniprot/P01562,http://purl.uniprot.org/taxonomy/9606,Interferon alpha-1/13
+C1824725,http://purl.uniprot.org/opentargets/ENSG00000198695,http://purl.uniprot.org/uniprot/P03923,http://purl.uniprot.org/taxonomy/9606,NADH-ubiquinone oxidoreductase chain 6
+C1424138,http://purl.uniprot.org/opentargets/ENSG00000198707,http://purl.uniprot.org/uniprot/O15078,http://purl.uniprot.org/taxonomy/9606,Centrosomal protein of 290 kDa
+C1420527,http://purl.uniprot.org/opentargets/ENSG00000198727,http://purl.uniprot.org/uniprot/P00156,http://purl.uniprot.org/taxonomy/9606,Cytochrome b
+C1423677,http://purl.uniprot.org/opentargets/ENSG00000198786,http://purl.uniprot.org/uniprot/P03915,http://purl.uniprot.org/taxonomy/9606,NADH-ubiquinone oxidoreductase chain 5
+C1824568,http://purl.uniprot.org/opentargets/ENSG00000198840,http://purl.uniprot.org/uniprot/P03897,http://purl.uniprot.org/taxonomy/9606,NADH-ubiquinone oxidoreductase chain 3
+C1413661,http://purl.uniprot.org/opentargets/ENSG00000198888,http://purl.uniprot.org/uniprot/P03886,http://purl.uniprot.org/taxonomy/9606,NADH-ubiquinone oxidoreductase chain 1
+C1419873,http://purl.uniprot.org/opentargets/ENSG00000198899,http://purl.uniprot.org/uniprot/P00846,http://purl.uniprot.org/taxonomy/9606,ATP synthase F(0) complex subunit a
+C1417645,http://purl.uniprot.org/opentargets/ENSG00000213619,http://purl.uniprot.org/uniprot/O75489,http://purl.uniprot.org/taxonomy/9606,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial"
+C1419873,http://purl.uniprot.org/opentargets/ENSG00000241878,http://purl.uniprot.org/uniprot/Q9UG56,http://purl.uniprot.org/taxonomy/9606,"Phosphatidylserine decarboxylase proenzyme, mitochondrial"
+C1418674,http://purl.uniprot.org/opentargets/ENSG00000256525,http://purl.uniprot.org/uniprot/Q9UHN1,http://purl.uniprot.org/taxonomy/9606,DNA polymerase subunit gamma-2
+C1423677,http://purl.uniprot.org/opentargets/ENSG00000282608,http://purl.uniprot.org/uniprot/P0DMS8,http://purl.uniprot.org/taxonomy/9606,Adenosine receptor A3
+C1439284,http://purl.uniprot.org/opentargets/ENSG00000000938,http://purl.uniprot.org/uniprot/P09769,http://purl.uniprot.org/taxonomy/9606,Tyrosine-protein kinase Fgr
+C1419149,http://purl.uniprot.org/opentargets/ENSG00000001630,http://purl.uniprot.org/uniprot/Q16850,http://purl.uniprot.org/taxonomy/9606,Lanosterol 14-alpha demethylase
+C2681112,http://purl.uniprot.org/opentargets/ENSG00000010072,http://purl.uniprot.org/uniprot/Q9H040,http://purl.uniprot.org/taxonomy/9606,DNA-dependent metalloprotease SPRTN
+C1418674,http://purl.uniprot.org/opentargets/ENSG00000010704,http://purl.uniprot.org/uniprot/Q30201,http://purl.uniprot.org/taxonomy/9606,Hereditary hemochromatosis protein
+C1824644,http://purl.uniprot.org/opentargets/ENSG00000033011,http://purl.uniprot.org/uniprot/Q9BT22,http://purl.uniprot.org/taxonomy/9606,Chitobiosyldiphosphodolichol beta-mannosyltransferase
+C1412687,http://purl.uniprot.org/opentargets/ENSG00000034971,http://purl.uniprot.org/uniprot/Q99972,http://purl.uniprot.org/taxonomy/9606,Myocilin
+C1425293,http://purl.uniprot.org/opentargets/ENSG00000066427,http://purl.uniprot.org/uniprot/P54252,http://purl.uniprot.org/taxonomy/9606,Ataxin-3
+C1417652,http://purl.uniprot.org/opentargets/ENSG00000069535,http://purl.uniprot.org/uniprot/P27338,http://purl.uniprot.org/taxonomy/9606,Amine oxidase [flavin-containing] B
+C1417055,http://purl.uniprot.org/opentargets/ENSG00000071553,http://purl.uniprot.org/uniprot/Q15904,http://purl.uniprot.org/taxonomy/9606,V-type proton ATPase subunit S1
+C1825598,http://purl.uniprot.org/opentargets/ENSG00000077498,http://purl.uniprot.org/uniprot/P14679,http://purl.uniprot.org/taxonomy/9606,Tyrosinase
+C1428114,http://purl.uniprot.org/opentargets/ENSG00000081248,http://purl.uniprot.org/uniprot/Q13698,http://purl.uniprot.org/taxonomy/9606,Voltage-dependent L-type calcium channel subunit alpha-1S
+C1823744,http://purl.uniprot.org/opentargets/ENSG00000086848,http://purl.uniprot.org/uniprot/Q9H6U8,http://purl.uniprot.org/taxonomy/9606,"Alpha-1,2-mannosyltransferase ALG9"
+C1363878,http://purl.uniprot.org/opentargets/ENSG00000099956,http://purl.uniprot.org/uniprot/Q12824,http://purl.uniprot.org/taxonomy/9606,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily B member 1
+C1384665,http://purl.uniprot.org/opentargets/ENSG00000100416,http://purl.uniprot.org/uniprot/O75648,http://purl.uniprot.org/taxonomy/9606,Mitochondrial tRNA-specific 2-thiouridylase 1
+C1823502,http://purl.uniprot.org/opentargets/ENSG00000102174,http://purl.uniprot.org/uniprot/P78562,http://purl.uniprot.org/taxonomy/9606,Phosphate-regulating neutral endopeptidase PHEX
+C1418731,http://purl.uniprot.org/opentargets/ENSG00000105392,http://purl.uniprot.org/uniprot/O43186,http://purl.uniprot.org/taxonomy/9606,Cone-rod homeobox protein
+C1418674,http://purl.uniprot.org/opentargets/ENSG00000105514,http://purl.uniprot.org/uniprot/O95716,http://purl.uniprot.org/taxonomy/9606,Ras-related protein Rab-3D
+C1418813,http://purl.uniprot.org/opentargets/ENSG00000105607,http://purl.uniprot.org/uniprot/Q92947,http://purl.uniprot.org/taxonomy/9606,"Glutaryl-CoA dehydrogenase, mitochondrial"
+C1537991,http://purl.uniprot.org/opentargets/ENSG00000108433,http://purl.uniprot.org/uniprot/O14653,http://purl.uniprot.org/taxonomy/9606,Golgi SNAP receptor complex member 2
+C1537983,http://purl.uniprot.org/opentargets/ENSG00000108960,http://purl.uniprot.org/uniprot/Q15546,http://purl.uniprot.org/taxonomy/9606,Monocyte to macrophage differentiation factor
+C1413723,http://purl.uniprot.org/opentargets/ENSG00000110717,http://purl.uniprot.org/uniprot/O00217,http://purl.uniprot.org/taxonomy/9606,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial"
+C1417620,http://purl.uniprot.org/opentargets/ENSG00000115204,http://purl.uniprot.org/uniprot/P39210,http://purl.uniprot.org/taxonomy/9606,Mitochondrial inner membrane protein Mpv17
+C1417652,http://purl.uniprot.org/opentargets/ENSG00000115275,http://purl.uniprot.org/uniprot/Q13724,http://purl.uniprot.org/taxonomy/9606,Mannosyl-oligosaccharide glucosidase
+C1414247,http://purl.uniprot.org/opentargets/ENSG00000115665,http://purl.uniprot.org/uniprot/Q9GZV3,http://purl.uniprot.org/taxonomy/9606,High affinity choline transporter 1
+C1423677,http://purl.uniprot.org/opentargets/ENSG00000117632,http://purl.uniprot.org/uniprot/P16949,http://purl.uniprot.org/taxonomy/9606,Stathmin
+C1414247,http://purl.uniprot.org/opentargets/ENSG00000118898,http://purl.uniprot.org/uniprot/O60437,http://purl.uniprot.org/taxonomy/9606,Periplakin
+C1418526,http://purl.uniprot.org/opentargets/ENSG00000120519,http://purl.uniprot.org/uniprot/Q0GE19,http://purl.uniprot.org/taxonomy/9606,Sodium/bile acid cotransporter 7
+C1332828,http://purl.uniprot.org/opentargets/ENSG00000122783,http://purl.uniprot.org/uniprot/Q9BWK5,http://purl.uniprot.org/taxonomy/9606,Cell cycle regulator of non-homologous end joining
+C1538301,http://purl.uniprot.org/opentargets/ENSG00000125356,http://purl.uniprot.org/uniprot/O15239,http://purl.uniprot.org/taxonomy/9606,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1
+C1420527,http://purl.uniprot.org/opentargets/ENSG00000125363,http://purl.uniprot.org/uniprot/Q99217,http://purl.uniprot.org/taxonomy/9606,"Amelogenin, X isoform"
+C1412382,http://purl.uniprot.org/opentargets/ENSG00000127884,http://purl.uniprot.org/uniprot/P30084,http://purl.uniprot.org/taxonomy/9606,"Enoyl-CoA hydratase, mitochondrial"
+C1417198,http://purl.uniprot.org/opentargets/ENSG00000128039,http://purl.uniprot.org/uniprot/Q9H8P0,http://purl.uniprot.org/taxonomy/9606,Polyprenal reductase
+C1428130,http://purl.uniprot.org/opentargets/ENSG00000130558,http://purl.uniprot.org/uniprot/Q99784,http://purl.uniprot.org/taxonomy/9606,Noelin
+C1415009,http://purl.uniprot.org/opentargets/ENSG00000131931,http://purl.uniprot.org/uniprot/Q9NVV9,http://purl.uniprot.org/taxonomy/9606,THAP domain-containing protein 1
+C1415009,http://purl.uniprot.org/opentargets/ENSG00000132437,http://purl.uniprot.org/uniprot/P20711,http://purl.uniprot.org/taxonomy/9606,Aromatic-L-amino-acid decarboxylase
+C1537983,http://purl.uniprot.org/opentargets/ENSG00000133884,http://purl.uniprot.org/uniprot/Q92785,http://purl.uniprot.org/taxonomy/9606,Zinc finger protein ubi-d4
+C1417807,http://purl.uniprot.org/opentargets/ENSG00000135917,http://purl.uniprot.org/uniprot/Q9BZV2,http://purl.uniprot.org/taxonomy/9606,Thiamine transporter 2
+C1415180,http://purl.uniprot.org/opentargets/ENSG00000136710,http://purl.uniprot.org/uniprot/Q96NT0,http://purl.uniprot.org/taxonomy/9606,Coiled-coil domain-containing protein 115
+C1424138,http://purl.uniprot.org/opentargets/ENSG00000137513,http://purl.uniprot.org/uniprot/Q96I59,http://purl.uniprot.org/taxonomy/9606,Asparaginyl-tRNA synthetase
+C1539322,http://purl.uniprot.org/opentargets/ENSG00000138095,http://purl.uniprot.org/uniprot/P42704,http://purl.uniprot.org/taxonomy/9606,"Leucine-rich PPR motif-containing protein, mitochondrial"
+C1417247,http://purl.uniprot.org/opentargets/ENSG00000140521,http://purl.uniprot.org/uniprot/P54098,http://purl.uniprot.org/taxonomy/9606,DNA polymerase subunit gamma-1
+C1416781,http://purl.uniprot.org/opentargets/ENSG00000140650,http://purl.uniprot.org/uniprot/O15305,http://purl.uniprot.org/taxonomy/9606,Phosphomannomutase 2
+C1413902,http://purl.uniprot.org/opentargets/ENSG00000141627,http://purl.uniprot.org/uniprot/Q7RTS9,http://purl.uniprot.org/taxonomy/9606,Dymeclin
+C1412792,http://purl.uniprot.org/opentargets/ENSG00000143184,http://purl.uniprot.org/uniprot/P47992,http://purl.uniprot.org/taxonomy/9606,Lymphotactin
+C1417055,http://purl.uniprot.org/opentargets/ENSG00000144455,http://purl.uniprot.org/uniprot/Q8NBK3,http://purl.uniprot.org/taxonomy/9606,Formylglycine-generating enzyme
+C1825598,http://purl.uniprot.org/opentargets/ENSG00000144891,http://purl.uniprot.org/uniprot/P30556,http://purl.uniprot.org/taxonomy/9606,Type-1 angiotensin II receptor
+C1417651,http://purl.uniprot.org/opentargets/ENSG00000148356,http://purl.uniprot.org/uniprot/Q6UWE0,http://purl.uniprot.org/taxonomy/9606,E3 ubiquitin-protein ligase LRSAM1
+C1425330,http://purl.uniprot.org/opentargets/ENSG00000151092,http://purl.uniprot.org/uniprot/Q96IV0,http://purl.uniprot.org/taxonomy/9606,Peptide-N(4)-(N-acetyl-beta-glucosaminyl)asparagine amidase
+C1537995,http://purl.uniprot.org/opentargets/ENSG00000151360,http://purl.uniprot.org/uniprot/Q8N6M5,http://purl.uniprot.org/taxonomy/9606,Probable inactive allantoicase
+C1824732,http://purl.uniprot.org/opentargets/ENSG00000151552,http://purl.uniprot.org/uniprot/P09417,http://purl.uniprot.org/taxonomy/9606,Dihydropteridine reductase
+C1415009,http://purl.uniprot.org/opentargets/ENSG00000152601,http://purl.uniprot.org/uniprot/Q9NR56,http://purl.uniprot.org/taxonomy/9606,Muscleblind-like protein 1
+C1413064,http://purl.uniprot.org/opentargets/ENSG00000154059,http://purl.uniprot.org/uniprot/Q9P2X3,http://purl.uniprot.org/taxonomy/9606,Protein IMPACT
+C1825598,http://purl.uniprot.org/opentargets/ENSG00000158747,http://purl.uniprot.org/uniprot/P41271,http://purl.uniprot.org/taxonomy/9606,Neuroblastoma suppressor of tumorigenicity 1
+C1420562,http://purl.uniprot.org/opentargets/ENSG00000160131,http://purl.uniprot.org/uniprot/Q3ZAQ7,http://purl.uniprot.org/taxonomy/9606,Vacuolar ATPase assembly integral membrane protein VMA21
+C1419208,http://purl.uniprot.org/opentargets/ENSG00000160211,http://purl.uniprot.org/uniprot/P11413,http://purl.uniprot.org/taxonomy/9606,Glucose-6-phosphate 1-dehydrogenase
+C1418251,http://purl.uniprot.org/opentargets/ENSG00000163527,http://purl.uniprot.org/uniprot/Q8TCJ2,http://purl.uniprot.org/taxonomy/9606,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3B
+C1428660,http://purl.uniprot.org/opentargets/ENSG00000163933,http://purl.uniprot.org/uniprot/Q96AA3,http://purl.uniprot.org/taxonomy/9606,Man(5)GlcNAc(2)-PP-dolichol translocation protein RFT1
+C0919442,http://purl.uniprot.org/opentargets/ENSG00000164458,http://purl.uniprot.org/uniprot/O15178,http://purl.uniprot.org/taxonomy/9606,T-box transcription factor T
+C1422359,http://purl.uniprot.org/opentargets/ENSG00000164751,http://purl.uniprot.org/uniprot/P28328,http://purl.uniprot.org/taxonomy/9606,Peroxisome biogenesis factor 2
+C0812273,http://purl.uniprot.org/opentargets/ENSG00000165168,http://purl.uniprot.org/uniprot/P04839,http://purl.uniprot.org/taxonomy/9606,NADPH oxidase 2
+C1424945,http://purl.uniprot.org/opentargets/ENSG00000165704,http://purl.uniprot.org/uniprot/P00492,http://purl.uniprot.org/taxonomy/9606,Hypoxanthine-guanine phosphoribosyltransferase
+C1413892,http://purl.uniprot.org/opentargets/ENSG00000165841,http://purl.uniprot.org/uniprot/P33261,http://purl.uniprot.org/taxonomy/9606,Cytochrome P450 2C19
+C1428449,http://purl.uniprot.org/opentargets/ENSG00000166220,http://purl.uniprot.org/uniprot/Q96M53,http://purl.uniprot.org/taxonomy/9606,Protein TBATA
+C1823292,http://purl.uniprot.org/opentargets/ENSG00000167792,http://purl.uniprot.org/uniprot/P49821,http://purl.uniprot.org/taxonomy/9606,"NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial"
+C1419344,http://purl.uniprot.org/opentargets/ENSG00000167895,http://purl.uniprot.org/uniprot/Q8IU68,http://purl.uniprot.org/taxonomy/9606,Transmembrane channel-like protein 8
+C1413844,http://purl.uniprot.org/opentargets/ENSG00000169313,http://purl.uniprot.org/uniprot/Q9H244,http://purl.uniprot.org/taxonomy/9606,P2Y purinoceptor 12
+C1417002,http://purl.uniprot.org/opentargets/ENSG00000171759,http://purl.uniprot.org/uniprot/P00439,http://purl.uniprot.org/taxonomy/9606,Phenylalanine-4-hydroxylase
+C1422646,http://purl.uniprot.org/opentargets/ENSG00000172037,http://purl.uniprot.org/uniprot/P55268,http://purl.uniprot.org/taxonomy/9606,Laminin subunit beta-2
+C1417525,http://purl.uniprot.org/opentargets/ENSG00000172269,http://purl.uniprot.org/uniprot/Q9H3H5,http://purl.uniprot.org/taxonomy/9606,UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase
+C1333652,http://purl.uniprot.org/opentargets/ENSG00000173166,http://purl.uniprot.org/uniprot/Q70E73,http://purl.uniprot.org/taxonomy/9606,Ras-associated and pleckstrin homology domains-containing protein 1
+C1424808,http://purl.uniprot.org/opentargets/ENSG00000173402,http://purl.uniprot.org/uniprot/Q14118,http://purl.uniprot.org/taxonomy/9606,Dystroglycan 1
+C1824234,http://purl.uniprot.org/opentargets/ENSG00000173540,http://purl.uniprot.org/uniprot/Q9Y5P6,http://purl.uniprot.org/taxonomy/9606,Mannose-1-phosphate guanylyltransferase catalytic subunit beta
+C1416797,http://purl.uniprot.org/opentargets/ENSG00000174358,http://purl.uniprot.org/uniprot/Q695T7,http://purl.uniprot.org/taxonomy/9606,Sodium-dependent neutral amino acid transporter B(0)AT1
+C1421250,http://purl.uniprot.org/opentargets/ENSG00000175206,http://purl.uniprot.org/uniprot/P01160,http://purl.uniprot.org/taxonomy/9606,Natriuretic peptides A
+C1417573,http://purl.uniprot.org/opentargets/ENSG00000180879,http://purl.uniprot.org/uniprot/P51571,http://purl.uniprot.org/taxonomy/9606,Translocon-associated protein subunit delta
+C1415701,http://purl.uniprot.org/opentargets/ENSG00000181192,http://purl.uniprot.org/uniprot/Q96HY7,http://purl.uniprot.org/taxonomy/9606,2-oxoadipate dehydrogenase complex component E1
+C1419182,http://purl.uniprot.org/opentargets/ENSG00000181924,http://purl.uniprot.org/uniprot/Q9NYJ1,http://purl.uniprot.org/taxonomy/9606,"Cytochrome c oxidase assembly factor 4 homolog, mitochondrial"
+C0919478,http://purl.uniprot.org/opentargets/ENSG00000182492,http://purl.uniprot.org/uniprot/P21810,http://purl.uniprot.org/taxonomy/9606,Biglycan
+C1413943,http://purl.uniprot.org/opentargets/ENSG00000198695,http://purl.uniprot.org/uniprot/P03923,http://purl.uniprot.org/taxonomy/9606,NADH-ubiquinone oxidoreductase chain 6
+C1420527,http://purl.uniprot.org/opentargets/ENSG00000198840,http://purl.uniprot.org/uniprot/P03897,http://purl.uniprot.org/taxonomy/9606,NADH-ubiquinone oxidoreductase chain 3
+C1427163,http://purl.uniprot.org/opentargets/ENSG00000198899,http://purl.uniprot.org/uniprot/P00846,http://purl.uniprot.org/taxonomy/9606,ATP synthase F(0) complex subunit a
+C1427818,http://purl.uniprot.org/opentargets/ENSG00000214114,http://purl.uniprot.org/uniprot/Q99417,http://purl.uniprot.org/taxonomy/9606,c-Myc-binding protein
+C1826350,http://purl.uniprot.org/opentargets/ENSG00000215193,http://purl.uniprot.org/uniprot/Q7Z412,http://purl.uniprot.org/taxonomy/9606,Peroxisome assembly protein 26
+C1418526,http://purl.uniprot.org/opentargets/ENSG00000244045,http://purl.uniprot.org/uniprot/Q8N511,http://purl.uniprot.org/taxonomy/9606,Transmembrane protein 199
+C1425428,http://purl.uniprot.org/opentargets/ENSG00000253710,http://purl.uniprot.org/uniprot/Q2TAA5,http://purl.uniprot.org/taxonomy/9606,"GDP-Man:Man(3)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase"
+C1420188,http://purl.uniprot.org/opentargets/ENSG00000000938,http://purl.uniprot.org/uniprot/P09769,http://purl.uniprot.org/taxonomy/9606,Tyrosine-protein kinase Fgr
+C1417945,http://purl.uniprot.org/opentargets/ENSG00000002726,http://purl.uniprot.org/uniprot/P19801,http://purl.uniprot.org/taxonomy/9606,Diamine oxidase [copper-containing]
+C1825598,http://purl.uniprot.org/opentargets/ENSG00000004809,http://purl.uniprot.org/uniprot/Q86VW1,http://purl.uniprot.org/taxonomy/9606,Solute carrier family 22 member 16
+C1427169,http://purl.uniprot.org/opentargets/ENSG00000004848,http://purl.uniprot.org/uniprot/Q96QS3,http://purl.uniprot.org/taxonomy/9606,Homeobox protein ARX
+C1427953,http://purl.uniprot.org/opentargets/ENSG00000007314,http://purl.uniprot.org/uniprot/P35499,http://purl.uniprot.org/taxonomy/9606,Sodium channel protein type 4 subunit alpha
+C1823430,http://purl.uniprot.org/opentargets/ENSG00000014919,http://purl.uniprot.org/uniprot/Q7KZN9,http://purl.uniprot.org/taxonomy/9606,Heme A synthase COX15
+C1420187,http://purl.uniprot.org/opentargets/ENSG00000017427,http://purl.uniprot.org/uniprot/P05019,http://purl.uniprot.org/taxonomy/9606,Insulin-like growth factor 1
+C1414139,http://purl.uniprot.org/opentargets/ENSG00000033011,http://purl.uniprot.org/uniprot/Q9BT22,http://purl.uniprot.org/taxonomy/9606,Chitobiosyldiphosphodolichol beta-mannosyltransferase
+C1876205,http://purl.uniprot.org/opentargets/ENSG00000060982,http://purl.uniprot.org/uniprot/P54687,http://purl.uniprot.org/taxonomy/9606,"Branched-chain-amino-acid aminotransferase, cytosolic"
+C1426768,http://purl.uniprot.org/opentargets/ENSG00000066427,http://purl.uniprot.org/uniprot/P54252,http://purl.uniprot.org/taxonomy/9606,Ataxin-3
+C1333253,http://purl.uniprot.org/opentargets/ENSG00000070748,http://purl.uniprot.org/uniprot/P28329,http://purl.uniprot.org/taxonomy/9606,Choline O-acetyltransferase
+C1421146,http://purl.uniprot.org/opentargets/ENSG00000077498,http://purl.uniprot.org/uniprot/P14679,http://purl.uniprot.org/taxonomy/9606,Tyrosinase
+C2239313,http://purl.uniprot.org/opentargets/ENSG00000088035,http://purl.uniprot.org/uniprot/Q9Y672,http://purl.uniprot.org/taxonomy/9606,"Dolichyl pyrophosphate Man9GlcNAc2 alpha-1,3-glucosyltransferase"
+C1420696,http://purl.uniprot.org/opentargets/ENSG00000092445,http://purl.uniprot.org/uniprot/Q06418,http://purl.uniprot.org/taxonomy/9606,Tyrosine-protein kinase receptor TYRO3
+C1539747,http://purl.uniprot.org/opentargets/ENSG00000100031,http://purl.uniprot.org/uniprot/P19440,http://purl.uniprot.org/taxonomy/9606,Glutathione hydrolase 1 proenzyme
+C1425330,http://purl.uniprot.org/opentargets/ENSG00000100815,http://purl.uniprot.org/uniprot/Q15643,http://purl.uniprot.org/taxonomy/9606,Thyroid receptor-interacting protein 11
+C0919478,http://purl.uniprot.org/opentargets/ENSG00000101161,http://purl.uniprot.org/uniprot/O94906,http://purl.uniprot.org/taxonomy/9606,Pre-mRNA-processing factor 6
+C1415180,http://purl.uniprot.org/opentargets/ENSG00000101247,http://purl.uniprot.org/uniprot/Q5TEU4,http://purl.uniprot.org/taxonomy/9606,"Arginine-hydroxylase NDUFAF5, mitochondrial"
+C1334089,http://purl.uniprot.org/opentargets/ENSG00000101680,http://purl.uniprot.org/uniprot/P25391,http://purl.uniprot.org/taxonomy/9606,Laminin subunit alpha-1
+C1419152,http://purl.uniprot.org/opentargets/ENSG00000101901,http://purl.uniprot.org/uniprot/Q9NP73,http://purl.uniprot.org/taxonomy/9606,UDP-N-acetylglucosamine transferase subunit ALG13
+C1826706,http://purl.uniprot.org/opentargets/ENSG00000104936,http://purl.uniprot.org/uniprot/Q09013,http://purl.uniprot.org/taxonomy/9606,Myotonin-protein kinase
+C1420527,http://purl.uniprot.org/opentargets/ENSG00000105607,http://purl.uniprot.org/uniprot/Q92947,http://purl.uniprot.org/taxonomy/9606,"Glutaryl-CoA dehydrogenase, mitochondrial"
+C1418437,http://purl.uniprot.org/opentargets/ENSG00000107105,http://purl.uniprot.org/uniprot/Q12926,http://purl.uniprot.org/taxonomy/9606,ELAV-like protein 2
+C1420116,http://purl.uniprot.org/opentargets/ENSG00000108064,http://purl.uniprot.org/uniprot/Q00059,http://purl.uniprot.org/taxonomy/9606,"Transcription factor A, mitochondrial"
+C1413632,http://purl.uniprot.org/opentargets/ENSG00000108387,http://purl.uniprot.org/uniprot/O43236,http://purl.uniprot.org/taxonomy/9606,Septin-4
+C1413603,http://purl.uniprot.org/opentargets/ENSG00000108405,http://purl.uniprot.org/uniprot/P51575,http://purl.uniprot.org/taxonomy/9606,P2X purinoceptor 1
+C1420116,http://purl.uniprot.org/opentargets/ENSG00000108433,http://purl.uniprot.org/uniprot/O14653,http://purl.uniprot.org/taxonomy/9606,Golgi SNAP receptor complex member 2
+C1415046,http://purl.uniprot.org/opentargets/ENSG00000108556,http://purl.uniprot.org/uniprot/Q04844,http://purl.uniprot.org/taxonomy/9606,Acetylcholine receptor subunit epsilon
+C1823173,http://purl.uniprot.org/opentargets/ENSG00000112799,http://purl.uniprot.org/uniprot/O95711,http://purl.uniprot.org/taxonomy/9606,Lymphocyte antigen 86
+C1413376,http://purl.uniprot.org/opentargets/ENSG00000115204,http://purl.uniprot.org/uniprot/P39210,http://purl.uniprot.org/taxonomy/9606,Mitochondrial inner membrane protein Mpv17
+C1412285,http://purl.uniprot.org/opentargets/ENSG00000115665,http://purl.uniprot.org/uniprot/Q9GZV3,http://purl.uniprot.org/taxonomy/9606,High affinity choline transporter 1
+C1418406,http://purl.uniprot.org/opentargets/ENSG00000118432,http://purl.uniprot.org/uniprot/P21554,http://purl.uniprot.org/taxonomy/9606,Cannabinoid receptor 1
+C1419271,http://purl.uniprot.org/opentargets/ENSG00000118729,http://purl.uniprot.org/uniprot/O14958,http://purl.uniprot.org/taxonomy/9606,Calsequestrin-2
+C1414133,http://purl.uniprot.org/opentargets/ENSG00000121897,http://purl.uniprot.org/uniprot/O43766,http://purl.uniprot.org/taxonomy/9606,"Lipoyl synthase, mitochondrial"
+C1824957,http://purl.uniprot.org/opentargets/ENSG00000127884,http://purl.uniprot.org/uniprot/P30084,http://purl.uniprot.org/taxonomy/9606,"Enoyl-CoA hydratase, mitochondrial"
+C1413412,http://purl.uniprot.org/opentargets/ENSG00000128039,http://purl.uniprot.org/uniprot/Q9H8P0,http://purl.uniprot.org/taxonomy/9606,Polyprenal reductase
+C1419862,http://purl.uniprot.org/opentargets/ENSG00000131828,http://purl.uniprot.org/uniprot/P08559,http://purl.uniprot.org/taxonomy/9606,"Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial"
+C1414247,http://purl.uniprot.org/opentargets/ENSG00000134569,http://purl.uniprot.org/uniprot/O75096,http://purl.uniprot.org/taxonomy/9606,Low-density lipoprotein receptor-related protein 4
+C1416916,http://purl.uniprot.org/opentargets/ENSG00000134760,http://purl.uniprot.org/uniprot/Q02413,http://purl.uniprot.org/taxonomy/9606,Desmoglein-1
+C1423677,http://purl.uniprot.org/opentargets/ENSG00000134851,http://purl.uniprot.org/uniprot/Q9HC07,http://purl.uniprot.org/taxonomy/9606,Putative divalent cation/proton antiporter TMEM165
+C2829636,http://purl.uniprot.org/opentargets/ENSG00000137252,http://purl.uniprot.org/uniprot/O43614,http://purl.uniprot.org/taxonomy/9606,Orexin receptor type 2
+C1424272,http://purl.uniprot.org/opentargets/ENSG00000138095,http://purl.uniprot.org/uniprot/P42704,http://purl.uniprot.org/taxonomy/9606,"Leucine-rich PPR motif-containing protein, mitochondrial"
+C1421250,http://purl.uniprot.org/opentargets/ENSG00000138821,http://purl.uniprot.org/uniprot/Q9C0K1,http://purl.uniprot.org/taxonomy/9606,Metal cation symporter ZIP8
+C1413135,http://purl.uniprot.org/opentargets/ENSG00000140650,http://purl.uniprot.org/uniprot/O15305,http://purl.uniprot.org/taxonomy/9606,Phosphomannomutase 2
+C1417055,http://purl.uniprot.org/opentargets/ENSG00000147162,http://purl.uniprot.org/uniprot/O15294,http://purl.uniprot.org/taxonomy/9606,UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase 110 kDa subunit
+C1412100,http://purl.uniprot.org/opentargets/ENSG00000147408,http://purl.uniprot.org/uniprot/Q8TDX6,http://purl.uniprot.org/taxonomy/9606,Chondroitin sulfate N-acetylgalactosaminyltransferase 1
+C1414085,http://purl.uniprot.org/opentargets/ENSG00000148908,http://purl.uniprot.org/uniprot/O43665,http://purl.uniprot.org/taxonomy/9606,Regulator of G-protein signaling 10
+C1332798,http://purl.uniprot.org/opentargets/ENSG00000149295,http://purl.uniprot.org/uniprot/P14416,http://purl.uniprot.org/taxonomy/9606,D(2) dopamine receptor
+C1417247,http://purl.uniprot.org/opentargets/ENSG00000152601,http://purl.uniprot.org/uniprot/Q9NR56,http://purl.uniprot.org/taxonomy/9606,Muscleblind-like protein 1
+C1417247,http://purl.uniprot.org/opentargets/ENSG00000154059,http://purl.uniprot.org/uniprot/Q9P2X3,http://purl.uniprot.org/taxonomy/9606,Protein IMPACT
+C1825598,http://purl.uniprot.org/opentargets/ENSG00000155657,http://purl.uniprot.org/uniprot/Q8WZ42,http://purl.uniprot.org/taxonomy/9606,Titin
+C1425272,http://purl.uniprot.org/opentargets/ENSG00000160213,http://purl.uniprot.org/uniprot/P04080,http://purl.uniprot.org/taxonomy/9606,Cystatin-B
+C1537811,http://purl.uniprot.org/opentargets/ENSG00000162738,http://purl.uniprot.org/uniprot/Q9ULK5,http://purl.uniprot.org/taxonomy/9606,Vang-like protein 2
+C1417055,http://purl.uniprot.org/opentargets/ENSG00000164258,http://purl.uniprot.org/uniprot/O43181,http://purl.uniprot.org/taxonomy/9606,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial"
+C1421222,http://purl.uniprot.org/opentargets/ENSG00000164414,http://purl.uniprot.org/uniprot/P78382,http://purl.uniprot.org/taxonomy/9606,CMP-sialic acid transporter
+C1427953,http://purl.uniprot.org/opentargets/ENSG00000165194,http://purl.uniprot.org/uniprot/Q8TAB3,http://purl.uniprot.org/taxonomy/9606,Protocadherin-19
+C1415963,http://purl.uniprot.org/opentargets/ENSG00000165841,http://purl.uniprot.org/uniprot/P33261,http://purl.uniprot.org/taxonomy/9606,Cytochrome P450 2C19
+C1825850,http://purl.uniprot.org/opentargets/ENSG00000165917,http://purl.uniprot.org/uniprot/Q13702,http://purl.uniprot.org/taxonomy/9606,43 kDa receptor-associated protein of the synapse
+C1428660,http://purl.uniprot.org/opentargets/ENSG00000166233,http://purl.uniprot.org/uniprot/Q9Y4X5,http://purl.uniprot.org/taxonomy/9606,E3 ubiquitin-protein ligase ARIH1
+C1415009,http://purl.uniprot.org/opentargets/ENSG00000166736,http://purl.uniprot.org/uniprot/P46098,http://purl.uniprot.org/taxonomy/9606,5-hydroxytryptamine receptor 3A
+C1423817,http://purl.uniprot.org/opentargets/ENSG00000169313,http://purl.uniprot.org/uniprot/Q9H244,http://purl.uniprot.org/taxonomy/9606,P2Y purinoceptor 12
+C1825598,http://purl.uniprot.org/opentargets/ENSG00000172269,http://purl.uniprot.org/uniprot/Q9H3H5,http://purl.uniprot.org/taxonomy/9606,UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase
+C1414672,http://purl.uniprot.org/opentargets/ENSG00000172339,http://purl.uniprot.org/uniprot/Q96F25,http://purl.uniprot.org/taxonomy/9606,UDP-N-acetylglucosamine transferase subunit ALG14
+C1420188,http://purl.uniprot.org/opentargets/ENSG00000174358,http://purl.uniprot.org/uniprot/Q695T7,http://purl.uniprot.org/taxonomy/9606,Sodium-dependent neutral amino acid transporter B(0)AT1
+C2240046,http://purl.uniprot.org/opentargets/ENSG00000174640,http://purl.uniprot.org/uniprot/Q92959,http://purl.uniprot.org/taxonomy/9606,Solute carrier organic anion transporter family member 2A1
+C1425428,http://purl.uniprot.org/opentargets/ENSG00000175536,http://purl.uniprot.org/uniprot/A6NK58,http://purl.uniprot.org/taxonomy/9606,"Octanoyl-[acyl-carrier-protein]:protein N-octanoyltransferase LIPT2, mitochondrial"
+C1415053,http://purl.uniprot.org/opentargets/ENSG00000175920,http://purl.uniprot.org/uniprot/Q18PE1,http://purl.uniprot.org/taxonomy/9606,Protein Dok-7
+C1412751,http://purl.uniprot.org/opentargets/ENSG00000177239,http://purl.uniprot.org/uniprot/Q9UKM7,http://purl.uniprot.org/taxonomy/9606,"Endoplasmic reticulum mannosyl-oligosaccharide 1,2-alpha-mannosidase"
+C1419693,http://purl.uniprot.org/opentargets/ENSG00000177600,http://purl.uniprot.org/uniprot/P05387,http://purl.uniprot.org/taxonomy/9606,Large ribosomal subunit protein P2
+C1422530,http://purl.uniprot.org/opentargets/ENSG00000178802,http://purl.uniprot.org/uniprot/P34949,http://purl.uniprot.org/taxonomy/9606,Mannose-6-phosphate isomerase
+C1823172,http://purl.uniprot.org/opentargets/ENSG00000179085,http://purl.uniprot.org/uniprot/Q9P2X0,http://purl.uniprot.org/taxonomy/9606,Dolichol-phosphate mannosyltransferase subunit 3
+C1416994,http://purl.uniprot.org/opentargets/ENSG00000181830,http://purl.uniprot.org/uniprot/Q96A29,http://purl.uniprot.org/taxonomy/9606,GDP-fucose transporter 1
+C1418674,http://purl.uniprot.org/opentargets/ENSG00000183010,http://purl.uniprot.org/uniprot/P32322,http://purl.uniprot.org/taxonomy/9606,"Pyrroline-5-carboxylate reductase 1, mitochondrial"
+C1420129,http://purl.uniprot.org/opentargets/ENSG00000187140,http://purl.uniprot.org/uniprot/Q9UJU5,http://purl.uniprot.org/taxonomy/9606,Forkhead box protein D3
+C1417244,http://purl.uniprot.org/opentargets/ENSG00000187714,http://purl.uniprot.org/uniprot/Q16572,http://purl.uniprot.org/taxonomy/9606,Vesicular acetylcholine transporter
+C1418674,http://purl.uniprot.org/opentargets/ENSG00000188157,http://purl.uniprot.org/uniprot/O00468,http://purl.uniprot.org/taxonomy/9606,Agrin
+C1423541,http://purl.uniprot.org/opentargets/ENSG00000196639,http://purl.uniprot.org/uniprot/P35367,http://purl.uniprot.org/taxonomy/9606,Histamine H1 receptor
+C1332828,http://purl.uniprot.org/opentargets/ENSG00000198380,http://purl.uniprot.org/uniprot/Q06210,http://purl.uniprot.org/taxonomy/9606,Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 1
+C1825598,http://purl.uniprot.org/opentargets/ENSG00000206561,http://purl.uniprot.org/uniprot/Q9Y215,http://purl.uniprot.org/taxonomy/9606,Acetylcholinesterase collagenic tail peptide
+C1333933,http://purl.uniprot.org/opentargets/ENSG00000249915,http://purl.uniprot.org/uniprot/O75340,http://purl.uniprot.org/taxonomy/9606,Programmed cell death protein 6
+C1538301,http://purl.uniprot.org/opentargets/ENSG00000253710,http://purl.uniprot.org/uniprot/Q2TAA5,http://purl.uniprot.org/taxonomy/9606,"GDP-Man:Man(3)GlcNAc(2)-PP-Dol alpha-1,2-mannosyltransferase"
+C1825598,http://purl.uniprot.org/opentargets/ENSG00000008086,http://purl.uniprot.org/uniprot/O76039,http://purl.uniprot.org/taxonomy/9606,Cyclin-dependent kinase-like 5
+C1425330,http://purl.uniprot.org/opentargets/ENSG00000060982,http://purl.uniprot.org/uniprot/P54687,http://purl.uniprot.org/taxonomy/9606,"Branched-chain-amino-acid aminotransferase, cytosolic"
+C1424950,http://purl.uniprot.org/opentargets/ENSG00000066427,http://purl.uniprot.org/uniprot/P54252,http://purl.uniprot.org/taxonomy/9606,Ataxin-3
+C1427818,http://purl.uniprot.org/opentargets/ENSG00000072310,http://purl.uniprot.org/uniprot/P36956,http://purl.uniprot.org/taxonomy/9606,Sterol regulatory element-binding protein 1
+C1424584,http://purl.uniprot.org/opentargets/ENSG00000074416,http://purl.uniprot.org/uniprot/Q99685,http://purl.uniprot.org/taxonomy/9606,Monoglyceride lipase
+C1418251,http://purl.uniprot.org/opentargets/ENSG00000086991,http://purl.uniprot.org/uniprot/Q9NPH5,http://purl.uniprot.org/taxonomy/9606,NADPH oxidase 4
+C1418251,http://purl.uniprot.org/opentargets/ENSG00000087842,http://purl.uniprot.org/uniprot/O00625,http://purl.uniprot.org/taxonomy/9606,Pirin
+C1539297,http://purl.uniprot.org/opentargets/ENSG00000089220,http://purl.uniprot.org/uniprot/P30086,http://purl.uniprot.org/taxonomy/9606,Phosphatidylethanolamine-binding protein 1
+C1420371,http://purl.uniprot.org/opentargets/ENSG00000100031,http://purl.uniprot.org/uniprot/P19440,http://purl.uniprot.org/taxonomy/9606,Glutathione hydrolase 1 proenzyme
+C1419182,http://purl.uniprot.org/opentargets/ENSG00000101294,http://purl.uniprot.org/uniprot/Q8TCT9,http://purl.uniprot.org/taxonomy/9606,Minor histocompatibility antigen H13
+C1421449,http://purl.uniprot.org/opentargets/ENSG00000101680,http://purl.uniprot.org/uniprot/P25391,http://purl.uniprot.org/taxonomy/9606,Laminin subunit alpha-1
+C1824234,http://purl.uniprot.org/opentargets/ENSG00000101986,http://purl.uniprot.org/uniprot/P33897,http://purl.uniprot.org/taxonomy/9606,ATP-binding cassette sub-family D member 1
+C1415012,http://purl.uniprot.org/opentargets/ENSG00000102034,http://purl.uniprot.org/uniprot/Q99607,http://purl.uniprot.org/taxonomy/9606,ETS-related transcription factor Elf-4
+C1414133,http://purl.uniprot.org/opentargets/ENSG00000102158,http://purl.uniprot.org/uniprot/Q9H0U3,http://purl.uniprot.org/taxonomy/9606,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit MAGT1
+C1418674,http://purl.uniprot.org/opentargets/ENSG00000102312,http://purl.uniprot.org/uniprot/Q9H237,http://purl.uniprot.org/taxonomy/9606,Protein-serine O-palmitoleoyltransferase porcupine
+C1423594,http://purl.uniprot.org/opentargets/ENSG00000104936,http://purl.uniprot.org/uniprot/Q09013,http://purl.uniprot.org/taxonomy/9606,Myotonin-protein kinase
+C1425836,http://purl.uniprot.org/opentargets/ENSG00000107147,http://purl.uniprot.org/uniprot/Q5JUK3,http://purl.uniprot.org/taxonomy/9606,Potassium channel subfamily T member 1
+C1333357,http://purl.uniprot.org/opentargets/ENSG00000108176,http://purl.uniprot.org/uniprot/Q9UKB3,http://purl.uniprot.org/taxonomy/9606,DnaJ homolog subfamily C member 12
+C1539623,http://purl.uniprot.org/opentargets/ENSG00000108813,http://purl.uniprot.org/uniprot/Q92988,http://purl.uniprot.org/taxonomy/9606,Homeobox protein DLX-4
+C1426803,http://purl.uniprot.org/opentargets/ENSG00000108960,http://purl.uniprot.org/uniprot/Q15546,http://purl.uniprot.org/taxonomy/9606,Monocyte to macrophage differentiation factor
+C1414085,http://purl.uniprot.org/opentargets/ENSG00000110400,http://purl.uniprot.org/uniprot/Q15223,http://purl.uniprot.org/taxonomy/9606,Nectin-1
+C2681112,http://purl.uniprot.org/opentargets/ENSG00000111817,http://purl.uniprot.org/uniprot/Q9UL01,http://purl.uniprot.org/taxonomy/9606,Dermatan-sulfate epimerase
+C1413554,http://purl.uniprot.org/opentargets/ENSG00000112799,http://purl.uniprot.org/uniprot/O95711,http://purl.uniprot.org/taxonomy/9606,Lymphocyte antigen 86
+C1420371,http://purl.uniprot.org/opentargets/ENSG00000116096,http://purl.uniprot.org/uniprot/P35270,http://purl.uniprot.org/taxonomy/9606,Sepiapterin reductase
+C1413943,http://purl.uniprot.org/opentargets/ENSG00000118432,http://purl.uniprot.org/uniprot/P21554,http://purl.uniprot.org/taxonomy/9606,Cannabinoid receptor 1
+C1418217,http://purl.uniprot.org/opentargets/ENSG00000118729,http://purl.uniprot.org/uniprot/O14958,http://purl.uniprot.org/taxonomy/9606,Calsequestrin-2
+C1538703,http://purl.uniprot.org/opentargets/ENSG00000122783,http://purl.uniprot.org/uniprot/Q9BWK5,http://purl.uniprot.org/taxonomy/9606,Cell cycle regulator of non-homologous end joining
+C1419212,http://purl.uniprot.org/opentargets/ENSG00000127831,http://purl.uniprot.org/uniprot/P09327,http://purl.uniprot.org/taxonomy/9606,Villin-1
+C1442515,http://purl.uniprot.org/opentargets/ENSG00000128052,http://purl.uniprot.org/uniprot/P35968,http://purl.uniprot.org/taxonomy/9606,Vascular endothelial growth factor receptor 2
+C2239422,http://purl.uniprot.org/opentargets/ENSG00000131979,http://purl.uniprot.org/uniprot/P30793,http://purl.uniprot.org/taxonomy/9606,GTP cyclohydrolase 1
+C1414078,http://purl.uniprot.org/opentargets/ENSG00000132437,http://purl.uniprot.org/uniprot/P20711,http://purl.uniprot.org/taxonomy/9606,Aromatic-L-amino-acid decarboxylase
+C1412296,http://purl.uniprot.org/opentargets/ENSG00000134489,http://purl.uniprot.org/uniprot/Q9H3N8,http://purl.uniprot.org/taxonomy/9606,Histamine H4 receptor
+C1416775,http://purl.uniprot.org/opentargets/ENSG00000134569,http://purl.uniprot.org/uniprot/O75096,http://purl.uniprot.org/taxonomy/9606,Low-density lipoprotein receptor-related protein 4
+C1417497,http://purl.uniprot.org/opentargets/ENSG00000135346,http://purl.uniprot.org/uniprot/P01215,http://purl.uniprot.org/taxonomy/9606,Glycoprotein hormones alpha chain
+C1419142,http://purl.uniprot.org/opentargets/ENSG00000136960,http://purl.uniprot.org/uniprot/Q13822,http://purl.uniprot.org/taxonomy/9606,Autotaxin
+C1418392,http://purl.uniprot.org/opentargets/ENSG00000140650,http://purl.uniprot.org/uniprot/O15305,http://purl.uniprot.org/taxonomy/9606,Phosphomannomutase 2
+C1419149,http://purl.uniprot.org/opentargets/ENSG00000141627,http://purl.uniprot.org/uniprot/Q7RTS9,http://purl.uniprot.org/taxonomy/9606,Dymeclin
+C1412084,http://purl.uniprot.org/opentargets/ENSG00000144566,http://purl.uniprot.org/uniprot/P20339,http://purl.uniprot.org/taxonomy/9606,Ras-related protein Rab-5A
+C1417668,http://purl.uniprot.org/opentargets/ENSG00000145192,http://purl.uniprot.org/uniprot/P02765,http://purl.uniprot.org/taxonomy/9606,Alpha-2-HS-glycoprotein
+C1414408,http://purl.uniprot.org/opentargets/ENSG00000147246,http://purl.uniprot.org/uniprot/P28335,http://purl.uniprot.org/taxonomy/9606,5-hydroxytryptamine receptor 2C
+C1334103,http://purl.uniprot.org/opentargets/ENSG00000149187,http://purl.uniprot.org/uniprot/Q92879,http://purl.uniprot.org/taxonomy/9606,CUGBP Elav-like family member 1
+C1416886,http://purl.uniprot.org/opentargets/ENSG00000149295,http://purl.uniprot.org/uniprot/P14416,http://purl.uniprot.org/taxonomy/9606,D(2) dopamine receptor
+C1414052,http://purl.uniprot.org/opentargets/ENSG00000151092,http://purl.uniprot.org/uniprot/Q96IV0,http://purl.uniprot.org/taxonomy/9606,Peptide-N(4)-(N-acetyl-beta-glucosaminyl)asparagine amidase
+C1425330,http://purl.uniprot.org/opentargets/ENSG00000151552,http://purl.uniprot.org/uniprot/P09417,http://purl.uniprot.org/taxonomy/9606,Dihydropteridine reductase
+C1425023,http://purl.uniprot.org/opentargets/ENSG00000151914,http://purl.uniprot.org/uniprot/Q03001,http://purl.uniprot.org/taxonomy/9606,Dystonin
+C1418674,http://purl.uniprot.org/opentargets/ENSG00000154059,http://purl.uniprot.org/uniprot/Q9P2X3,http://purl.uniprot.org/taxonomy/9606,Protein IMPACT
+C1334103,http://purl.uniprot.org/opentargets/ENSG00000154310,http://purl.uniprot.org/uniprot/Q9UKE5,http://purl.uniprot.org/taxonomy/9606,TRAF2 and NCK-interacting protein kinase
+C1422546,http://purl.uniprot.org/opentargets/ENSG00000154589,http://purl.uniprot.org/uniprot/Q9Y6Y9,http://purl.uniprot.org/taxonomy/9606,Lymphocyte antigen 96
+C1424783,http://purl.uniprot.org/opentargets/ENSG00000157764,http://purl.uniprot.org/uniprot/P15056,http://purl.uniprot.org/taxonomy/9606,Serine/threonine-protein kinase B-raf
+C1414377,http://purl.uniprot.org/opentargets/ENSG00000158517,http://purl.uniprot.org/uniprot/P14598,http://purl.uniprot.org/taxonomy/9606,Neutrophil cytosol factor 1
+C2239666,http://purl.uniprot.org/opentargets/ENSG00000160097,http://purl.uniprot.org/uniprot/Q8NAU1,http://purl.uniprot.org/taxonomy/9606,Fibronectin type III domain-containing protein 5
+C1442515,http://purl.uniprot.org/opentargets/ENSG00000160131,http://purl.uniprot.org/uniprot/Q3ZAQ7,http://purl.uniprot.org/taxonomy/9606,Vacuolar ATPase assembly integral membrane protein VMA21
+C1539312,http://purl.uniprot.org/opentargets/ENSG00000160613,http://purl.uniprot.org/uniprot/Q16549,http://purl.uniprot.org/taxonomy/9606,Proprotein convertase subtilisin/kexin type 7
+C1334103,http://purl.uniprot.org/opentargets/ENSG00000161610,http://purl.uniprot.org/uniprot/O43612,http://purl.uniprot.org/taxonomy/9606,Hypocretin neuropeptide precursor
+C1415811,http://purl.uniprot.org/opentargets/ENSG00000163161,http://purl.uniprot.org/uniprot/P19447,http://purl.uniprot.org/taxonomy/9606,General transcription and DNA repair factor IIH helicase/translocase subunit XPB
+C1415811,http://purl.uniprot.org/opentargets/ENSG00000163431,http://purl.uniprot.org/uniprot/P29536,http://purl.uniprot.org/taxonomy/9606,Leiomodin-1
+C1425150,http://purl.uniprot.org/opentargets/ENSG00000164751,http://purl.uniprot.org/uniprot/P28328,http://purl.uniprot.org/taxonomy/9606,Peroxisome biogenesis factor 2
+C1825598,http://purl.uniprot.org/opentargets/ENSG00000165168,http://purl.uniprot.org/uniprot/P04839,http://purl.uniprot.org/taxonomy/9606,NADPH oxidase 2
+C1417198,http://purl.uniprot.org/opentargets/ENSG00000168081,http://purl.uniprot.org/uniprot/Q13519,http://purl.uniprot.org/taxonomy/9606,Prepronociceptin
+C1418674,http://purl.uniprot.org/opentargets/ENSG00000169194,http://purl.uniprot.org/uniprot/P35225,http://purl.uniprot.org/taxonomy/9606,Interleukin-13
+C1415500,http://purl.uniprot.org/opentargets/ENSG00000169313,http://purl.uniprot.org/uniprot/Q9H244,http://purl.uniprot.org/taxonomy/9606,P2Y purinoceptor 12
+C1414085,http://purl.uniprot.org/opentargets/ENSG00000169860,http://purl.uniprot.org/uniprot/P47900,http://purl.uniprot.org/taxonomy/9606,P2Y purinoceptor 1
+C1420398,http://purl.uniprot.org/opentargets/ENSG00000170876,http://purl.uniprot.org/uniprot/Q9BTV4,http://purl.uniprot.org/taxonomy/9606,Transmembrane protein 43
+C1418568,http://purl.uniprot.org/opentargets/ENSG00000171759,http://purl.uniprot.org/uniprot/P00439,http://purl.uniprot.org/taxonomy/9606,Phenylalanine-4-hydroxylase
+C0919427,http://purl.uniprot.org/opentargets/ENSG00000172269,http://purl.uniprot.org/uniprot/Q9H3H5,http://purl.uniprot.org/taxonomy/9606,UDP-N-acetylglucosamine--dolichyl-phosphate N-acetylglucosaminephosphotransferase
+C1333253,http://purl.uniprot.org/opentargets/ENSG00000173614,http://purl.uniprot.org/uniprot/Q9HAN9,http://purl.uniprot.org/taxonomy/9606,Nicotinamide/nicotinic acid mononucleotide adenylyltransferase 1
+C1420484,http://purl.uniprot.org/opentargets/ENSG00000174343,http://purl.uniprot.org/uniprot/Q9UGM1,http://purl.uniprot.org/taxonomy/9606,Neuronal acetylcholine receptor subunit alpha-9
+C1420527,http://purl.uniprot.org/opentargets/ENSG00000177000,http://purl.uniprot.org/uniprot/P42898,http://purl.uniprot.org/taxonomy/9606,Methylenetetrahydrofolate reductase (NADPH)
+C1427359,http://purl.uniprot.org/opentargets/ENSG00000177600,http://purl.uniprot.org/uniprot/P05387,http://purl.uniprot.org/taxonomy/9606,Large ribosomal subunit protein P2
+C1538301,http://purl.uniprot.org/opentargets/ENSG00000178752,http://purl.uniprot.org/uniprot/Q4G0M1,http://purl.uniprot.org/taxonomy/9606,Erythroferrone
+C1424584,http://purl.uniprot.org/opentargets/ENSG00000180155,http://purl.uniprot.org/uniprot/P0DP58,http://purl.uniprot.org/taxonomy/9606,Ly-6/neurotoxin-like protein 1
+C1826565,http://purl.uniprot.org/opentargets/ENSG00000184845,http://purl.uniprot.org/uniprot/P21728,http://purl.uniprot.org/taxonomy/9606,D(1A) dopamine receptor
+C1422395,http://purl.uniprot.org/opentargets/ENSG00000187714,http://purl.uniprot.org/uniprot/Q16572,http://purl.uniprot.org/taxonomy/9606,Vesicular acetylcholine transporter
+C1420116,http://purl.uniprot.org/opentargets/ENSG00000196218,http://purl.uniprot.org/uniprot/P21817,http://purl.uniprot.org/taxonomy/9606,Ryanodine receptor 1
+C1539322,http://purl.uniprot.org/opentargets/ENSG00000196338,http://purl.uniprot.org/uniprot/Q9NZ94,http://purl.uniprot.org/taxonomy/9606,Neuroligin-3
+C1413406,http://purl.uniprot.org/opentargets/ENSG00000197563,http://purl.uniprot.org/uniprot/O95427,http://purl.uniprot.org/taxonomy/9606,GPI ethanolamine phosphate transferase 1
+C1537627,http://purl.uniprot.org/opentargets/ENSG00000198380,http://purl.uniprot.org/uniprot/Q06210,http://purl.uniprot.org/taxonomy/9606,Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 1
+C1333250,http://purl.uniprot.org/opentargets/ENSG00000211448,http://purl.uniprot.org/uniprot/Q92813,http://purl.uniprot.org/taxonomy/9606,Type II iodothyronine deiodinase
+C1538650,http://purl.uniprot.org/opentargets/ENSG00000215182,http://purl.uniprot.org/uniprot/P98088,http://purl.uniprot.org/taxonomy/9606,Mucin-5AC
+C1413824,http://purl.uniprot.org/opentargets/ENSG00000215193,http://purl.uniprot.org/uniprot/Q7Z412,http://purl.uniprot.org/taxonomy/9606,Peroxisome assembly protein 26
+C1416916,http://purl.uniprot.org/opentargets/ENSG00000272047,http://purl.uniprot.org/uniprot/Q6ZYL4,http://purl.uniprot.org/taxonomy/9606,General transcription factor IIH subunit 5
+C1417608,http://purl.uniprot.org/opentargets/ENSG00000277586,http://purl.uniprot.org/uniprot/P07196,http://purl.uniprot.org/taxonomy/9606,Neurofilament light polypeptide
+C1825598,http://purl.uniprot.org/opentargets/ENSG00000007314,http://purl.uniprot.org/uniprot/P35499,http://purl.uniprot.org/taxonomy/9606,Sodium channel protein type 4 subunit alpha
+C1425023,http://purl.uniprot.org/opentargets/ENSG00000008311,http://purl.uniprot.org/uniprot/Q9UDR5,http://purl.uniprot.org/taxonomy/9606,"Alpha-aminoadipic semialdehyde synthase, mitochondrial"
+C1539585,http://purl.uniprot.org/opentargets/ENSG00000033011,http://purl.uniprot.org/uniprot/Q9BT22,http://purl.uniprot.org/taxonomy/9606,Chitobiosyldiphosphodolichol beta-mannosyltransferase
+C1418674,http://purl.uniprot.org/opentargets/ENSG00000060982,http://purl.uniprot.org/uniprot/P54687,http://purl.uniprot.org/taxonomy/9606,"Branched-chain-amino-acid aminotransferase, cytosolic"
+C1416994,http://purl.uniprot.org/opentargets/ENSG00000065427,http://purl.uniprot.org/uniprot/Q15046,http://purl.uniprot.org/taxonomy/9606,Lysine--tRNA ligase
+C1419129,http://purl.uniprot.org/opentargets/ENSG00000066322,http://purl.uniprot.org/uniprot/Q9BW60,http://purl.uniprot.org/taxonomy/9606,Very long chain fatty acid elongase 1
+C1412691,http://purl.uniprot.org/opentargets/ENSG00000071553,http://purl.uniprot.org/uniprot/Q15904,http://purl.uniprot.org/taxonomy/9606,V-type proton ATPase subunit S1
+C1418478,http://purl.uniprot.org/opentargets/ENSG00000076770,http://purl.uniprot.org/uniprot/Q9NUK0,http://purl.uniprot.org/taxonomy/9606,Muscleblind-like protein 3
+C1418469,http://purl.uniprot.org/opentargets/ENSG00000077279,http://purl.uniprot.org/uniprot/O43602,http://purl.uniprot.org/taxonomy/9606,Neuronal migration protein doublecortin
+C1418526,http://purl.uniprot.org/opentargets/ENSG00000078328,http://purl.uniprot.org/uniprot/Q9NWB1,http://purl.uniprot.org/taxonomy/9606,RNA binding protein fox-1 homolog 1
+C1419149,http://purl.uniprot.org/opentargets/ENSG00000099940,http://purl.uniprot.org/uniprot/O95721,http://purl.uniprot.org/taxonomy/9606,Synaptosomal-associated protein 29
+C1420271,http://purl.uniprot.org/opentargets/ENSG00000100031,http://purl.uniprot.org/uniprot/P19440,http://purl.uniprot.org/taxonomy/9606,Glutathione hydrolase 1 proenzyme
+C1412107,http://purl.uniprot.org/opentargets/ENSG00000100320,http://purl.uniprot.org/uniprot/O43251,http://purl.uniprot.org/taxonomy/9606,RNA binding protein fox-1 homolog 2
+C1825598,http://purl.uniprot.org/opentargets/ENSG00000102158,http://purl.uniprot.org/uniprot/Q9H0U3,http://purl.uniprot.org/taxonomy/9606,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit MAGT1
+C1420311,http://purl.uniprot.org/opentargets/ENSG00000102174,http://purl.uniprot.org/uniprot/P78562,http://purl.uniprot.org/taxonomy/9606,Phosphate-regulating neutral endopeptidase PHEX
+C1418674,http://purl.uniprot.org/opentargets/ENSG00000104870,http://purl.uniprot.org/uniprot/P55899,http://purl.uniprot.org/taxonomy/9606,IgG receptor FcRn large subunit p51
+C1415009,http://purl.uniprot.org/opentargets/ENSG00000105607,http://purl.uniprot.org/uniprot/Q92947,http://purl.uniprot.org/taxonomy/9606,"Glutaryl-CoA dehydrogenase, mitochondrial"
+C1425023,http://purl.uniprot.org/opentargets/ENSG00000115275,http://purl.uniprot.org/uniprot/Q13724,http://purl.uniprot.org/taxonomy/9606,Mannosyl-oligosaccharide glucosidase
+C1420076,http://purl.uniprot.org/opentargets/ENSG00000116906,http://purl.uniprot.org/uniprot/O15228,http://purl.uniprot.org/taxonomy/9606,Dihydroxyacetone phosphate acyltransferase
+C1425023,http://purl.uniprot.org/opentargets/ENSG00000117054,http://purl.uniprot.org/uniprot/P11310,http://purl.uniprot.org/taxonomy/9606,"Medium-chain specific acyl-CoA dehydrogenase, mitochondrial"
+C1425829,http://purl.uniprot.org/opentargets/ENSG00000124222,http://purl.uniprot.org/uniprot/O14662,http://purl.uniprot.org/taxonomy/9606,Syntaxin-16
+C1416681,http://purl.uniprot.org/opentargets/ENSG00000124587,http://purl.uniprot.org/uniprot/Q13608,http://purl.uniprot.org/taxonomy/9606,Peroxisomal ATPase PEX6
+C1832467,http://purl.uniprot.org/opentargets/ENSG00000127980,http://purl.uniprot.org/uniprot/O43933,http://purl.uniprot.org/taxonomy/9606,Peroxisomal ATPase PEX1
+C1416994,http://purl.uniprot.org/opentargets/ENSG00000129195,http://purl.uniprot.org/uniprot/Q9BSJ6,http://purl.uniprot.org/taxonomy/9606,Protein PIMREG
+C1823430,http://purl.uniprot.org/opentargets/ENSG00000129255,http://purl.uniprot.org/uniprot/O75352,http://purl.uniprot.org/taxonomy/9606,Mannose-P-dolichol utilization defect 1 protein
+C1418674,http://purl.uniprot.org/opentargets/ENSG00000130714,http://purl.uniprot.org/uniprot/Q9Y6A1,http://purl.uniprot.org/taxonomy/9606,Protein O-mannosyl-transferase 1
+C1417235,http://purl.uniprot.org/opentargets/ENSG00000130810,http://purl.uniprot.org/uniprot/Q9NQ55,http://purl.uniprot.org/taxonomy/9606,Suppressor of SWI4 1 homolog
+C1420271,http://purl.uniprot.org/opentargets/ENSG00000134001,http://purl.uniprot.org/uniprot/P05198,http://purl.uniprot.org/taxonomy/9606,Eukaryotic translation initiation factor 2 subunit 1
+C1416681,http://purl.uniprot.org/opentargets/ENSG00000134569,http://purl.uniprot.org/uniprot/O75096,http://purl.uniprot.org/taxonomy/9606,Low-density lipoprotein receptor-related protein 4
+C1425428,http://purl.uniprot.org/opentargets/ENSG00000134851,http://purl.uniprot.org/uniprot/Q9HC07,http://purl.uniprot.org/taxonomy/9606,Putative divalent cation/proton antiporter TMEM165
+C1415178,http://purl.uniprot.org/opentargets/ENSG00000135902,http://purl.uniprot.org/uniprot/Q07001,http://purl.uniprot.org/taxonomy/9606,Acetylcholine receptor subunit delta
+C1413573,http://purl.uniprot.org/opentargets/ENSG00000136450,http://purl.uniprot.org/uniprot/Q07955,http://purl.uniprot.org/taxonomy/9606,Serine/arginine-rich splicing factor 1
+C1418773,http://purl.uniprot.org/opentargets/ENSG00000136717,http://purl.uniprot.org/uniprot/O00499,http://purl.uniprot.org/taxonomy/9606,Myc box-dependent-interacting protein 1
+C1420557,http://purl.uniprot.org/opentargets/ENSG00000137474,http://purl.uniprot.org/uniprot/Q13402,http://purl.uniprot.org/taxonomy/9606,Unconventional myosin-VIIa
+C1416821,http://purl.uniprot.org/opentargets/ENSG00000140263,http://purl.uniprot.org/uniprot/Q00796,http://purl.uniprot.org/taxonomy/9606,Sorbitol dehydrogenase
+C1423541,http://purl.uniprot.org/opentargets/ENSG00000140650,http://purl.uniprot.org/uniprot/O15305,http://purl.uniprot.org/taxonomy/9606,Phosphomannomutase 2
+C2239666,http://purl.uniprot.org/opentargets/ENSG00000142657,http://purl.uniprot.org/uniprot/P52209,http://purl.uniprot.org/taxonomy/9606,"6-phosphogluconate dehydrogenase, decarboxylating"
+C1412687,http://purl.uniprot.org/opentargets/ENSG00000143315,http://purl.uniprot.org/uniprot/Q9H3S5,http://purl.uniprot.org/taxonomy/9606,GPI mannosyltransferase 1
+C1414139,http://purl.uniprot.org/opentargets/ENSG00000143632,http://purl.uniprot.org/uniprot/P68133,http://purl.uniprot.org/taxonomy/9606,"Actin, alpha skeletal muscle"
+C2239666,http://purl.uniprot.org/opentargets/ENSG00000143858,http://purl.uniprot.org/uniprot/Q8N9I0,http://purl.uniprot.org/taxonomy/9606,Synaptotagmin-2
+C1425023,http://purl.uniprot.org/opentargets/ENSG00000144591,http://purl.uniprot.org/uniprot/Q96IJ6,http://purl.uniprot.org/taxonomy/9606,Mannose-1-phosphate guanylyltransferase regulatory subunit alpha
+C1418674,http://purl.uniprot.org/opentargets/ENSG00000150787,http://purl.uniprot.org/uniprot/Q03393,http://purl.uniprot.org/taxonomy/9606,6-pyruvoyl tetrahydrobiopterin synthase
+C1426941,http://purl.uniprot.org/opentargets/ENSG00000151092,http://purl.uniprot.org/uniprot/Q96IV0,http://purl.uniprot.org/taxonomy/9606,Peptide-N(4)-(N-acetyl-beta-glucosaminyl)asparagine amidase
+C1418752,http://purl.uniprot.org/opentargets/ENSG00000152601,http://purl.uniprot.org/uniprot/Q9NR56,http://purl.uniprot.org/taxonomy/9606,Muscleblind-like protein 1
+C1419149,http://purl.uniprot.org/opentargets/ENSG00000154059,http://purl.uniprot.org/uniprot/Q9P2X3,http://purl.uniprot.org/taxonomy/9606,Protein IMPACT
+C1418469,http://purl.uniprot.org/opentargets/ENSG00000154589,http://purl.uniprot.org/uniprot/Q9Y6Y9,http://purl.uniprot.org/taxonomy/9606,Lymphocyte antigen 96
+C1418470,http://purl.uniprot.org/opentargets/ENSG00000155380,http://purl.uniprot.org/uniprot/P53985,http://purl.uniprot.org/taxonomy/9606,Monocarboxylate transporter 1
+C1418526,http://purl.uniprot.org/opentargets/ENSG00000157911,http://purl.uniprot.org/uniprot/O60683,http://purl.uniprot.org/taxonomy/9606,Peroxisome biogenesis factor 10
+C1418469,http://purl.uniprot.org/opentargets/ENSG00000162738,http://purl.uniprot.org/uniprot/Q9ULK5,http://purl.uniprot.org/taxonomy/9606,Vang-like protein 2
+C1418474,http://purl.uniprot.org/opentargets/ENSG00000162928,http://purl.uniprot.org/uniprot/Q92968,http://purl.uniprot.org/taxonomy/9606,Peroxisomal membrane protein PEX13
+C1415166,http://purl.uniprot.org/opentargets/ENSG00000164344,http://purl.uniprot.org/uniprot/P03952,http://purl.uniprot.org/taxonomy/9606,Plasma kallikrein
+C1419149,http://purl.uniprot.org/opentargets/ENSG00000164751,http://purl.uniprot.org/uniprot/P28328,http://purl.uniprot.org/taxonomy/9606,Peroxisome biogenesis factor 2
+C1427818,http://purl.uniprot.org/opentargets/ENSG00000164904,http://purl.uniprot.org/uniprot/P49419,http://purl.uniprot.org/taxonomy/9606,Alpha-aminoadipic semialdehyde dehydrogenase
+C1419149,http://purl.uniprot.org/opentargets/ENSG00000165917,http://purl.uniprot.org/uniprot/Q13702,http://purl.uniprot.org/taxonomy/9606,43 kDa receptor-associated protein of the synapse
+C1418469,http://purl.uniprot.org/opentargets/ENSG00000166685,http://purl.uniprot.org/uniprot/Q8WTW3,http://purl.uniprot.org/taxonomy/9606,Conserved oligomeric Golgi complex subunit 1
+C1413938,http://purl.uniprot.org/opentargets/ENSG00000170873,http://purl.uniprot.org/uniprot/O43312,http://purl.uniprot.org/taxonomy/9606,Protein MTSS 1
+C1419149,http://purl.uniprot.org/opentargets/ENSG00000171298,http://purl.uniprot.org/uniprot/P10253,http://purl.uniprot.org/taxonomy/9606,Lysosomal alpha-glucosidase
+C1417055,http://purl.uniprot.org/opentargets/ENSG00000172037,http://purl.uniprot.org/uniprot/P55268,http://purl.uniprot.org/taxonomy/9606,Laminin subunit beta-2
+C1419304,http://purl.uniprot.org/opentargets/ENSG00000173230,http://purl.uniprot.org/uniprot/Q14789,http://purl.uniprot.org/taxonomy/9606,Golgin subfamily B member 1
+C1854634,http://purl.uniprot.org/opentargets/ENSG00000177045,http://purl.uniprot.org/uniprot/Q8N196,http://purl.uniprot.org/taxonomy/9606,Homeobox protein SIX5
+C1412477,http://purl.uniprot.org/opentargets/ENSG00000177239,http://purl.uniprot.org/uniprot/Q9UKM7,http://purl.uniprot.org/taxonomy/9606,"Endoplasmic reticulum mannosyl-oligosaccharide 1,2-alpha-mannosidase"
+C1332412,http://purl.uniprot.org/opentargets/ENSG00000177600,http://purl.uniprot.org/uniprot/P05387,http://purl.uniprot.org/taxonomy/9606,Large ribosomal subunit protein P2
+C1414899,http://purl.uniprot.org/opentargets/ENSG00000179085,http://purl.uniprot.org/uniprot/Q9P2X0,http://purl.uniprot.org/taxonomy/9606,Dolichol-phosphate mannosyltransferase subunit 3
+C1425280,http://purl.uniprot.org/opentargets/ENSG00000196218,http://purl.uniprot.org/uniprot/P21817,http://purl.uniprot.org/taxonomy/9606,Ryanodine receptor 1
+C1417055,http://purl.uniprot.org/opentargets/ENSG00000196811,http://purl.uniprot.org/uniprot/P07510,http://purl.uniprot.org/taxonomy/9606,Acetylcholine receptor subunit gamma
+C1419862,http://purl.uniprot.org/opentargets/ENSG00000197467,http://purl.uniprot.org/uniprot/Q5TAT6,http://purl.uniprot.org/taxonomy/9606,Collagen alpha-1(XIII) chain
+C1419778,http://purl.uniprot.org/opentargets/ENSG00000215193,http://purl.uniprot.org/uniprot/Q7Z412,http://purl.uniprot.org/taxonomy/9606,Peroxisome assembly protein 26
+C1414334,http://purl.uniprot.org/opentargets/ENSG00000234906,http://purl.uniprot.org/uniprot/P02655,http://purl.uniprot.org/taxonomy/9606,Apolipoprotein C-II
+C1417055,http://purl.uniprot.org/opentargets/ENSG00000272047,http://purl.uniprot.org/uniprot/Q6ZYL4,http://purl.uniprot.org/taxonomy/9606,General transcription factor IIH subunit 5
+C1333357,http://purl.uniprot.org/opentargets/ENSG00000090674,http://purl.uniprot.org/uniprot/Q9GZU1,http://purl.uniprot.org/taxonomy/9606,Mucolipin-1
+C1422805,http://purl.uniprot.org/opentargets/ENSG00000122126,http://purl.uniprot.org/uniprot/Q01968,http://purl.uniprot.org/taxonomy/9606,Inositol polyphosphate 5-phosphatase OCRL
+C1825598,http://purl.uniprot.org/opentargets/ENSG00000129991,http://purl.uniprot.org/uniprot/P19429,http://purl.uniprot.org/taxonomy/9606,"Troponin I, cardiac muscle"
+C1417931,http://purl.uniprot.org/opentargets/ENSG00000136235,http://purl.uniprot.org/uniprot/Q14956,http://purl.uniprot.org/taxonomy/9606,Transmembrane glycoprotein NMB
+C1415205,http://purl.uniprot.org/opentargets/ENSG00000136960,http://purl.uniprot.org/uniprot/Q13822,http://purl.uniprot.org/taxonomy/9606,Autotaxin
+C1421947,http://purl.uniprot.org/opentargets/ENSG00000144452,http://purl.uniprot.org/uniprot/Q86UK0,http://purl.uniprot.org/taxonomy/9606,Glucosylceramide transporter ABCA12
+C1420826,http://purl.uniprot.org/opentargets/ENSG00000154059,http://purl.uniprot.org/uniprot/Q9P2X3,http://purl.uniprot.org/taxonomy/9606,Protein IMPACT
+C1417668,http://purl.uniprot.org/opentargets/ENSG00000163161,http://purl.uniprot.org/uniprot/P19447,http://purl.uniprot.org/taxonomy/9606,General transcription and DNA repair factor IIH helicase/translocase subunit XPB
+C1414408,http://purl.uniprot.org/opentargets/ENSG00000166228,http://purl.uniprot.org/uniprot/P61457,http://purl.uniprot.org/taxonomy/9606,Pterin-4-alpha-carbinolamine dehydratase
+C1418296,http://purl.uniprot.org/opentargets/ENSG00000277586,http://purl.uniprot.org/uniprot/P07196,http://purl.uniprot.org/taxonomy/9606,Neurofilament light polypeptide
