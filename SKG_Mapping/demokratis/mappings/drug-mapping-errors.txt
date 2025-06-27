@@ -1,0 +1,49 @@
+failed compound name to cid lookup for UMLS C0026457 Monoamine Oxidase Inhibitors
+failed compound name to cid lookup for UMLS C0060794 fucoidan
+failed compound name to cid lookup for UMLS C3492623 N-1-(hydroxy(3-oxo-2-phenyl-1-cyclopropen-1-yl)methyl)-2-methylpropyl-2-benzenesulfonylamino-4-methylpentanamide
+failed compound name to cid lookup for UMLS C0042672 Vinca Alkaloids
+failed compound name to cid lookup for UMLS C0017082 Gangliosides
+failed compound name to cid lookup for UMLS C0017973 Glycosaminoglycans
+failed compound name to cid lookup for UMLS C0595726 Leukotriene Antagonists
+failed compound name to cid lookup for UMLS C0001617 Adrenal Cortex Hormones
+failed compound name to cid lookup for UMLS C0001617 Adrenal Cortex Hormones
+failed compound name to cid lookup for UMLS C0010463 Curare
+failed compound name to cid lookup for UMLS C0001617 Adrenal Cortex Hormones
+failed compound name to cid lookup for UMLS C0242209 Sugars
+failed compound name to cid lookup for UMLS C0001617 Adrenal Cortex Hormones
+failed compound name to cid lookup for UMLS C0001617 Adrenal Cortex Hormones
+failed compound name to cid lookup for UMLS C0360714 Hydroxymethylglutaryl-CoA Reductase Inhibitors
+failed compound name to cid lookup for UMLS C0038766 Sulfonylurea Compounds
+failed compound name to cid lookup for UMLS C3495434 Hydroxyethyl Starch Derivatives
+failed compound name to cid lookup for UMLS C0765956 4-(3-chlorophenylsulfanyl)piperidine
+failed compound name to cid lookup for UMLS C0032478 polyethylene glycol 400
+failed compound name to cid lookup for UMLS C0042890 Vitamins
+failed compound name to cid lookup for UMLS C0032483 Polyethylene Glycols
+failed compound name to cid lookup for UMLS C0016157 Fish Oils
+failed compound name to cid lookup for UMLS C0541746 Thiazides
+failed compound name to cid lookup for UMLS C0042866 Vitamin D
+failed compound name to cid lookup for UMLS C0360714 Hydroxymethylglutaryl-CoA Reductase Inhibitors
+failed compound name to cid lookup for UMLS C2976633 3-(1-hexylcyclobut-1-yl)-6a,7,8,9,10,10a-hexahydro-6,6-dimethyl-6H-dibenzo(b,d)pyran-1,9 diol
+failed compound name to cid lookup for UMLS C0032594 Polysaccharides
+failed compound name to cid lookup for UMLS C0765956 4-(3-chlorophenylsulfanyl)piperidine
+failed compound name to cid lookup for UMLS C0019590 Histamine Antagonists
+failed compound name to cid lookup for UMLS C0032594 Polysaccharides
+failed compound name to cid lookup for UMLS C0001617 Adrenal Cortex Hormones
+failed compound name to cid lookup for UMLS C0001617 Adrenal Cortex Hormones
+failed compound name to cid lookup for UMLS C0012802 Sodium Chloride Symporter Inhibitors
+failed compound name to cid lookup for UMLS C0033568 Prostaglandins, Synthetic
+failed compound name to cid lookup for UMLS C0001617 Adrenal Cortex Hormones
+failed compound name to cid lookup for UMLS C0017082 Gangliosides
+failed compound name to cid lookup for UMLS C0012802 Sodium Chloride Symporter Inhibitors
+failed compound name to cid lookup for UMLS C0212874 Lorenzo's oil
+failed compound name to cid lookup for UMLS C0019590 Histamine Antagonists
+failed compound name to cid lookup for UMLS C0001617 Adrenal Cortex Hormones
+failed compound name to cid lookup for UMLS C0001617 Adrenal Cortex Hormones
+failed compound name to cid lookup for UMLS C0001617 Adrenal Cortex Hormones
+failed compound name to cid lookup for UMLS C0541746 Thiazides
+failed compound name to cid lookup for UMLS C0541746 Thiazides
+failed compound name to cid lookup for UMLS C0032594 Polysaccharides
+failed compound name to cid lookup for UMLS C0032594 Polysaccharides
+failed compound name to cid lookup for UMLS C0212874 Lorenzo's oil
+failed compound name to cid lookup for UMLS C0033554 Prostaglandins
+failed compound name to cid lookup for UMLS C0042890 Vitamins
